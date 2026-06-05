@@ -1,0 +1,32 @@
+<!--
+{
+  "availability" : [
+
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXPaymentResultDelegate",
+  "metadataVersion" : "0.1.0",
+  "role" : "Protocol",
+  "symbol" : {
+    "kind" : "Protocol",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(pl)AWXPaymentResultDelegate"
+  },
+  "title" : "AWXPaymentResultDelegate"
+}
+-->
+
+# AWXPaymentResultDelegate
+
+```
+protocol AWXPaymentResultDelegate : NSObjectProtocol
+```
+
+## Instance Methods
+
+[`paymentViewController(_:didCompleteWith:error:)`](/documentation/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_:didcompletewith:error:))
+
+[`paymentViewController(_:didCompleteWithPaymentConsentId:)`](/documentation/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_:didcompletewithpaymentconsentid:))

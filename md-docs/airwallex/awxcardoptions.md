@@ -1,0 +1,34 @@
+<!--
+{
+  "availability" : [
+
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXCardOptions",
+  "metadataVersion" : "0.1.0",
+  "role" : "Class",
+  "symbol" : {
+    "kind" : "Class",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(cs)AWXCardOptions"
+  },
+  "title" : "AWXCardOptions"
+}
+-->
+
+# AWXCardOptions
+
+`AWXCardOptions` includes the options of card.
+
+```
+class AWXCardOptions
+```
+
+## Instance Properties
+
+[`autoCapture`](/documentation/airwallex/awxcardoptions/autocapture)
+
+[`threeDs`](/documentation/airwallex/awxcardoptions/threeds)

@@ -1,0 +1,36 @@
+<!--
+{
+  "availability" : [
+    "*: -"
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXApplePayProvider",
+  "metadataVersion" : "0.1.0",
+  "role" : "Class",
+  "symbol" : {
+    "kind" : "Class",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(cs)AWXApplePayProvider"
+  },
+  "title" : "AWXApplePayProvider"
+}
+-->
+
+# AWXApplePayProvider
+
+`AWXApplePayProvider` is a provider to handle payment method with Apple Pay.
+
+## Deprecated
+
+Will be removed in next major version release, use AirwallexPayment.ApplePayProvider instead
+
+```
+class AWXApplePayProvider
+```
+
+## Instance Methods
+
+[`startPayment()`](/documentation/airwallex/awxapplepayprovider/startpayment())

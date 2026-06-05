@@ -1,0 +1,36 @@
+<!--
+{
+  "availability" : [
+
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXVerifyPaymentConsentResponse",
+  "metadataVersion" : "0.1.0",
+  "role" : "Class",
+  "symbol" : {
+    "kind" : "Class",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(cs)AWXVerifyPaymentConsentResponse"
+  },
+  "title" : "AWXVerifyPaymentConsentResponse"
+}
+-->
+
+# AWXVerifyPaymentConsentResponse
+
+`AWXVerifyPaymentConsentResponse` includes the response of payment consent.
+
+```
+class AWXVerifyPaymentConsentResponse
+```
+
+## Instance Properties
+
+[`initialPaymentIntentId`](/documentation/airwallex/awxverifypaymentconsentresponse/initialpaymentintentid)
+
+[`nextAction`](/documentation/airwallex/awxverifypaymentconsentresponse/nextaction)
+
+[`status`](/documentation/airwallex/awxverifypaymentconsentresponse/status)

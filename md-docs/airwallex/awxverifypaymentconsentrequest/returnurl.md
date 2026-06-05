@@ -1,0 +1,28 @@
+<!--
+{
+  "availability" : [
+
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXVerifyPaymentConsentRequest/returnURL",
+  "metadataVersion" : "0.1.0",
+  "role" : "Instance Property",
+  "symbol" : {
+    "kind" : "Instance Property",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(cs)AWXVerifyPaymentConsentRequest(py)returnURL"
+  },
+  "title" : "returnURL"
+}
+-->
+
+# returnURL
+
+Return url.
+
+```
+var returnURL: String? { get set }
+```

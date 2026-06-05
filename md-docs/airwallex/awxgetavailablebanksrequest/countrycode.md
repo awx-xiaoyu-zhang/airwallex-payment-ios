@@ -1,0 +1,28 @@
+<!--
+{
+  "availability" : [
+
+  ],
+  "documentType" : "symbol",
+  "framework" : "Airwallex",
+  "identifier" : "/documentation/Airwallex/AWXGetAvailableBanksRequest/countryCode",
+  "metadataVersion" : "0.1.0",
+  "role" : "Instance Property",
+  "symbol" : {
+    "kind" : "Instance Property",
+    "modules" : [
+      "Airwallex"
+    ],
+    "preciseIdentifier" : "c:objc(cs)AWXGetAvailableBanksRequest(py)countryCode"
+  },
+  "title" : "countryCode"
+}
+-->
+
+# countryCode
+
+Flow.
+
+```
+var countryCode: String? { get set }
+```
