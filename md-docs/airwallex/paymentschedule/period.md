@@ -21,6 +21,8 @@
 
 # period
 
+**Instance Property**
+
 The number of period units between billing cycles.
 Required when merchant_trigger_reason = scheduled
 

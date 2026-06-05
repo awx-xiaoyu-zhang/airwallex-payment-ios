@@ -21,6 +21,8 @@
 
 # AWXDefaultProvider
 
+**Class**
+
 A provider which handles payment business.
 
 ```

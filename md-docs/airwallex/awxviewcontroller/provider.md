@@ -21,6 +21,8 @@
 
 # provider
 
+**Instance Property**
+
 Provider to handle session
 
 ```

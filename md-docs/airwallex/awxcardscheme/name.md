@@ -21,6 +21,8 @@
 
 # name
 
+**Instance Property**
+
 ```
 var name: String { get set }
 ```

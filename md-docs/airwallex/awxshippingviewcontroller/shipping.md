@@ -21,6 +21,8 @@
 
 # shipping
 
+**Instance Property**
+
 ```
 @objc @MainActor var shipping: AWXPlaceDetails?
 ```

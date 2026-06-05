@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.textPlaceholder
 
+**Case**
+
 ```
 case textPlaceholder
 ```

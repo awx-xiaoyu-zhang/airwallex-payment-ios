@@ -21,6 +21,8 @@
 
 # AWXAddress
 
+**Class**
+
 `AWXAddress` includes the information of an address.
 
 ```

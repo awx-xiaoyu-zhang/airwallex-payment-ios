@@ -21,6 +21,8 @@
 
 # appearance
 
+**Instance Property**
+
 Appearance configuration for customizing the visual style.
 Use this to customize the tint color used throughout the payment UI.
 When launched with a configuration, <code>appearance.tintColor</code> overrides <code>AWXTheme.shared().tintColor</code>.

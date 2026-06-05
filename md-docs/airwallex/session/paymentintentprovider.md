@@ -21,6 +21,8 @@
 
 # paymentIntentProvider
 
+**Instance Property**
+
 Provider for delayed payment intent creation.
 When set, the payment intent will be created just before confirmation.
 

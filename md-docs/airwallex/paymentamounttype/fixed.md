@@ -21,6 +21,8 @@
 
 # PaymentAmountType.fixed
 
+**Case**
+
 ```
 case fixed
 ```

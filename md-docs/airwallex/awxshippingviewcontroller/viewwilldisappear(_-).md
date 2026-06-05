@@ -21,6 +21,8 @@
 
 # viewWillDisappear(_:)
 
+**Instance Method**
+
 ```
 @MainActor override func viewWillDisappear(_ animated: Bool)
 ```

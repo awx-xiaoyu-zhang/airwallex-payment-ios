@@ -21,6 +21,8 @@
 
 # AirwallexWeChatPayVersionNumber
 
+**Global Variable**
+
 Project version number for WeChatPay.
 
 ```

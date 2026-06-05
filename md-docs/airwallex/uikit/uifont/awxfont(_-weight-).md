@@ -22,6 +22,8 @@
 
 # awxFont(_:weight:)
 
+**Type Method**
+
 return UIFont by semantic and weight
 
 ```

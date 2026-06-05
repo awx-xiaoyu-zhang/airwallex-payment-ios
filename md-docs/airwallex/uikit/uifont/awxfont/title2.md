@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.title2
 
+**Case**
+
 22 PageHeader component header, Primary headers (eg. Wallet, Cards)
 
 ```

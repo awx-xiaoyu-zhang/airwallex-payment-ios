@@ -22,6 +22,8 @@
 
 # union(_:)
 
+**Instance Method**
+
 ```
 func union(_ other: Self) -> Self
 ```

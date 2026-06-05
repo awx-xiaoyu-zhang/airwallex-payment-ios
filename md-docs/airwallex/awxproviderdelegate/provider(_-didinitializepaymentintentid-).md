@@ -21,6 +21,8 @@
 
 # provider(_:didInitializePaymentIntentId:)
 
+**Instance Method**
+
 This method is called when it is generated new payment intent.
 
 ```

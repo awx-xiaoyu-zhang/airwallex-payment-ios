@@ -21,6 +21,8 @@
 
 # PeriodUnit.day
 
+**Case**
+
 ```
 case day
 ```

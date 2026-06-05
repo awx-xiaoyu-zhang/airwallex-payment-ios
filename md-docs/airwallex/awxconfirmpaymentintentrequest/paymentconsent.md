@@ -21,6 +21,8 @@
 
 # paymentConsent
 
+**Instance Property**
+
 PaymentConsent method object.
 
 ```

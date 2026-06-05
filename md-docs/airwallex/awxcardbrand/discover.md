@@ -21,6 +21,8 @@
 
 # discover
 
+**Type Property**
+
 ```
 static let discover: AWXCardBrand
 ```

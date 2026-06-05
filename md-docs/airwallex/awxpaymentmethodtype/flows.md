@@ -21,6 +21,8 @@
 
 # flows
 
+**Instance Property**
+
 flows of the payment method.
 
 ```

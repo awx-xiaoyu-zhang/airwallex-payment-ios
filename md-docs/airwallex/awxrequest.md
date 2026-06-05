@@ -21,6 +21,8 @@
 
 # AWXRequest
 
+**Class**
+
 ```
 class AWXRequest
 ```

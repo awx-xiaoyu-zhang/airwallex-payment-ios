@@ -20,3 +20,5 @@
 -->
 
 # brandWithName:rangeStart:rangeEnd:length:type:
+
+**Type Method**

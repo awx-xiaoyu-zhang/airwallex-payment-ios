@@ -21,6 +21,8 @@
 
 # consentOptions
 
+**Instance Property**
+
 object for simplified consent flow
 info for The associated PaymentConsent to set up along with the PaymentIntent.
 

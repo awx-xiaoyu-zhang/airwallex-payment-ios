@@ -21,6 +21,8 @@
 
 # hasMore
 
+**Instance Property**
+
 Check whether there are more payment methods not loaded.
 
 ```

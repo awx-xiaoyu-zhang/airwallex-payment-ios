@@ -21,6 +21,8 @@
 
 # AWXUIContext.PaymentLayout.accordion
 
+**Case**
+
 Display payment methods in an expandable accordion layout.
 
 ```

@@ -21,6 +21,8 @@
 
 # tintColor
 
+**Instance Property**
+
 The primary brand color used throughout the payment element.
 
 ```

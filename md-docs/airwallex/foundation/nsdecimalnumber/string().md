@@ -22,6 +22,8 @@
 
 # string()
 
+**Instance Method**
+
 ```
 func string() -> String
 ```

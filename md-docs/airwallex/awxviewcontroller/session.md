@@ -21,6 +21,8 @@
 
 # session
 
+**Instance Property**
+
 One of one-off / recurring / recurring with intent session.
 
 ```

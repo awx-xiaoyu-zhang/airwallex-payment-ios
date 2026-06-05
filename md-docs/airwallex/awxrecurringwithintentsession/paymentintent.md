@@ -21,6 +21,8 @@
 
 # paymentIntent
 
+**Instance Property** · *
+
 The payment intent to handle.
 
 ## Deprecated

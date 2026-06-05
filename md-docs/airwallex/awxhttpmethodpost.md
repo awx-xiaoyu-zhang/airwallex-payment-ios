@@ -21,6 +21,8 @@
 
 # AWXHTTPMethodPOST
 
+**Global Variable**
+
 ```
 var AWXHTTPMethodPOST: AWXHTTPMethod { get }
 ```

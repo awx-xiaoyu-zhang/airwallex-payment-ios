@@ -21,6 +21,8 @@
 
 # shouldShowPayAsCta
 
+**Instance Property**
+
 ```
 var shouldShowPayAsCta: Bool { get }
 ```

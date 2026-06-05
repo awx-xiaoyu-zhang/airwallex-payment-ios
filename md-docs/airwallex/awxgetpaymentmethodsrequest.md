@@ -21,6 +21,8 @@
 
 # AWXGetPaymentMethodsRequest
 
+**Class**
+
 `AWXGetPaymentMethodsRequest` includes all of the parameters needed to get payment methods.
 
 ```

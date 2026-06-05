@@ -21,6 +21,8 @@
 
 # layout
 
+**Instance Property**
+
 The layout style for payment sections.
 
 ```

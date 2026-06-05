@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError.invalidPaymentIntent(_:)
 
+**Case**
+
 ```
 case invalidPaymentIntent(String)
 ```

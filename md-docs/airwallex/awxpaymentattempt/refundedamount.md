@@ -21,6 +21,8 @@
 
 # refundedAmount
 
+**Instance Property**
+
 Refunded amount.
 
 ```

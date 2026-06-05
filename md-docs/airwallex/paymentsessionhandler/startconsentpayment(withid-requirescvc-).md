@@ -21,6 +21,8 @@
 
 # startConsentPayment(withId:requiresCVC:)
 
+**Instance Method**
+
 Initiates a consent-based subsequent one-off payment using a consent identifier with optional CVC requirement.
 
 ```

@@ -21,6 +21,8 @@
 
 # minPaymentAmount
 
+**Instance Property**
+
 The minimum payment amount that can be charged for a single payment.
 Optional if payment agreement type is VARIABLE.
 

@@ -21,6 +21,8 @@
 
 # init(name:)
 
+**Initializer**
+
 ```
 convenience init(name: String)
 ```

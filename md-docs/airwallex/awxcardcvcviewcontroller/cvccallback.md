@@ -21,6 +21,8 @@
 
 # cvcCallback
 
+**Instance Property**
+
 ```
 @MainActor var cvcCallback: ((String, Bool) -> Void)? { get set }
 ```

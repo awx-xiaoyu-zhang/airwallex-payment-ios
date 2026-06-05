@@ -21,6 +21,8 @@
 
 # authenticationData
 
+**Instance Property**
+
 3DS authentication data.
 
 ```

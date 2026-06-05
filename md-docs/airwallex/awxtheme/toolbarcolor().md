@@ -21,6 +21,8 @@
 
 # toolbarColor()
 
+**Instance Method**
+
 ```
 func toolbarColor() -> UIColor
 ```

@@ -21,6 +21,8 @@
 
 # debugDescription
 
+**Instance Property**
+
 ```
 override var debugDescription: String { get }
 ```

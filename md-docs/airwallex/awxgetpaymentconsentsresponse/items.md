@@ -21,6 +21,8 @@
 
 # items
 
+**Instance Property**
+
 Payment consents.
 
 ```

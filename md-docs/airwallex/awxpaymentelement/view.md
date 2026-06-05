@@ -21,6 +21,8 @@
 
 # view
 
+**Instance Property**
+
 The embeddable view containing the payment UI.
 
 ```

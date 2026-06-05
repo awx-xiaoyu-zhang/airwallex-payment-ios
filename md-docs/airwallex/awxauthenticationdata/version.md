@@ -21,6 +21,8 @@
 
 # version
 
+**Instance Property**
+
 ```
 var version: String { get }
 ```

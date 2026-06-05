@@ -22,6 +22,8 @@
 
 # currencySymbol(_:)
 
+**Instance Method**
+
 ```
 func currencySymbol(_ currencyCode: String) -> String
 ```

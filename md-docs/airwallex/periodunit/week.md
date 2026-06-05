@@ -21,6 +21,8 @@
 
 # PeriodUnit.week
 
+**Case**
+
 ```
 case week
 ```

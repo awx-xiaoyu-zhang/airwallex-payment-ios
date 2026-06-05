@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.borderInteractive
 
+**Case**
+
 ```
 case borderInteractive
 ```

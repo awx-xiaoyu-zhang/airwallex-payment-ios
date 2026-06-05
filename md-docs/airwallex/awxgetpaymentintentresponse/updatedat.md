@@ -21,6 +21,8 @@
 
 # updatedAt
 
+**Instance Property**
+
 Updated date.
 
 ```

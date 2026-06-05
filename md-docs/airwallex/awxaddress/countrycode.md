@@ -21,6 +21,8 @@
 
 # countryCode
 
+**Instance Property**
+
 Country code of the address. Use the two-character ISO Standard Country Codes.
 
 ```

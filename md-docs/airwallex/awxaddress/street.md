@@ -21,6 +21,8 @@
 
 # street
 
+**Instance Property**
+
 Street of the address.
 
 ```

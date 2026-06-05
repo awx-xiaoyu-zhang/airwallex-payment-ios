@@ -21,6 +21,8 @@
 
 # activeScrollView()
 
+**Instance Method**
+
 Return the active scrollView
 
 ```

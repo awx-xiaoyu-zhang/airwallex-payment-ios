@@ -21,6 +21,8 @@
 
 # setCustomerId(_:)
 
+**Instance Method** · *
+
 ```
 func setCustomerId(_ customerId: String?)
 ```

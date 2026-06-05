@@ -21,6 +21,8 @@
 
 # provider(_:shouldHandle:)
 
+**Instance Method**
+
 This method is called when the next action is required.
 
 ```

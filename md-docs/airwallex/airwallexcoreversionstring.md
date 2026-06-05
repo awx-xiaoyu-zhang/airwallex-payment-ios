@@ -21,6 +21,8 @@
 
 # AirwallexCoreVersionString
 
+**Global Variable**
+
 Project version string for Airwallex.
 
 ```

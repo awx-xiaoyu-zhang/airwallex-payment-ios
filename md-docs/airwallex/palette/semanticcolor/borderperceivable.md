@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.borderPerceivable
 
+**Case**
+
 ```
 case borderPerceivable
 ```

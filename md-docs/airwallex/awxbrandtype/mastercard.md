@@ -21,6 +21,8 @@
 
 # AWXBrandType.mastercard
 
+**Case**
+
 ```
 case mastercard
 ```

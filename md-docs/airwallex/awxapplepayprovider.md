@@ -21,6 +21,8 @@
 
 # AWXApplePayProvider
 
+**Class** · *
+
 `AWXApplePayProvider` is a provider to handle payment method with Apple Pay.
 
 ## Deprecated

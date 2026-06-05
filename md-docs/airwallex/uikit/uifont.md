@@ -22,6 +22,8 @@
 
 # UIFont
 
+**Extended Class**
+
 ```
 extension UIFont
 ```

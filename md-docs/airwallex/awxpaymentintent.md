@@ -21,6 +21,8 @@
 
 # AWXPaymentIntent
 
+**Class**
+
 `AWXPaymentIntent` includes the information of payment intent.
 
 ```

@@ -22,6 +22,8 @@
 
 # symmetricDifference(_:)
 
+**Instance Method**
+
 ```
 func symmetricDifference(_ other: Self) -> Self
 ```

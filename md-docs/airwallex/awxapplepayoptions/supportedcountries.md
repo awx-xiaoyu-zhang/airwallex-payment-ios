@@ -21,6 +21,8 @@
 
 # supportedCountries
 
+**Instance Property**
+
 A list of ISO 3166 country codes for limiting payments to cards from specific countries. Default value is null, meaning all countries are allowed.
 
 ```

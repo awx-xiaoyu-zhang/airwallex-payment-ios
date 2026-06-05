@@ -21,6 +21,8 @@
 
 # AWXPaymentElementConfiguration
 
+**Class**
+
 Configuration options for the embedded payment element.
 Use this class to customize the appearance and behavior of the payment element.
 

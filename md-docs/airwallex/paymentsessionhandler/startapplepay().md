@@ -21,6 +21,8 @@
 
 # startApplePay()
 
+**Instance Method**
+
 Initiates an Apple Pay transaction.
 This method sets up and starts the Apple Pay payment flow.
 

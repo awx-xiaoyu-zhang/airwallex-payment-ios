@@ -21,6 +21,8 @@
 
 # supportedCardBrands
 
+**Instance Property**
+
 Supported card brands for card payment.
 
 ```

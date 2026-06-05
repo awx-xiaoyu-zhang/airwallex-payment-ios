@@ -21,6 +21,8 @@
 
 # method
 
+**Instance Property**
+
 Method.
 
 ```

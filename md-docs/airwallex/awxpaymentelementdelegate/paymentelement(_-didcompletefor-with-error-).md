@@ -21,6 +21,8 @@
 
 # paymentElement(_:didCompleteFor:with:error:)
 
+**Instance Method**
+
 Called when payment processing completes.
 
 ```

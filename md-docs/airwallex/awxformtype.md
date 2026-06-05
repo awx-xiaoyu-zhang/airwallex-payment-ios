@@ -21,6 +21,8 @@
 
 # AWXFormType
 
+**Enumeration**
+
 ```
 @frozen enum AWXFormType
 ```

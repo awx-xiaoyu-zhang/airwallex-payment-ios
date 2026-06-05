@@ -21,6 +21,8 @@
 
 # AWXAPIClientConfiguration
 
+**Class**
+
 `AWXAPIClientConfiguration` contains the base configuration the API client needs.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXSDKErrorDomain
 
+**Global Variable**
+
 ```
 let AWXSDKErrorDomain: String
 ```

@@ -21,6 +21,8 @@
 
 # create(session:delegate:configuration:)
 
+**Type Method**
+
 Creates an embedded payment element.
 
 ```

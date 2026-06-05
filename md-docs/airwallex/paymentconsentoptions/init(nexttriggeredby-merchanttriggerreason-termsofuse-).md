@@ -21,6 +21,8 @@
 
 # init(nextTriggeredBy:merchantTriggerReason:termsOfUse:)
 
+**Initializer**
+
 Creates a new payment consent options instance for recurring payments.
 
 ```

@@ -11,6 +11,8 @@
 
 # AWXPageViewTrackable Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`pageName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/pagename.md)

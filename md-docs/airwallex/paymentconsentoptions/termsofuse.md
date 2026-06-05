@@ -21,6 +21,8 @@
 
 # termsOfUse
 
+**Instance Property**
+
 Terms to specify how this Payment Consent will be used.
 Optional.
 

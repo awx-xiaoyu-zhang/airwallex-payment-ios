@@ -21,6 +21,8 @@
 
 # delegate
 
+**Instance Property**
+
 A delegate which handles payment result.
 
 ```

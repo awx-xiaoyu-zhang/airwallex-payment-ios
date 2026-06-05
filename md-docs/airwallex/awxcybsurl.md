@@ -21,6 +21,8 @@
 
 # AWXCybsURL
 
+**Global Variable**
+
 ```
 let AWXCybsURL: String
 ```

@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.error1
 
+**Case**
+
 14 regular - TableRow status (E.g. Declined | Overdue)
 
 ```

@@ -21,6 +21,8 @@
 
 # provider(_:shouldHandle:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, shouldHandle nextAction: AWXConfirmPaymentNextAction)
 ```

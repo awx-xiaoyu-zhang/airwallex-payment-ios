@@ -21,6 +21,8 @@
 
 # AWXCardScheme
 
+**Class**
+
 ```
 class AWXCardScheme
 ```

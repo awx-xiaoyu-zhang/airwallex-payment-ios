@@ -21,6 +21,8 @@
 
 # AWXGetPaymentMethodTypeResponse
 
+**Class**
+
 `AWXGetPaymentMethodTypeResponse` includes the list of payment methods.
 
 ```

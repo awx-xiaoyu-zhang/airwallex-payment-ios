@@ -21,6 +21,8 @@
 
 # bindExtraCommonData(_:)
 
+**Instance Method**
+
 ```
 func bindExtraCommonData(_ extraCommonData: [String : Any])
 ```

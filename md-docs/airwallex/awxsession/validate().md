@@ -21,6 +21,8 @@
 
 # validate()
 
+**Instance Method**
+
 ```
 func validate() throws
 ```

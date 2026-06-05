@@ -20,3 +20,5 @@
 -->
 
 # AWXRequiredBillingContactFieldNone
+
+**Enumeration Case**

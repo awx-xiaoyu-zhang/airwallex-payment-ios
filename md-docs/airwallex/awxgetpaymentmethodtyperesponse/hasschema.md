@@ -21,6 +21,8 @@
 
 # hasSchema
 
+**Instance Property**
+
 has_schema
 
 ```

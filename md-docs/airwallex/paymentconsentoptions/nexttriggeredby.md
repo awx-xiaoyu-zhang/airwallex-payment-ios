@@ -21,6 +21,8 @@
 
 # nextTriggeredBy
 
+**Instance Property**
+
 The party to trigger subsequent payments. One of `merchant`, `customer`.
 
 ```

@@ -21,6 +21,8 @@
 
 # amount()
 
+**Instance Method**
+
 Returns the payment amount.
 
 ```

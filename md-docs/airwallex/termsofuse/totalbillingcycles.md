@@ -21,6 +21,8 @@
 
 # totalBillingCycles
 
+**Instance Property**
+
 The total number of billing cycles.
 The mandate will continue indefinitely if totalBillingCycles is null.
 

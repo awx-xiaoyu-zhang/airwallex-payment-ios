@@ -21,6 +21,8 @@
 
 # AWXCardProvider
 
+**Class** · *
+
 `AWXCardProvider` is a provider to handle payment method with card.
 
 ## Deprecated

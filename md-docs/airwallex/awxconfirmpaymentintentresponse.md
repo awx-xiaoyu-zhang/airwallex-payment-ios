@@ -21,6 +21,8 @@
 
 # AWXConfirmPaymentIntentResponse
 
+**Class**
+
 `AWXConfirmPaymentIntentResponse` includes the result of payment flow.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXCard
 
+**Class**
+
 `AWXCard` includes the information of a card.
 
 ```

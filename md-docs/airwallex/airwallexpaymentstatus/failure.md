@@ -21,6 +21,8 @@
 
 # AirwallexPaymentStatus.failure
 
+**Case**
+
 ```
 case failure
 ```

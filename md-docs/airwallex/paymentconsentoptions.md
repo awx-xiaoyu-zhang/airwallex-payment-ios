@@ -21,6 +21,8 @@
 
 # PaymentConsentOptions
 
+**Class**
+
 Options for payment consents
 
 ```

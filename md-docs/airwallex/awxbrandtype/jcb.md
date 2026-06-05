@@ -21,6 +21,8 @@
 
 # AWXBrandType.JCB
 
+**Case**
+
 ```
 case JCB
 ```

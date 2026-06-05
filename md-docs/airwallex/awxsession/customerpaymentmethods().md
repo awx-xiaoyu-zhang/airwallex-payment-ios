@@ -21,6 +21,8 @@
 
 # customerPaymentMethods()
 
+**Instance Method** · *
+
 Return all of customer payment methods
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXCard.NumberType
 
+**Enumeration**
+
 ```
 enum NumberType
 ```

@@ -21,6 +21,8 @@
 
 # AirwallexPaymentStatus.cancel
 
+**Case**
+
 ```
 case cancel
 ```

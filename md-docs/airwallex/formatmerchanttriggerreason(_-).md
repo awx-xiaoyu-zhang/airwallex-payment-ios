@@ -21,6 +21,8 @@
 
 # FormatMerchantTriggerReason(_:)
 
+**Function**
+
 ```
 func FormatMerchantTriggerReason(_ reason: AirwallexMerchantTriggerReason) -> String?
 ```

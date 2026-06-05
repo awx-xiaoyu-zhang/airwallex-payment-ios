@@ -21,6 +21,8 @@
 
 # AWXUIContext.PaymentLayout.tab
 
+**Case**
+
 Display payment methods in a tabbed layout.
 
 ```

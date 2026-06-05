@@ -22,6 +22,8 @@
 
 # formSymmetricDifference(_:)
 
+**Instance Method**
+
 ```
 mutating func formSymmetricDifference(_ other: Self)
 ```

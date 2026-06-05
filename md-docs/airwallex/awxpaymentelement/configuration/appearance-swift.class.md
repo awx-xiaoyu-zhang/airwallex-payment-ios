@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.Configuration.Appearance
 
+**Class**
+
 Appearance configuration for customizing the visual style.
 
 ```

@@ -21,6 +21,8 @@
 
 # init(merchantIdentifier:)
 
+**Initializer**
+
 ```
 init(merchantIdentifier: String)
 ```

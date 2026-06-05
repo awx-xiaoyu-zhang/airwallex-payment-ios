@@ -22,6 +22,8 @@
 
 # insert(_:)
 
+**Instance Method**
+
 ```
 @discardableResult mutating func insert(_ newMember: Self.Element) -> (inserted: Bool, memberAfterInsert: Self.Element)
 ```

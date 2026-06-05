@@ -21,6 +21,8 @@
 
 # periodUnit
 
+**Instance Property**
+
 Specifies billing frequency. One of DAY, WEEK, MONTH, and YEAR.
 Required when merchant_trigger_reason = scheduled
 

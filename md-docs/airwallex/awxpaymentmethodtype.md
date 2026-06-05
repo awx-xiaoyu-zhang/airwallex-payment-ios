@@ -21,6 +21,8 @@
 
 # AWXPaymentMethodType
 
+**Class**
+
 `AWXPaymentMethodType` includes the information of a payment method.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError
 
+**Enumeration**
+
 ```
 enum ValidationError
 ```

@@ -21,6 +21,8 @@
 
 # GetTextFieldTypeByUIType(_:)
 
+**Function**
+
 ```
 func GetTextFieldTypeByUIType(_ uiType: String) -> AWXTextFieldType
 ```

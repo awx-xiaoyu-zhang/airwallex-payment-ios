@@ -22,6 +22,8 @@
 
 # isSubset(of:)
 
+**Instance Method**
+
 ```
 func isSubset(of other: Self) -> Bool
 ```

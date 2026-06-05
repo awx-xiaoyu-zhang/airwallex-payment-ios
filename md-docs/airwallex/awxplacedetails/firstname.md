@@ -21,6 +21,8 @@
 
 # firstName
 
+**Instance Property**
+
 First name of the customer.
 
 ```

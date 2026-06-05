@@ -21,6 +21,8 @@
 
 # init(name:cardNumber:expiryMonth:expiryYear:cvc:)
 
+**Initializer**
+
 ```
 convenience init(name: String, cardNumber: String, expiryMonth: String, expiryYear: String, cvc: String)
 ```

@@ -21,6 +21,8 @@
 
 # customerId()
 
+**Instance Method**
+
 Return customer id
 
 ```

@@ -11,6 +11,8 @@
 
 # AWXPaymentResultDelegate Implementations
 
+**collectionGroup**
+
 ## Instance Methods
 
 [`paymentViewController(_:didCompleteWith:error:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/paymentviewcontroller(_-didcompletewith-error-).md)

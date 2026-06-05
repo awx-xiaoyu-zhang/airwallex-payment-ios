@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError.invalidCustomerId(_:)
 
+**Case**
+
 ```
 case invalidCustomerId(String)
 ```

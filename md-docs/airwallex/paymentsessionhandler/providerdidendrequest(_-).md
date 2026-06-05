@@ -21,6 +21,8 @@
 
 # providerDidEndRequest(_:)
 
+**Instance Method**
+
 ```
 @MainActor func providerDidEndRequest(_ provider: AWXDefaultProvider)
 ```

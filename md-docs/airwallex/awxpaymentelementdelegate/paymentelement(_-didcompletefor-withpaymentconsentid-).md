@@ -21,6 +21,8 @@
 
 # paymentElement(_:didCompleteFor:withPaymentConsentId:)
 
+**Instance Method**
+
 Called when a payment consent is created.
 
 ```

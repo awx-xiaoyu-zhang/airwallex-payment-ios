@@ -21,6 +21,8 @@
 
 # AWXTextFieldType.city
 
+**Case**
+
 ```
 case city
 ```

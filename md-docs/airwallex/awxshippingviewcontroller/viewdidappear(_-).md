@@ -21,6 +21,8 @@
 
 # viewDidAppear(_:)
 
+**Instance Method**
+
 ```
 @MainActor override func viewDidAppear(_ animated: Bool)
 ```

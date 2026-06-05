@@ -21,6 +21,8 @@
 
 # displayName
 
+**Instance Property**
+
 ```
 var displayName: String { get }
 ```

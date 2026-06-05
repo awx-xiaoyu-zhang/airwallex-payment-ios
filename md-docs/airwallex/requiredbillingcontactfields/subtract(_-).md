@@ -22,6 +22,8 @@
 
 # subtract(_:)
 
+**Instance Method**
+
 ```
 mutating func subtract(_ other: Self)
 ```

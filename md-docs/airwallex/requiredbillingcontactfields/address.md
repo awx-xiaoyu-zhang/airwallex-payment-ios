@@ -21,6 +21,8 @@
 
 # address
 
+**Type Property**
+
 ```
 static var address: RequiredBillingContactFields { get }
 ```

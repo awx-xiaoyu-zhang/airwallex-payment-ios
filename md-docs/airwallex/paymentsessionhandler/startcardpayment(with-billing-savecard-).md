@@ -21,6 +21,8 @@
 
 # startCardPayment(with:billing:saveCard:)
 
+**Instance Method**
+
 Initiates a card payment transaction.
 This method sets up and confirms a card-based payment, including optional billing and card-saving preferences.
 

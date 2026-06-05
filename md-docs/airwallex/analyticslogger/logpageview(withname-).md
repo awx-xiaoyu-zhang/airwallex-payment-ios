@@ -21,6 +21,8 @@
 
 # logPageView(withName:)
 
+**Instance Method**
+
 ```
 func logPageView(withName pageName: String)
 ```

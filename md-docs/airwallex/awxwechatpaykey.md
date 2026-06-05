@@ -21,6 +21,8 @@
 
 # AWXWeChatPayKey
 
+**Global Variable**
+
 ```
 let AWXWeChatPayKey: String
 ```

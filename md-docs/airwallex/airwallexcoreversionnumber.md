@@ -21,6 +21,8 @@
 
 # AirwallexCoreVersionNumber
 
+**Global Variable**
+
 Project version number for Airwallex.
 
 ```

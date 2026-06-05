@@ -21,6 +21,8 @@
 
 # transactionMode
 
+**Instance Property**
+
 Transaction code.
 
 ```

@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.textInverse
 
+**Case**
+
 ```
 case textInverse
 ```

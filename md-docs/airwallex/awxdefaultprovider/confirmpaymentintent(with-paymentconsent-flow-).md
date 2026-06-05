@@ -21,6 +21,8 @@
 
 # confirmPaymentIntent(with:paymentConsent:flow:)
 
+**Instance Method**
+
 Confirm the payment intent with payment method and consent.
 
 ```

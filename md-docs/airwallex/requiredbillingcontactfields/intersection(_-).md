@@ -22,6 +22,8 @@
 
 # intersection(_:)
 
+**Instance Method**
+
 ```
 func intersection(_ other: Self) -> Self
 ```

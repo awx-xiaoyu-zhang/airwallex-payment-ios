@@ -22,6 +22,8 @@
 
 # caption2()
 
+**Type Method**
+
 ```
 class func caption2() -> UIFont
 ```

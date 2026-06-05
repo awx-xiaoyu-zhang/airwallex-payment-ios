@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.iconDisabled
 
+**Case**
+
 ```
 case iconDisabled
 ```

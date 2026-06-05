@@ -21,6 +21,8 @@
 
 # fallbackUrl
 
+**Instance Property**
+
 Fallback Url
 
 ```

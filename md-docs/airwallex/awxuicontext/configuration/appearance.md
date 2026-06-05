@@ -21,6 +21,8 @@
 
 # appearance
 
+**Instance Property**
+
 Appearance configuration for customizing the visual style.
 
 ```

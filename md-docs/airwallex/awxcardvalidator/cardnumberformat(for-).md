@@ -21,6 +21,8 @@
 
 # cardNumberFormat(for:)
 
+**Type Method**
+
 ```
 class func cardNumberFormat(for type: AWXBrandType) -> [NSNumber]
 ```

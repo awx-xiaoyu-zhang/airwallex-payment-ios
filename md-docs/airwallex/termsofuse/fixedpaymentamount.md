@@ -21,6 +21,8 @@
 
 # fixedPaymentAmount
 
+**Instance Property**
+
 The fixed payment amount that can be charged for a single payment.
 Required if payment agreement type is FIXED.
 

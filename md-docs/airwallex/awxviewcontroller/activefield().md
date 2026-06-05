@@ -21,6 +21,8 @@
 
 # activeField()
 
+**Instance Method**
+
 Return the active field
 
 ```

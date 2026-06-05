@@ -21,6 +21,8 @@
 
 # AnalyticsLogger
 
+**Class**
+
 ```
 class AnalyticsLogger
 ```

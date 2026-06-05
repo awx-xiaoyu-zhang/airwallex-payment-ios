@@ -21,6 +21,8 @@
 
 # AWXThreatMatrixFingerprintServer
 
+**Global Variable**
+
 ```
 let AWXThreatMatrixFingerprintServer: String
 ```

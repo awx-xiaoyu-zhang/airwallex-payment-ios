@@ -21,6 +21,8 @@
 
 # RequiredBillingContactFields
 
+**Structure**
+
 ```
 struct RequiredBillingContactFields
 ```

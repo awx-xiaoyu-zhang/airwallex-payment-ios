@@ -21,6 +21,8 @@
 
 # showPaymentDirectly
 
+**Instance Property** · *
+
 whether should show this payment directly.
 
 ## Deprecated

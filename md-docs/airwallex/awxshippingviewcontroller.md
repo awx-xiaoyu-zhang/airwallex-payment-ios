@@ -21,6 +21,8 @@
 
 # AWXShippingViewController
 
+**Class**
+
 ```
 @objc @MainActor class AWXShippingViewController
 ```

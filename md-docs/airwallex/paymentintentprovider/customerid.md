@@ -21,6 +21,8 @@
 
 # customerId
 
+**Instance Property**
+
 The customer ID associated with this payment, if available.
 
 ```

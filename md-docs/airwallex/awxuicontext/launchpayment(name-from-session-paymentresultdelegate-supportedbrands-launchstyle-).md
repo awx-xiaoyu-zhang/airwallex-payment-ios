@@ -21,6 +21,8 @@
 
 # launchPayment(name:from:session:paymentResultDelegate:supportedBrands:launchStyle:)
 
+**Type Method**
+
 Launches the Airwallex payment sheet for a specified payment method.
 
 ```

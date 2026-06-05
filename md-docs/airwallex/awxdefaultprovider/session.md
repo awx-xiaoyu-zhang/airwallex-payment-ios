@@ -21,6 +21,8 @@
 
 # session
 
+**Instance Property**
+
 A session which includes the detail of payment.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXResponse
 
+**Class**
+
 ```
 class AWXResponse
 ```

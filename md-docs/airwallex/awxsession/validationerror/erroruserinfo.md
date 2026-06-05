@@ -21,6 +21,8 @@
 
 # errorUserInfo
 
+**Instance Property**
+
 ```
 var errorUserInfo: [String : Any] { get }
 ```

@@ -21,6 +21,8 @@
 
 # enableTapToEndEditing()
 
+**Instance Method**
+
 Enable user to tap the view to end editting state
 
 ```

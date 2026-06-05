@@ -21,6 +21,8 @@
 
 # allAvailable
 
+**Type Property**
+
 ```
 static var allAvailable: [AWXCardBrand] { get }
 ```

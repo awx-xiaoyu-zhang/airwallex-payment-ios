@@ -21,6 +21,8 @@
 
 # PaymentSchedule
 
+**Class**
+
 Payment schedule configuration
 
 ```

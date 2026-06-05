@@ -27,6 +27,8 @@
 
 # failureReason
 
+**Instance Property** · iOS 8.0.0+, iPadOS 8.0.0+, macCatalyst 8.0.0+, macOS 10.10.0+, tvOS 9.0.0+, watchOS 2.0.0+
+
 ```
 var failureReason: String? { get }
 ```

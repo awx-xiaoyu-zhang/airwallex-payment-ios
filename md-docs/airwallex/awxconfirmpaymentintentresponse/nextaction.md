@@ -21,6 +21,8 @@
 
 # nextAction
 
+**Instance Property**
+
 Next action.
 
 ```

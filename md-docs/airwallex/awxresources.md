@@ -21,6 +21,8 @@
 
 # AWXResources
 
+**Class**
+
 `AWXResources` includes the resources of payment method.
 
 ```

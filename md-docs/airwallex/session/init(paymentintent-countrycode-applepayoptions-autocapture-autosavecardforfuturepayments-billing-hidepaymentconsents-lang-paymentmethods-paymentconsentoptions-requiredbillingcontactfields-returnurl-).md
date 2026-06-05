@@ -21,6 +21,8 @@
 
 # init(paymentIntent:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)
 
+**Initializer**
+
 Creates a new unified Session for payment processing.
 
 ```

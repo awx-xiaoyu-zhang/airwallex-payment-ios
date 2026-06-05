@@ -21,6 +21,8 @@
 
 # resources
 
+**Instance Property**
+
 Whether it requres resources
 
 ```

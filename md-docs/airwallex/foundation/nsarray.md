@@ -22,6 +22,8 @@
 
 # NSArray
 
+**Extended Class**
+
 ```
 extension NSArray
 ```

@@ -21,6 +21,8 @@
 
 # AirwallexSDKMode.previewMode
 
+**Case**
+
 ```
 case previewMode
 ```

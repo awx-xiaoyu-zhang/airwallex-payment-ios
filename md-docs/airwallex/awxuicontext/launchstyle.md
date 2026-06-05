@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchStyle
 
+**Enumeration**
+
 ```
 @objc enum LaunchStyle
 ```

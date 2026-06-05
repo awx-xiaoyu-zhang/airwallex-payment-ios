@@ -21,6 +21,8 @@
 
 # paymentConsentOptions
 
+**Instance Property**
+
 Required for recurring payment
 
 ```

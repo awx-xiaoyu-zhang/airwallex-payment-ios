@@ -21,4 +21,6 @@
 
 # elementType
 
+**Instance Property**
+
 The type of payment flow to display.

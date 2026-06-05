@@ -21,6 +21,8 @@
 
 # AWXRecurringWithIntentSession
 
+**Class** · *
+
 `AWXRecurringWithIntentSession` is the session used for recurring with intent.
 
 ## Deprecated

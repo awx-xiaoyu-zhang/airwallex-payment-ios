@@ -22,6 +22,8 @@
 
 # hash(into:)
 
+**Instance Method**
+
 ```
 func hash(into hasher: inout Hasher)
 ```

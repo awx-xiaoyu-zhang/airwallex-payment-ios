@@ -21,6 +21,8 @@
 
 # message
 
+**Instance Property**
+
 Error message.
 
 ```

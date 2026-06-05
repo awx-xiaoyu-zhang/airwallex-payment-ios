@@ -21,6 +21,8 @@
 
 # amount
 
+**Instance Property**
+
 Payment amount. This is the order amount you would like to charge your customer.
 
 ```

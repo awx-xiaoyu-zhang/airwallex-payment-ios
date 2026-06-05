@@ -21,6 +21,8 @@
 
 # AWXFormMapping
 
+**Class**
+
 ```
 class AWXFormMapping
 ```

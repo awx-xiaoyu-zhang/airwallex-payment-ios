@@ -21,6 +21,8 @@
 
 # providerDidEndRequest(_:)
 
+**Instance Method**
+
 This method is called when it is completing requesting.
 
 ```

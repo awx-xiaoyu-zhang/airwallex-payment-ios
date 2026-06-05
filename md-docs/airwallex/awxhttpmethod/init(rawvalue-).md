@@ -21,6 +21,8 @@
 
 # init(rawValue:)
 
+**Initializer**
+
 ```
 init(rawValue: UInt)
 ```

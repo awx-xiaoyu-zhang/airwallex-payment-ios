@@ -21,6 +21,8 @@
 
 # init(key:type:title:textFieldType:)
 
+**Initializer**
+
 ```
 convenience init(key: String, type: AWXFormType, title: String, textFieldType: AWXTextFieldType)
 ```

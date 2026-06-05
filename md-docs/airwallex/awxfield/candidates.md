@@ -21,6 +21,8 @@
 
 # candidates
 
+**Instance Property**
+
 candidates.
 
 ```

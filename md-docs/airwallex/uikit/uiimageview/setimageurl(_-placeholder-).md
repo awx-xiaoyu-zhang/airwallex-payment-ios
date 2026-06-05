@@ -22,6 +22,8 @@
 
 # setImageURL(_:placeholder:)
 
+**Instance Method**
+
 ```
 func setImageURL(_ imageURL: URL, placeholder: UIImage?)
 ```

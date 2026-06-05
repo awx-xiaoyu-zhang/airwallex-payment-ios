@@ -21,6 +21,8 @@
 
 # clientSecret
 
+**Instance Property**
+
 Client secret for browser or app.
 
 ```

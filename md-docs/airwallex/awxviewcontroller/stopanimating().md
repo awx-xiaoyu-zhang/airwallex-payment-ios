@@ -21,6 +21,8 @@
 
 # stopAnimating()
 
+**Instance Method**
+
 Stop loading activity.
 
 ```

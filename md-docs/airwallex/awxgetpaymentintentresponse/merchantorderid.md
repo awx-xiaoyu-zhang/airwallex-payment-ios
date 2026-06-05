@@ -21,6 +21,8 @@
 
 # merchantOrderId
 
+**Instance Property**
+
 Merchant order id.
 
 ```

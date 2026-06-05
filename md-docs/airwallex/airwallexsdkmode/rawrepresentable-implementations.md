@@ -11,6 +11,8 @@
 
 # RawRepresentable Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`hashValue`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/hashvalue.md)

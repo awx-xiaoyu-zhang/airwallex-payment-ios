@@ -21,6 +21,8 @@
 
 # AWXPageViewTrackable
 
+**Protocol**
+
 ```
 protocol AWXPageViewTrackable
 ```

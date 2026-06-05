@@ -21,6 +21,8 @@
 
 # parse(_:)
 
+**Type Method**
+
 ```
 class func parse(_ data: Data) -> AWXResponse
 ```

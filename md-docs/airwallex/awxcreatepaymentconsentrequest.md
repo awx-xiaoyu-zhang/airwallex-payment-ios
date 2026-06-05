@@ -21,6 +21,8 @@
 
 # AWXCreatePaymentConsentRequest
 
+**Class**
+
 `AWXCreatePaymentConsentRequest` includes the request of creating payment consent.
 
 ```

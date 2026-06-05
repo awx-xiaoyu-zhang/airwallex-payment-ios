@@ -21,6 +21,8 @@
 
 # responseClass()
 
+**Instance Method**
+
 ```
 func responseClass() -> AnyClass
 ```

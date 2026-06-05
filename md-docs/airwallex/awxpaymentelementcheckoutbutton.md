@@ -21,6 +21,8 @@
 
 # AWXPaymentElementCheckoutButton
 
+**Class**
+
 Configuration for the checkout button title.
 
 ## Instance Properties

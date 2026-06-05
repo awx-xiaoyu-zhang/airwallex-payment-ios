@@ -21,6 +21,8 @@
 
 # billing
 
+**Instance Property**
+
 Billing object.
 
 ```

@@ -22,6 +22,8 @@
 
 # NSLocale
 
+**Extended Class**
+
 ```
 extension NSLocale
 ```

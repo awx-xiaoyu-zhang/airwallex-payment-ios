@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.backgroundSelected
 
+**Case**
+
 ```
 case backgroundSelected
 ```

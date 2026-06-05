@@ -22,6 +22,8 @@
 
 # formUnion(_:)
 
+**Instance Method**
+
 ```
 mutating func formUnion(_ other: Self)
 ```

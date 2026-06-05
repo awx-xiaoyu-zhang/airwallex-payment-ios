@@ -21,6 +21,8 @@
 
 # expiryYear
 
+**Instance Property**
+
 Four digit number representing the card’s expiration year. Example: 2030.
 
 ```

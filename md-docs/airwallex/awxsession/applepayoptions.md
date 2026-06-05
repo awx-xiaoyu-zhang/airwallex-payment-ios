@@ -21,6 +21,8 @@
 
 # applePayOptions
 
+**Instance Property**
+
 Apple Pay options.
 
 ```

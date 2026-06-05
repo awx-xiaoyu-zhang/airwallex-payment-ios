@@ -21,4 +21,6 @@
 
 # customerId
 
+**Instance Property** · *
+
 The customer who is paying for this payment intent.

@@ -21,6 +21,8 @@
 
 # customerId
 
+**Instance Property**
+
 Customer ID.
 
 ```

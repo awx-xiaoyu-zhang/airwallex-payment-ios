@@ -21,6 +21,8 @@
 
 # AWXThreeDSContinue
 
+**Global Variable**
+
 ```
 let AWXThreeDSContinue: String
 ```

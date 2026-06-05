@@ -21,6 +21,8 @@
 
 # mode()
 
+**Type Method**
+
 Get sdk mode. Test mode as default.
 
 ```

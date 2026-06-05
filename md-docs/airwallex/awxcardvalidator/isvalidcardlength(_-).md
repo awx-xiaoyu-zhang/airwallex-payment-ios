@@ -21,6 +21,8 @@
 
 # isValidCardLength(_:)
 
+**Instance Method**
+
 ```
 func isValidCardLength(_ cardNumber: String) -> Bool
 ```

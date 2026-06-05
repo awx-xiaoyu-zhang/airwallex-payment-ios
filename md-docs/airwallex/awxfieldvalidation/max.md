@@ -21,6 +21,8 @@
 
 # max
 
+**Instance Property**
+
 max length validation
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXGetAvailableBanksResponse
 
+**Class**
+
 `AWXGetAvailableBanksResponse` includes the list of banks.
 
 ```

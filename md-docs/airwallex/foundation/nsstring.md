@@ -22,6 +22,8 @@
 
 # NSString
 
+**Extended Class**
+
 ```
 extension NSString
 ```

@@ -21,6 +21,8 @@
 
 # hasMore
 
+**Instance Property**
+
 ```
 var hasMore: Bool { get }
 ```

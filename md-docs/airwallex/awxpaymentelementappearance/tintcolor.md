@@ -21,5 +21,7 @@
 
 # tintColor
 
+**Instance Property**
+
 The primary brand color used throughout the payment element.
 Defaults to the SDK’s built-in theme color.

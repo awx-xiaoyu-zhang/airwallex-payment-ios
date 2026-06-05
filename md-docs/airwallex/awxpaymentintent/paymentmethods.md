@@ -21,6 +21,8 @@
 
 # paymentMethods
 
+**Instance Property** · *
+
 Payment methods.
 
 ## Deprecated

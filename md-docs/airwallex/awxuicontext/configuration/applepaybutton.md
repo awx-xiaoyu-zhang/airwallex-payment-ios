@@ -21,6 +21,8 @@
 
 # applePayButton
 
+**Instance Property**
+
 Configuration for the Apple Pay button (buttonType, disableCardArt).
 Note: showsAsPrimaryButton has no effect in sheet context.
 

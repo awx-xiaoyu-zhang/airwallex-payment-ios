@@ -21,6 +21,8 @@
 
 # AWXDisablePaymentConsentRequest
 
+**Class**
+
 `AWXDisablePaymentMethodRequest` disable a payment method.
 
 ```

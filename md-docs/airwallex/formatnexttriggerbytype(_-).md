@@ -21,6 +21,8 @@
 
 # FormatNextTriggerByType(_:)
 
+**Function**
+
 ```
 func FormatNextTriggerByType(_ type: AirwallexNextTriggerByType) -> String
 ```

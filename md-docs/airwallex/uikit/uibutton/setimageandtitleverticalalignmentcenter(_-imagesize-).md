@@ -22,6 +22,8 @@
 
 # setImageAndTitleVerticalAlignmentCenter(_:imageSize:)
 
+**Instance Method**
+
 ```
 func setImageAndTitleVerticalAlignmentCenter(_ spacing: Float, imageSize: CGSize)
 ```

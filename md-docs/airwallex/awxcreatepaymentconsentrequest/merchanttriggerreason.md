@@ -21,6 +21,8 @@
 
 # merchantTriggerReason
 
+**Instance Property**
+
 Merchant trigger reason
 
 ```

@@ -21,6 +21,8 @@
 
 # currency
 
+**Instance Property**
+
 The three-letter ISO currency code (e.g., “USD”, “AUD”, “GBP”).
 
 ```

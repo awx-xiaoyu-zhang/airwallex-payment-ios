@@ -21,6 +21,8 @@
 
 # intentId
 
+**Instance Property**
+
 Intent ID.
 
 ```

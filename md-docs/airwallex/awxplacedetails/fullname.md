@@ -21,6 +21,8 @@
 
 # fullName
 
+**Instance Property**
+
 ```
 var fullName: String { get }
 ```

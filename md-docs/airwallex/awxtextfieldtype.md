@@ -21,6 +21,8 @@
 
 # AWXTextFieldType
 
+**Enumeration**
+
 ```
 enum AWXTextFieldType
 ```

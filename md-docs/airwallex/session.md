@@ -21,6 +21,8 @@
 
 # Session
 
+**Class**
+
 `Session` is a specialized subclass of `AWXSession`
 
 ```

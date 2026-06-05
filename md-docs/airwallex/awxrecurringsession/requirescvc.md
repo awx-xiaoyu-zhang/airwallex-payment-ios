@@ -21,5 +21,7 @@
 
 # requiresCVC
 
+**Instance Property** · *
+
 Only applicable when next_triggered_by is customer and the payment_method.type is card. If true, the customer must provide cvc for the subsequent payment with this PaymentConsent.
 Default: NO

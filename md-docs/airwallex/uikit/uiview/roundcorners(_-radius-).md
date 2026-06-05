@@ -22,6 +22,8 @@
 
 # roundCorners(_:radius:)
 
+**Instance Method**
+
 ```
 func roundCorners(_ corners: UIRectCorner, radius: CGFloat)
 ```

@@ -21,6 +21,8 @@
 
 # AWXVerifyPaymentConsentRequest
 
+**Class**
+
 `AWXVerifyPaymentConsentRequest` includes the request of verifying payment consent.
 
 ```

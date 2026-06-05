@@ -21,6 +21,8 @@
 
 # amount()
 
+**Instance Method**
+
 The total amount
 
 ```

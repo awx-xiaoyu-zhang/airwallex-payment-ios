@@ -21,6 +21,8 @@
 
 # AWXConfirmPaymentIntentRequest
 
+**Class**
+
 `AWXConfirmPaymentIntentRequest` includes all of the parameters needed to confirm payment intent.
 
 ```

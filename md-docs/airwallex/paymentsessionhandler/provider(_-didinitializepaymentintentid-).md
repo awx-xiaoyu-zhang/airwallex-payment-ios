@@ -21,6 +21,8 @@
 
 # provider(_:didInitializePaymentIntentId:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, didInitializePaymentIntentId paymentIntentId: String)
 ```

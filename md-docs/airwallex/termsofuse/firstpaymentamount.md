@@ -21,6 +21,8 @@
 
 # firstPaymentAmount
 
+**Instance Property**
+
 The first payment. It could include the costs associated with the first debited amount.
 Optional if payment agreement type is VARIABLE.
 

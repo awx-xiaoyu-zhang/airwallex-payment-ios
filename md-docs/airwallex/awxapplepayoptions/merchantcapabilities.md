@@ -21,6 +21,8 @@
 
 # merchantCapabilities
 
+**Instance Property**
+
 Apple Pay merchant capabilities. Default value includes 3DS, EMV, Credit and Debit.
 
 ```

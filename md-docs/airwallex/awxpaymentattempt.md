@@ -21,6 +21,8 @@
 
 # AWXPaymentAttempt
 
+**Class**
+
 `AWXPaymentAttempt` includes the information of payment attempt.
 
 ```

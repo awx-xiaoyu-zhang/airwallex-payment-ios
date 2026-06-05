@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError
 
+**Enumeration**
+
 ```
 enum LaunchError
 ```

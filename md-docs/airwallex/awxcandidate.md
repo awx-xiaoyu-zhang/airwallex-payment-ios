@@ -21,6 +21,8 @@
 
 # AWXCandidate
 
+**Class**
+
 `AWXCandidate` includes the values of list
 
 ```

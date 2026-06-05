@@ -22,6 +22,8 @@
 
 # autoLayout()
 
+**Type Method**
+
 ```
 class func autoLayout() -> Self
 ```

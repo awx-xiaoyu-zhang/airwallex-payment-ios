@@ -22,6 +22,8 @@
 
 # setImageAndTitleHorizontalAlignmentCenter(_:)
 
+**Instance Method**
+
 ```
 func setImageAndTitleHorizontalAlignmentCenter(_ spacing: Float)
 ```

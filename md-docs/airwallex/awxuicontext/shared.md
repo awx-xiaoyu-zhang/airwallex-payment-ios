@@ -21,6 +21,8 @@
 
 # shared
 
+**Type Property**
+
 ```
 @objc @MainActor static let shared: AWXUIContext
 ```

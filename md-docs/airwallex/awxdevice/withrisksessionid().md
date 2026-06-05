@@ -21,6 +21,8 @@
 
 # withRiskSessionId()
 
+**Type Method**
+
 Return an instance with AirwallexRisk session id as device id
 
 ```

@@ -21,6 +21,8 @@
 
 # setActiveField(_:)
 
+**Instance Method**
+
 Update the active field
 
 ```

@@ -21,6 +21,8 @@
 
 # number
 
+**Instance Property**
+
 Card number.
 
 ```

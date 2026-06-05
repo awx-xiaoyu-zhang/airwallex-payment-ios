@@ -21,6 +21,8 @@
 
 # AWXUIContext.Configuration
 
+**Class**
+
 Configuration options for launching the payment UI.
 
 ```

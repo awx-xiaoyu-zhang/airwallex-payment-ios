@@ -22,6 +22,8 @@
 
 # contains(_:)
 
+**Instance Method**
+
 ```
 func contains(_ member: Self) -> Bool
 ```

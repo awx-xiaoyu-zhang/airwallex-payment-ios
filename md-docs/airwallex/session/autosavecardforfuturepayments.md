@@ -21,6 +21,8 @@
 
 # autoSaveCardForFuturePayments
 
+**Instance Property**
+
 Indicates whether card saving is enabled by default.
 Defaults to YES.
 

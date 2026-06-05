@@ -21,6 +21,8 @@
 
 # paymentMethodType
 
+**Instance Property**
+
 Name of the payment method type
 
 ```

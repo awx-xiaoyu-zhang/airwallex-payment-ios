@@ -21,6 +21,8 @@
 
 # brand
 
+**Instance Property**
+
 Brand of the card.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXTextFieldType.phoneNumber
 
+**Case**
+
 ```
 case phoneNumber
 ```

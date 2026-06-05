@@ -21,6 +21,8 @@
 
 # validations
 
+**Instance Property**
+
 Validations of schema field
 
 ```

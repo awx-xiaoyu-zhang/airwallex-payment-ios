@@ -21,6 +21,8 @@
 
 # timeStamp
 
+**Instance Property**
+
 Timestamp
 
 ```

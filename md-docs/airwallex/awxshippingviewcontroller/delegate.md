@@ -21,6 +21,8 @@
 
 # delegate
 
+**Instance Property**
+
 ```
 @objc @MainActor weak var delegate: (any AWXShippingViewControllerDelegate)?
 ```

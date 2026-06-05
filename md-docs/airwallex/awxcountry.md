@@ -21,6 +21,8 @@
 
 # AWXCountry
 
+**Class**
+
 `AWXCountry` includes the information of a country.
 
 ```

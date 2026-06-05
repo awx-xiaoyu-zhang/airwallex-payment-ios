@@ -22,6 +22,8 @@
 
 # resource()
 
+**Type Method**
+
 ```
 class func resource() -> Bundle
 ```

@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.error2
 
+**Case**
+
 12 regular - Field error
 
 ```

@@ -21,6 +21,8 @@
 
 # baseURL
 
+**Instance Property**
+
 The base URL.
 
 ```

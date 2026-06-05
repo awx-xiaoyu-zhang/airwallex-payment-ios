@@ -21,6 +21,8 @@
 
 # additionalPaymentSummaryItems
 
+**Instance Property**
+
 An additional array of payment summary item objects that summarize the amount of the payment. Default value is nil.
 
 ```

@@ -21,6 +21,8 @@
 
 # LaunchStyle
 
+**Enumeration**
+
 ## Enumeration Cases
 
 [`LaunchStylePresent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/launchstyle/launchstylepresent.md)

@@ -22,6 +22,8 @@
 
 # title()
 
+**Type Method**
+
 ```
 class func title() -> UIFont
 ```

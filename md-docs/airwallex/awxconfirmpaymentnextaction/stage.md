@@ -21,6 +21,8 @@
 
 # stage
 
+**Instance Property**
+
 Stage.
 
 ```

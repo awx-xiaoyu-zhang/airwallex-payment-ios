@@ -21,6 +21,8 @@
 
 # AWXPaymentElementDelegate
 
+**Protocol**
+
 Delegate protocol for receiving payment events from AWXPaymentElement.
 
 ```

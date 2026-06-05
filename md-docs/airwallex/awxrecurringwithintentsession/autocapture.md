@@ -21,6 +21,8 @@
 
 # autoCapture
 
+**Instance Property** · *
+
 Only applicable when payment_method.type is card. If true the payment will be captured immediately after authorization succeeds.
 Default: YES
 

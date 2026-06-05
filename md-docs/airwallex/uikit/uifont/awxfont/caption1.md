@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.caption1
 
+**Case**
+
 14 bold - Tag (1)
 14 regualr - N/A
 

@@ -21,6 +21,8 @@
 
 # convertToPaymentContact()
 
+**Instance Method**
+
 ```
 func convertToPaymentContact() -> PKContact
 ```

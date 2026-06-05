@@ -21,6 +21,8 @@
 
 # supportedSchemes
 
+**Instance Property**
+
 ```
 var supportedSchemes: [AWXCardScheme]? { get set }
 ```

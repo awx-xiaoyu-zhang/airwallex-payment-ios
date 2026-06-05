@@ -21,6 +21,8 @@
 
 # appId
 
+**Instance Property**
+
 WeChat pay app id.
 
 ```

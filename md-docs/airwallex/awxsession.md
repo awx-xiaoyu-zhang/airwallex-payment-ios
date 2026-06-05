@@ -21,6 +21,8 @@
 
 # AWXSession
 
+**Class**
+
 `AWXSession` is the base session.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXBrandType.amex
 
+**Case**
+
 ```
 case amex
 ```

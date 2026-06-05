@@ -21,6 +21,8 @@
 
 # AWXApplePayOptions
 
+**Class**
+
 Object used to construct PKPaymentRequest for Apple Pay.
 
 ```

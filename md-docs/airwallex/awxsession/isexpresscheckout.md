@@ -21,6 +21,8 @@
 
 # isExpressCheckout
 
+**Instance Property**
+
 ```
 var isExpressCheckout: Bool { get }
 ```

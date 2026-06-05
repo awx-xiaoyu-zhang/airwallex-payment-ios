@@ -21,6 +21,8 @@
 
 # bindSession(_:additionalInfo:)
 
+**Instance Method**
+
 ```
 func bindSession(_ session: AWXSession, additionalInfo info: [String : Any]?)
 ```

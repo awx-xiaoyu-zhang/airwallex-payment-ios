@@ -21,6 +21,8 @@
 
 # AWXThreeDSWatingDeviceDataCollection
 
+**Global Variable**
+
 ```
 let AWXThreeDSWatingDeviceDataCollection: String
 ```

@@ -22,6 +22,8 @@
 
 # payloadForRequest()
 
+**Instance Method**
+
 ```
 func payloadForRequest() -> [AnyHashable : Any]
 ```

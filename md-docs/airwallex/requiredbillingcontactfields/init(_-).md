@@ -22,6 +22,8 @@
 
 # init(_:)
 
+**Initializer**
+
 ```
 init<S>(_ sequence: S) where S : Sequence, Self.Element == S.Element
 ```

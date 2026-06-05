@@ -21,6 +21,8 @@
 
 # AirwallexMerchantTriggerReason.unscheduled
 
+**Case**
+
 ```
 case unscheduled
 ```

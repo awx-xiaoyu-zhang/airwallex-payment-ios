@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.theme
 
+**Case**
+
 ```
 case theme
 ```

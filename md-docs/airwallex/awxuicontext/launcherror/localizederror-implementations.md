@@ -11,6 +11,8 @@
 
 # LocalizedError Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`failureReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/failurereason.md)

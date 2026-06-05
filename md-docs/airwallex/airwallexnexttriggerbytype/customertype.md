@@ -21,6 +21,8 @@
 
 # AirwallexNextTriggerByType.customerType
 
+**Case**
+
 ```
 case customerType
 ```

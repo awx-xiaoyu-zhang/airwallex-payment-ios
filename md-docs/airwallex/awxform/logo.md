@@ -21,6 +21,8 @@
 
 # logo
 
+**Instance Property**
+
 ```
 var logo: URL? { get set }
 ```

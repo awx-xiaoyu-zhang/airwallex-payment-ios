@@ -21,6 +21,8 @@
 
 # updateInitialPaymentIntentId(_:)
 
+**Instance Method**
+
 Update payment intent id.
 
 ```

@@ -21,6 +21,8 @@
 
 # textFieldType
 
+**Instance Property**
+
 ```
 var textFieldType: AWXTextFieldType { get set }
 ```

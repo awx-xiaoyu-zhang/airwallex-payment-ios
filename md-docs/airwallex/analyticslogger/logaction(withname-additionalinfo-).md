@@ -21,6 +21,8 @@
 
 # logAction(withName:additionalInfo:)
 
+**Instance Method**
+
 ```
 func logAction(withName actionName: String, additionalInfo: [String : Any])
 ```

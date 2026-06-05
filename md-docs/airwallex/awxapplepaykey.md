@@ -21,6 +21,8 @@
 
 # AWXApplePayKey
 
+**Global Variable**
+
 ```
 let AWXApplePayKey: String
 ```

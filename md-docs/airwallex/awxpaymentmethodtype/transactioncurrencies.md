@@ -21,6 +21,8 @@
 
 # transactionCurrencies
 
+**Instance Property**
+
 transaction_currencies of the payment method.  “*”, “AUD”, “CHF”, “HKD”, “SGD”, “JPY”, “EUR”, “GBP”, “USD”, “CAD”, “NZD”, “CNY”
 
 ```

@@ -23,6 +23,8 @@
 
 # hostViewController()
 
+**Instance Method** · iOS 2.0.0+, iPadOS 2.0.0+, macCatalyst 2.0.0+
+
 The view controller that any additional UI (e.g. 3DS view, error alert view) will be presented on.
 
 ```

@@ -21,6 +21,8 @@
 
 # countryCode
 
+**Instance Property**
+
 Country code.
 
 ```

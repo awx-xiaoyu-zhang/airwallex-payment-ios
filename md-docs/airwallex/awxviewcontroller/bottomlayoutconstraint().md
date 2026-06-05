@@ -21,6 +21,8 @@
 
 # bottomLayoutConstraint()
 
+**Instance Method**
+
 Returns layout constraints that affect the bottom of the view
 
 ```

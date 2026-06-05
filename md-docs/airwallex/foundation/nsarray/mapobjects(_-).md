@@ -22,6 +22,8 @@
 
 # mapObjects(_:)
 
+**Instance Method**
+
 ```
 func mapObjects(_ block: @escaping (Any, UInt) -> Any) -> [Any]
 ```

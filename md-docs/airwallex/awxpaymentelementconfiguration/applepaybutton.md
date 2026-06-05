@@ -21,4 +21,6 @@
 
 # applePayButton
 
+**Instance Property**
+
 Configuration for the Apple Pay button appearance and behavior.

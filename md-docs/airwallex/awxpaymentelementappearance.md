@@ -21,6 +21,8 @@
 
 # AWXPaymentElementAppearance
 
+**Class**
+
 Appearance configuration for customizing the visual style.
 
 ## Instance Properties

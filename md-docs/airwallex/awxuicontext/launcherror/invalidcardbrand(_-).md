@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError.invalidCardBrand(_:)
 
+**Case**
+
 ```
 case invalidCardBrand(String)
 ```

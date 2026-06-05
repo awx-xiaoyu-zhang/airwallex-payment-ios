@@ -21,6 +21,8 @@
 
 # AWXUIContext.PaymentLayout
 
+**Enumeration**
+
 Defines the layout style for payment method selection.
 
 ```

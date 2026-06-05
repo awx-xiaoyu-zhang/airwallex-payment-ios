@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.Configuration.ApplePayButton
 
+**Class**
+
 Configuration for the Apple Pay button appearance and behavior.
 
 ```

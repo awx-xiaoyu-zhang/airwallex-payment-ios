@@ -21,6 +21,8 @@
 
 # AWXUIContextElementType
 
+**Enumeration**
+
 The type of payment flow to display.
 
 ## Enumeration Cases

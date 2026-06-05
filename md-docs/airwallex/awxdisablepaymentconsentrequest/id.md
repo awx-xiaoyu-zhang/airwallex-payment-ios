@@ -21,6 +21,8 @@
 
 # id
 
+**Instance Property**
+
 Payment method id.
 
 ```

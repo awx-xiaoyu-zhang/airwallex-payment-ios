@@ -21,6 +21,8 @@
 
 # name
 
+**Instance Property**
+
 Card holder name.
 
 ```

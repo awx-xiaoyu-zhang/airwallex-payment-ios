@@ -21,6 +21,8 @@
 
 # AWXTextFieldType.zipcode
 
+**Case**
+
 ```
 case zipcode
 ```

@@ -21,6 +21,8 @@
 
 # expiryMonth
 
+**Instance Property**
+
 Two digit number representing the card’s expiration month. Example: 12.
 
 ```

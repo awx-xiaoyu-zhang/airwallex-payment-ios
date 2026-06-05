@@ -21,6 +21,8 @@
 
 # confirmPaymentIntent(withPaymentConsentId:)
 
+**Instance Method** · *
+
 Confirm the payment intent with payment consent ID.
 
 ```

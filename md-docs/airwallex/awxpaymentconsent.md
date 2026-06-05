@@ -21,6 +21,8 @@
 
 # AWXPaymentConsent
 
+**Class**
+
 `AWXPaymentConsent` includes the info of payment consent.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXJSONDecodable
 
+**Protocol**
+
 ```
 protocol AWXJSONDecodable : NSObjectProtocol
 ```

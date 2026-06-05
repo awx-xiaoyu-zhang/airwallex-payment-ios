@@ -21,6 +21,8 @@
 
 # hasSchema
 
+**Instance Property**
+
 Whether it has schema
 
 ```

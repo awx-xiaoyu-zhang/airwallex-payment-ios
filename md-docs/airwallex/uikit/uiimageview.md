@@ -22,6 +22,8 @@
 
 # UIImageView
 
+**Extended Class**
+
 ```
 extension UIImageView
 ```

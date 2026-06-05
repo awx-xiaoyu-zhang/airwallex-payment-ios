@@ -21,6 +21,8 @@
 
 # AWXDefaultActionProvider
 
+**Class**
+
 A provider which handles next action business.
 
 ```

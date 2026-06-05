@@ -21,6 +21,8 @@
 
 # displayName
 
+**Instance Property**
+
 display name.
 
 ```

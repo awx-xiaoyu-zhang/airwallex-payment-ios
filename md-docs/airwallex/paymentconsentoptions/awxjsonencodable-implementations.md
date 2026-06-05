@@ -11,6 +11,8 @@
 
 # AWXJSONEncodable Implementations
 
+**collectionGroup**
+
 ## Instance Methods
 
 [`encodeToJSON()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/encodetojson().md)

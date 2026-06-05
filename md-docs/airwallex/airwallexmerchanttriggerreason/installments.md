@@ -21,6 +21,8 @@
 
 # AirwallexMerchantTriggerReason.installments
 
+**Case**
+
 ```
 case installments
 ```

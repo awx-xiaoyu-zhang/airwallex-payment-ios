@@ -21,6 +21,8 @@
 
 # startRedirectPayment(with:additionalInfo:)
 
+**Instance Method**
+
 Initiates a schema-based payment transaction.
 This method processes a payment with schema-based payment methods such as digital wallets or bank transfers.
 You should collect all information from your user before calling this api

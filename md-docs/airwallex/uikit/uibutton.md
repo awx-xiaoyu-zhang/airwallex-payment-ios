@@ -22,6 +22,8 @@
 
 # UIButton
 
+**Extended Class**
+
 ```
 extension UIButton
 ```

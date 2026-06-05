@@ -21,6 +21,8 @@
 
 # id
 
+**Instance Property**
+
 Unique identifier for the payment intent.
 
 ```

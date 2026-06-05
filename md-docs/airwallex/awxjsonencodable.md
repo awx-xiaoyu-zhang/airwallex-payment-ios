@@ -21,6 +21,8 @@
 
 # AWXJSONEncodable
 
+**Protocol**
+
 ```
 protocol AWXJSONEncodable : NSObjectProtocol
 ```

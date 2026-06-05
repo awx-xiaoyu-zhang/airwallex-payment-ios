@@ -21,6 +21,8 @@
 
 # email
 
+**Instance Property**
+
 Email address of the customer, optional.
 
 ```

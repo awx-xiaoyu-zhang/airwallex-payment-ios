@@ -21,6 +21,8 @@
 
 # AWXBrand
 
+**Class**
+
 `AWXBrand` manages the card scheme brand.
 
 ```

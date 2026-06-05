@@ -21,6 +21,8 @@
 
 # init(_:)
 
+**Initializer**
+
 ```
 init(_ rawValue: String)
 ```

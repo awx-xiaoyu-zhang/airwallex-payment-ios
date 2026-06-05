@@ -21,6 +21,8 @@
 
 # AWXBrandType.discover
 
+**Case**
+
 ```
 case discover
 ```

@@ -21,4 +21,6 @@
 
 # AWXPaymentElementTypePaymentSheet
 
+**Enumeration Case**
+
 Display a list of available payment methods (default)

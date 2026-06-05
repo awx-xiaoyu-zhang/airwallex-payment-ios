@@ -22,6 +22,8 @@
 
 # UIView
 
+**Extended Class**
+
 ```
 extension UIView
 ```

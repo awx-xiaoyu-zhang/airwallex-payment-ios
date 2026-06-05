@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.backgroundWarning
 
+**Case**
+
 ```
 case backgroundWarning
 ```

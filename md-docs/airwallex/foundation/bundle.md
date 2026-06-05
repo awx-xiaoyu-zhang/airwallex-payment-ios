@@ -22,6 +22,8 @@
 
 # Bundle
 
+**Extended Class**
+
 ```
 extension Bundle
 ```

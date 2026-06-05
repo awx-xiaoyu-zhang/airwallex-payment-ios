@@ -21,6 +21,8 @@
 
 # close(_:)
 
+**Instance Method**
+
 Dismiss or pop the current view controller
 
 ```

@@ -21,6 +21,8 @@
 
 # cvcCheck
 
+**Instance Property**
+
 Whether CVC pass the check.
 
 ```

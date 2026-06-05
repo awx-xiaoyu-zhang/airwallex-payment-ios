@@ -21,6 +21,8 @@
 
 # pageNum
 
+**Instance Property**
+
 Page number starting from 0.
 
 ```

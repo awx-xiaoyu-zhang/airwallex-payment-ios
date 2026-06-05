@@ -21,6 +21,8 @@
 
 # PassKit
 
+**Extended Module**
+
 ## Extended Classes
 
 [`PKContact`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkcontact.md)

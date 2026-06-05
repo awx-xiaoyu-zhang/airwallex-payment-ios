@@ -21,6 +21,8 @@
 
 # PaymentIntentProvider
 
+**Protocol**
+
 A protocol for providing payment intents on-demand during the payment flow.
 
 ```

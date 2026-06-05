@@ -21,6 +21,8 @@
 
 # externalNetworkToken
 
+**Type Property**
+
 for consent payment, we can checkout with this consent without CVC verification
 
 ```

@@ -21,6 +21,8 @@
 
 # layout
 
+**Instance Property**
+
 Layout style for payment sections.
 Only applies when elementType is .paymentSheet.
 

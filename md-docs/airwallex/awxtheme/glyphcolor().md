@@ -21,6 +21,8 @@
 
 # glyphColor()
 
+**Instance Method**
+
 ```
 func glyphColor() -> UIColor
 ```

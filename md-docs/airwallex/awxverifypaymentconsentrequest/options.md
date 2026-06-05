@@ -21,6 +21,8 @@
 
 # options
 
+**Instance Property**
+
 Payment method object.
 
 ```

@@ -21,6 +21,8 @@
 
 # PAN
 
+**Type Property**
+
 for consent payment, NumberType.PAN requires CVC
 
 ```

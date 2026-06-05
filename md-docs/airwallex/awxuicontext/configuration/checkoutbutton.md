@@ -21,6 +21,8 @@
 
 # checkoutButton
 
+**Instance Property**
+
 Configuration for the checkout button title.
 
 ```

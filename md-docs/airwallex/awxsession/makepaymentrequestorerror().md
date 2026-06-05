@@ -21,6 +21,8 @@
 
 # makePaymentRequestOrError()
 
+**Instance Method**
+
 ```
 func makePaymentRequestOrError() throws -> PKPaymentRequest
 ```

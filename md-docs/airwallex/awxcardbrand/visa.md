@@ -21,6 +21,8 @@
 
 # visa
 
+**Type Property**
+
 ```
 static let visa: AWXCardBrand
 ```

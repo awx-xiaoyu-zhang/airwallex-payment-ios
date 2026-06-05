@@ -21,6 +21,8 @@
 
 # AWXGetPaResResponse
 
+**Class**
+
 `AWXGetPaResResponse` includes the 3ds information of payment.
 
 ```

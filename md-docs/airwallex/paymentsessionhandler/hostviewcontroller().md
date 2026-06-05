@@ -21,6 +21,8 @@
 
 # hostViewController()
 
+**Instance Method**
+
 ```
 @MainActor func hostViewController() -> UIViewController
 ```

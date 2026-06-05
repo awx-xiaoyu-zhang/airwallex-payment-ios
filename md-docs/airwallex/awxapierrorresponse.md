@@ -21,6 +21,8 @@
 
 # AWXAPIErrorResponse
 
+**Class**
+
 An `AWXAPIErrorResponse` includes error details.
 
 ```

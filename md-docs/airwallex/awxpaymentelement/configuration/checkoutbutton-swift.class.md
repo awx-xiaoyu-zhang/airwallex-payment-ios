@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.Configuration.CheckoutButton
 
+**Class**
+
 Configuration for the checkout button title.
 
 ```

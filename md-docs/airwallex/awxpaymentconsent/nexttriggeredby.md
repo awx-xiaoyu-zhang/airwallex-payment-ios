@@ -21,6 +21,8 @@
 
 # nextTriggeredBy
 
+**Instance Property**
+
 Next trigger By type.
 
 ```

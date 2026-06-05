@@ -21,6 +21,8 @@
 
 # rawValue
 
+**Instance Property**
+
 ```
 var rawValue: UInt
 ```

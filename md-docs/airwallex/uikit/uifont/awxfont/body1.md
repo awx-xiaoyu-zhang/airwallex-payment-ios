@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.body1
 
+**Case**
+
 17 regular - Any paragraph text; Form fields text
 17 bold - Bold paragraph text
 

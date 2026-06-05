@@ -21,6 +21,8 @@
 
 # amount
 
+**Instance Property**
+
 The payment amount as an NSDecimalNumber value.
 
 ```

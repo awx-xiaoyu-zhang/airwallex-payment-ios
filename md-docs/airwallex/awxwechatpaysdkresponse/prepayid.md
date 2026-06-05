@@ -21,6 +21,8 @@
 
 # prepayId
 
+**Instance Property**
+
 Prepay id
 
 ```

@@ -21,6 +21,8 @@
 
 # Airwallex
 
+**Framework**
+
 ## Overview
 
 The Airwallex iOS SDK is a flexible tool that enables you to integrate payment methods into your iOS app. It provides native UI screens to facilitate payment functions on top of your existing purchase flow. You can also choose to build your own custom UI using API integration.

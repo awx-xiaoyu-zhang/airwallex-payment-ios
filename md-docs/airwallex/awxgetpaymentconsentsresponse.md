@@ -21,6 +21,8 @@
 
 # AWXGetPaymentConsentsResponse
 
+**Class**
+
 ```
 class AWXGetPaymentConsentsResponse
 ```

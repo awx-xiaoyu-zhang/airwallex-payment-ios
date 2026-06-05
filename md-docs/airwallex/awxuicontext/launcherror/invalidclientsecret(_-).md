@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError.invalidClientSecret(_:)
 
+**Case**
+
 ```
 case invalidClientSecret(String)
 ```

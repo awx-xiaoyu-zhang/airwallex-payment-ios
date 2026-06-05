@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.backgroundHighlight
 
+**Case**
+
 ```
 case backgroundHighlight
 ```

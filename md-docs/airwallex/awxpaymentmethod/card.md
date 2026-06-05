@@ -21,6 +21,8 @@
 
 # card
 
+**Instance Property**
+
 Card object.
 
 ```

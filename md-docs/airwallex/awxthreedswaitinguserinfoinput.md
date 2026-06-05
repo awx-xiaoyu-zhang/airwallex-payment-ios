@@ -21,6 +21,8 @@
 
 # AWXThreeDSWaitingUserInfoInput
 
+**Global Variable**
+
 ```
 let AWXThreeDSWaitingUserInfoInput: String
 ```

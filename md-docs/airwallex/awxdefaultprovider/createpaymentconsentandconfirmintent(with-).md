@@ -21,6 +21,8 @@
 
 # createPaymentConsentAndConfirmIntent(with:)
 
+**Instance Method**
+
 Create a new payment consent and confirm the payment intent with payment method.
 
 ```

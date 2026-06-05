@@ -21,6 +21,8 @@
 
 # qrcode
 
+**Type Property**
+
 ```
 static let qrcode: AWXPaymentMethodFlow
 ```

@@ -21,6 +21,8 @@
 
 # AWXUIContext.ElementType
 
+**Enumeration**
+
 The type of payment flow to display.
 
 ```

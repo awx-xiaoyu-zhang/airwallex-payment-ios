@@ -21,6 +21,8 @@
 
 # countryCode
 
+**Type Property**
+
 ```
 static var countryCode: RequiredBillingContactFields { get }
 ```

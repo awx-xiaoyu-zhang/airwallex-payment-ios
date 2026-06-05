@@ -21,6 +21,8 @@
 
 # AWXThreatMatrixOrganizationID
 
+**Global Variable**
+
 ```
 let AWXThreatMatrixOrganizationID: String
 ```

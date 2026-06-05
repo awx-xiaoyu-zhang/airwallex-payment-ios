@@ -21,6 +21,8 @@
 
 # init(session:viewController:methodType:)
 
+**Initializer**
+
 Initializes a `PaymentSessionHandler` with a payment session and a view controller that also acts as a payment result delegate.
 
 ```

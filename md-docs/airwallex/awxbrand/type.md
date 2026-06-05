@@ -21,6 +21,8 @@
 
 # type
 
+**Instance Property**
+
 The brand type.
 
 ```

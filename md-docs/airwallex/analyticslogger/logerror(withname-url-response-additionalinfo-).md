@@ -21,6 +21,8 @@
 
 # logError(withName:url:response:additionalInfo:)
 
+**Instance Method**
+
 ```
 func logError(withName eventName: String, url: URL, response errorResponse: AWXAPIErrorResponse, additionalInfo: [String : Any]?)
 ```

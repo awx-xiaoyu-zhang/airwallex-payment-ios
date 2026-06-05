@@ -21,6 +21,8 @@
 
 # description
 
+**Instance Property**
+
 ```
 var description: String { get }
 ```

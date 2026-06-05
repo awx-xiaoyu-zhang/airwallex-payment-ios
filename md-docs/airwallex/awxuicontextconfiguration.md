@@ -21,6 +21,8 @@
 
 # AWXUIContextConfiguration
 
+**Class**
+
 Configuration options for launching the payment UI.
 Use this class to customize the payment flow launched by <code>AWXUIContext</code>.
 

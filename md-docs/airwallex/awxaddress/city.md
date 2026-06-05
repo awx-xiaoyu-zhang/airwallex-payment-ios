@@ -21,6 +21,8 @@
 
 # city
 
+**Instance Property**
+
 City of the address.
 
 ```

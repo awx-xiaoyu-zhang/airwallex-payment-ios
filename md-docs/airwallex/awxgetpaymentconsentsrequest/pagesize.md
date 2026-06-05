@@ -21,6 +21,8 @@
 
 # pageSize
 
+**Instance Property**
+
 Number of payment methods to be listed per page.
 
 ```

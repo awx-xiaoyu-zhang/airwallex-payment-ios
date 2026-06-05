@@ -21,6 +21,8 @@
 
 # AWXApplePaySupportedNetworks()
 
+**Function**
+
 ```
 func AWXApplePaySupportedNetworks() -> [PKPaymentNetwork]
 ```

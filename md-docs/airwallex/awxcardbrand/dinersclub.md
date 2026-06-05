@@ -21,6 +21,8 @@
 
 # dinersClub
 
+**Type Property**
+
 ```
 static let dinersClub: AWXCardBrand
 ```

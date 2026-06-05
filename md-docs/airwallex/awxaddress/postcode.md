@@ -21,6 +21,8 @@
 
 # postcode
 
+**Instance Property**
+
 Postcode of the address.
 
 ```

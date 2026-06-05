@@ -21,6 +21,8 @@
 
 # surfaceBackgroundColor()
 
+**Instance Method**
+
 ```
 func surfaceBackgroundColor() -> UIColor
 ```

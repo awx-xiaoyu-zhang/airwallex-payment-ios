@@ -21,6 +21,8 @@
 
 # showsAsPrimaryButton
 
+**Instance Property**
+
 Whether to prioritize Apple Pay by showing it prominently at the top.
 
 ```

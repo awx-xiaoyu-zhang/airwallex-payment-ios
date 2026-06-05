@@ -21,6 +21,8 @@
 
 # PaymentAmountType.variable
 
+**Case**
+
 ```
 case variable
 ```

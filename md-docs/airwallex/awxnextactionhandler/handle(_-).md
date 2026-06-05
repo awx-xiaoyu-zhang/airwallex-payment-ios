@@ -21,6 +21,8 @@
 
 # handle(_:)
 
+**Instance Method**
+
 ```
 func handle(_ nextAction: AWXConfirmPaymentNextAction)
 ```

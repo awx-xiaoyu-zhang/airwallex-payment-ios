@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.ElementType.paymentSheet
 
+**Case**
+
 Display a list of available payment methods (default)
 
 ```

@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor
 
+**Enumeration**
+
 ```
 enum SemanticColor
 ```

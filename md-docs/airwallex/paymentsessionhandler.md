@@ -21,6 +21,8 @@
 
 # PaymentSessionHandler
 
+**Class**
+
 A low-level API handler for managing Airwallex payment sessions.
 
 ```

@@ -21,6 +21,8 @@
 
 # uiType
 
+**Instance Property**
+
 ui type.
 
 ```

@@ -21,6 +21,8 @@
 
 # transactionMode
 
+**Instance Property**
+
 transaction_mode of the payment method. One of oneoff, recurring.
 
 ```

@@ -22,6 +22,8 @@
 
 # queryItems()
 
+**Instance Method**
+
 ```
 func queryItems() -> [Any]?
 ```

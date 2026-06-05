@@ -21,6 +21,8 @@
 
 # supportedNetworks
 
+**Instance Property**
+
 The payment networks supported by the merchant, for example @[PKPaymentNetworkVisa, PKPaymentNetworkMasterCard].
 This property constrains payment cards that may fund the payment. Default value includes Visa, Mastercard, UnionPay, Amex, Discover and JCB.
 

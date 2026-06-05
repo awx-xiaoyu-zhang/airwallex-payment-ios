@@ -21,6 +21,8 @@
 
 # validateData()
 
+**Instance Method**
+
 ```
 func validateData() -> String?
 ```

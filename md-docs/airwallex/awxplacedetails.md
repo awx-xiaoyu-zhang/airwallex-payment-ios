@@ -21,6 +21,8 @@
 
 # AWXPlaceDetails
 
+**Class**
+
 `AWXPlaceDetails` includes the information of a billing address.
 
 ```

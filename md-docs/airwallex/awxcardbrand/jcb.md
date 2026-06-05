@@ -21,6 +21,8 @@
 
 # JCB
 
+**Type Property**
+
 ```
 static let JCB: AWXCardBrand
 ```

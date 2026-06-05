@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.backgroundInteractive
 
+**Case**
+
 ```
 case backgroundInteractive
 ```

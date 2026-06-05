@@ -22,6 +22,8 @@
 
 # init(currency:)
 
+**Initializer**
+
 ```
 init(currency: String)
 ```

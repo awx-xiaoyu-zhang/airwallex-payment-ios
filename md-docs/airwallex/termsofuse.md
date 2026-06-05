@@ -21,6 +21,8 @@
 
 # TermsOfUse
 
+**Class**
+
 Terms to specify how this Payment Consent will be used
 
 ```

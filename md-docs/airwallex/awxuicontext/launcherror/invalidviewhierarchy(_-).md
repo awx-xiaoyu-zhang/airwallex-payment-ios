@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError.invalidViewHierarchy(_:)
 
+**Case**
+
 ```
 case invalidViewHierarchy(String)
 ```

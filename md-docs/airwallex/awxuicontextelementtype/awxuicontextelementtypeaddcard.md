@@ -21,4 +21,6 @@
 
 # AWXUIContextElementTypeAddCard
 
+**Enumeration Case**
+
 Display card paymenelementTypet element only (for adding new cards).

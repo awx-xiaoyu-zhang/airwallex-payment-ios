@@ -21,6 +21,8 @@
 
 # last4
 
+**Instance Property**
+
 Last four digits of the card number.
 
 ```

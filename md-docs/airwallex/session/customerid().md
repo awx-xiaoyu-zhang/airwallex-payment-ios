@@ -21,6 +21,8 @@
 
 # customerId()
 
+**Instance Method**
+
 Returns the customer ID associated with the current payment intent.
 
 ```

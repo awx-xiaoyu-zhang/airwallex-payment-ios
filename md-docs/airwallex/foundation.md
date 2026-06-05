@@ -21,6 +21,8 @@
 
 # Foundation
 
+**Extended Module**
+
 ## Extended Classes
 
 [`Bundle`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/bundle.md)

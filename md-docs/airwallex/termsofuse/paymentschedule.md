@@ -21,6 +21,8 @@
 
 # paymentSchedule
 
+**Instance Property**
+
 Payment schedule configuration
 Required if merchant_trigger_reason = scheduled
 

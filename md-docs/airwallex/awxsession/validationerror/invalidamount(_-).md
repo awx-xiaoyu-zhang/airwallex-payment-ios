@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError.invalidAmount(_:)
 
+**Case**
+
 ```
 case invalidAmount(String)
 ```

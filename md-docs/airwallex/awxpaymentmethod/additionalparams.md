@@ -21,6 +21,8 @@
 
 # additionalParams
 
+**Instance Property**
+
 Additional params  for wechat, redirect or applepay type.
 
 ```

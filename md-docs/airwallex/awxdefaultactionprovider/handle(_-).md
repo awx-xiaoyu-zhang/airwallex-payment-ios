@@ -21,6 +21,8 @@
 
 # handle(_:)
 
+**Instance Method**
+
 Start next action.
 
 ```

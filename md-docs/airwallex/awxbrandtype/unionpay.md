@@ -21,6 +21,8 @@
 
 # AWXBrandType.unionPay
 
+**Case**
+
 ```
 case unionPay
 ```

@@ -21,6 +21,8 @@
 
 # tintColor
 
+**Instance Property**
+
 The primary tint color used for theming.
 
 ```

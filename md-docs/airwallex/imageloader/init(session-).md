@@ -21,6 +21,8 @@
 
 # init(session:)
 
+**Initializer**
+
 ```
 init(session: URLSession = URLSession.shared)
 ```

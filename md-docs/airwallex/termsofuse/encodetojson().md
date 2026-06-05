@@ -21,6 +21,8 @@
 
 # encodeToJSON()
 
+**Instance Method**
+
 ```
 func encodeToJSON() -> [AnyHashable : Any]
 ```

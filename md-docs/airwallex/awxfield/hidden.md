@@ -21,6 +21,8 @@
 
 # hidden
 
+**Instance Property**
+
 hidden.
 
 ```

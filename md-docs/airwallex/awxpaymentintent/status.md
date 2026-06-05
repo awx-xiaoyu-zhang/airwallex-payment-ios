@@ -21,6 +21,8 @@
 
 # status
 
+**Instance Property**
+
 Payment intent status. REQUIRES_PAYMENT_METHOD, REQUIRES_CUSTOMER_ACTION, REQUIRES_MERCHANT_ACTION, SUCCEEDED, CANCELLED
 
 ```

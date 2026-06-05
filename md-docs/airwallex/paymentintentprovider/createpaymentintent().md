@@ -21,6 +21,8 @@
 
 # createPaymentIntent()
 
+**Instance Method**
+
 Creates a payment intent asynchronously.
 
 ```

@@ -21,4 +21,6 @@
 
 # launchStyle
 
+**Instance Property**
+
 Presentation style: .push or .present.

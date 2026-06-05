@@ -21,6 +21,8 @@
 
 # AirwallexPaymentStatus.inProgress
 
+**Case**
+
 ```
 case inProgress
 ```

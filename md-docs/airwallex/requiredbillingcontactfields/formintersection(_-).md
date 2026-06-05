@@ -22,6 +22,8 @@
 
 # formIntersection(_:)
 
+**Instance Method**
+
 ```
 mutating func formIntersection(_ other: Self)
 ```

@@ -21,6 +21,8 @@
 
 # AWXWeChatPayActionProvider
 
+**Class**
+
 `AWXWeChatPayActionProvider` handles WeChat pay flow.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXDisablePaymentConsentResponse
 
+**Class**
+
 `AWXDisablePaymentMethodResponse` includes the payment method disabled.
 
 ```

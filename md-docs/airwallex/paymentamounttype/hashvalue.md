@@ -22,6 +22,8 @@
 
 # hashValue
 
+**Instance Property**
+
 ```
 var hashValue: Int { get }
 ```

@@ -21,6 +21,8 @@
 
 # transactionMode()
 
+**Instance Method**
+
 Return transaction mode.
 
 ```

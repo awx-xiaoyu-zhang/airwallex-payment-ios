@@ -21,6 +21,8 @@
 
 # action
 
+**Instance Property**
+
 ```
 var action: String { get }
 ```

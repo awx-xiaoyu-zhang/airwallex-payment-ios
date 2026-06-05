@@ -21,6 +21,8 @@
 
 # AWXPaymentTransactionModeOneOff
 
+**Global Variable**
+
 ```
 let AWXPaymentTransactionModeOneOff: String
 ```

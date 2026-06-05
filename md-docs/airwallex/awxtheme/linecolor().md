@@ -21,6 +21,8 @@
 
 # lineColor()
 
+**Instance Method**
+
 ```
 func lineColor() -> UIColor
 ```

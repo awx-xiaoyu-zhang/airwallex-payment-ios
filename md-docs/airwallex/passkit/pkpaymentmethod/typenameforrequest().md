@@ -22,6 +22,8 @@
 
 # typeNameForRequest()
 
+**Instance Method**
+
 ```
 func typeNameForRequest() -> String
 ```

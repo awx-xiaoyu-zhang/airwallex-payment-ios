@@ -22,6 +22,8 @@
 
 # init(from:)
 
+**Initializer**
+
 ```
 init(from color: UIColor)
 ```

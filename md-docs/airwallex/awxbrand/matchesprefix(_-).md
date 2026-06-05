@@ -21,6 +21,8 @@
 
 # matchesPrefix(_:)
 
+**Instance Method**
+
 ```
 func matchesPrefix(_ number: String) -> Bool
 ```

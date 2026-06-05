@@ -21,6 +21,8 @@
 
 # setDefaultBaseURL(_:)
 
+**Type Method**
+
 Set base URL.
 
 ```

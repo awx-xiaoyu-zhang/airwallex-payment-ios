@@ -21,4 +21,6 @@
 
 # PaymentLayoutAccordion
 
+**Enumeration Case**
+
 Display payment methods in an expandable accordion layout.

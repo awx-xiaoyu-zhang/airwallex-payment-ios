@@ -21,4 +21,6 @@
 
 # AWXPaymentElementTypeAddCard
 
+**Enumeration Case**
+
 Display card payment element only (for adding new cards)

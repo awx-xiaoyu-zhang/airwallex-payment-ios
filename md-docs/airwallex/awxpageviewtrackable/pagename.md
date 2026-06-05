@@ -21,6 +21,8 @@
 
 # pageName
 
+**Instance Property**
+
 ```
 var pageName: String! { get }
 ```

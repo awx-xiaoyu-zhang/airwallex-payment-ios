@@ -21,6 +21,8 @@
 
 # requiresCVC()
 
+**Instance Method** · *
+
 Return whether it requres CVC.
 
 ## Deprecated

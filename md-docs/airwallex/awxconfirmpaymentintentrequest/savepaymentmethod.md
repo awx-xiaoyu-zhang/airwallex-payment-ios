@@ -21,6 +21,8 @@
 
 # savePaymentMethod
 
+**Instance Property** · *
+
 Save payment method.
 
 ## Deprecated

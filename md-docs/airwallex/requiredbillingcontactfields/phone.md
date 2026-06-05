@@ -21,6 +21,8 @@
 
 # phone
 
+**Type Property**
+
 ```
 static var phone: RequiredBillingContactFields { get }
 ```

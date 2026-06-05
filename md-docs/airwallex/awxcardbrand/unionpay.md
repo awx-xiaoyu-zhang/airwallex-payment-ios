@@ -21,6 +21,8 @@
 
 # unionPay
 
+**Type Property**
+
 ```
 static let unionPay: AWXCardBrand
 ```

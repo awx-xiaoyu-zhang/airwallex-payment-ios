@@ -21,6 +21,8 @@
 
 # value
 
+**Instance Property**
+
 value.
 
 ```

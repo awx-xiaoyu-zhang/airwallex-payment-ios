@@ -21,6 +21,8 @@
 
 # fromCreatedAt
 
+**Instance Property**
+
 The start time of created_at in ISO8601 format.
 
 ```

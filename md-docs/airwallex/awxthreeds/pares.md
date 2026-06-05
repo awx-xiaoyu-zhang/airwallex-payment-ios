@@ -21,6 +21,8 @@
 
 # paRes
 
+**Instance Property**
+
 Three domain request.
 
 ```

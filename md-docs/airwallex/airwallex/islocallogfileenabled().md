@@ -21,6 +21,8 @@
 
 # isLocalLogFileEnabled()
 
+**Type Method**
+
 Get whether local Log file is enabled, by default it’s turned off.
 
 ```

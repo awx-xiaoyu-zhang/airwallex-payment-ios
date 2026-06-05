@@ -21,6 +21,8 @@
 
 # AWXViewController
 
+**Class**
+
 `AWXViewController` is the base view controller.
 
 ```

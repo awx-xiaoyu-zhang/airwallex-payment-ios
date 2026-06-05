@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.optional2
 
+**Case**
+
 12 regular - Alert (Inline & subtle), Form fields
 
 ```

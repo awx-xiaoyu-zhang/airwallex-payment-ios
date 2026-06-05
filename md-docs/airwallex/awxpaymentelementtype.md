@@ -21,6 +21,8 @@
 
 # AWXPaymentElementType
 
+**Enumeration**
+
 The type of element to display.
 
 ## Enumeration Cases

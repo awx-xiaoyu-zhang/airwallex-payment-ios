@@ -21,6 +21,8 @@
 
 # init(configuration:)
 
+**Initializer**
+
 Initializer.
 
 ```

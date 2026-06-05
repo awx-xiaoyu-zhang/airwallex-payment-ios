@@ -21,6 +21,8 @@
 
 # provider(_:shouldInsert:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, shouldInsert controller: UIViewController)
 ```

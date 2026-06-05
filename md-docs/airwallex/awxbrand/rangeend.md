@@ -21,6 +21,8 @@
 
 # rangeEnd
 
+**Instance Property**
+
 The end of  card No.
 
 ```

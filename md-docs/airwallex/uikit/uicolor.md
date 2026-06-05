@@ -22,6 +22,8 @@
 
 # UIColor
 
+**Extended Class**
+
 ```
 extension UIColor
 ```

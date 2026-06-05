@@ -21,6 +21,8 @@
 
 # createdAt
 
+**Instance Property**
+
 Created at date.
 
 ```

@@ -21,6 +21,8 @@
 
 # defaultBaseURL()
 
+**Type Method**
+
 Get base URL.
 
 ```

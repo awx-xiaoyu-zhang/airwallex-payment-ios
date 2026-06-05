@@ -21,6 +21,8 @@
 
 # buttonType
 
+**Instance Property**
+
 Custom button type for the Apple Pay button.
 When `nil` (default), the SDK automatically selects based on session type:
 `.plain` for one-off payments, `.subscribe` for recurring.

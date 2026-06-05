@@ -21,6 +21,8 @@
 
 # setRequiresCVC(_:)
 
+**Instance Method** · *
+
 ```
 func setRequiresCVC(_ requiresCVC: Bool)
 ```

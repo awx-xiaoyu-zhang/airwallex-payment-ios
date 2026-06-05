@@ -22,6 +22,8 @@
 
 # body()
 
+**Type Method**
+
 ```
 class func body() -> UIFont
 ```

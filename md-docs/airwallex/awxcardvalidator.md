@@ -21,6 +21,8 @@
 
 # AWXCardValidator
 
+**Class**
+
 `AWXCardValidator` manages the card info.
 
 ```

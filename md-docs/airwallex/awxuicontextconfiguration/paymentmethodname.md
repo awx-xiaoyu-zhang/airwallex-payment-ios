@@ -21,6 +21,8 @@
 
 # paymentMethodName
 
+**Instance Property**
+
 The payment method name to display when elementType is .component.
 Required for .component; ignored for .paymentSheet.
 If elementType is .component and this is nil, falls back to .paymentSheet.

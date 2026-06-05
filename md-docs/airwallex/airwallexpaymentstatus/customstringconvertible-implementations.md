@@ -11,6 +11,8 @@
 
 # CustomStringConvertible Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`description`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/description.md)

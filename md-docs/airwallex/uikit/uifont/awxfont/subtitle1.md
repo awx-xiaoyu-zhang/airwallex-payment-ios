@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.subtitle1
 
+**Case**
+
 15 regular -Tip, HeadingGroup caption, Label, Checkbox, Radio Button, DatePicker
 15 bold - Tip, StatusBar, Chip, CurrencySelector, DatePicker input text, CurrencyField
 

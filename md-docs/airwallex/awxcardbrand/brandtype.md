@@ -21,6 +21,8 @@
 
 # brandType
 
+**Instance Property**
+
 ```
 var brandType: AWXBrandType { get }
 ```

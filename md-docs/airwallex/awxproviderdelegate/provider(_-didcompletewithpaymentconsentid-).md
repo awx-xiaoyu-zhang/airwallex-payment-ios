@@ -21,6 +21,8 @@
 
 # provider(_:didCompleteWithPaymentConsentId:)
 
+**Instance Method**
+
 This method is called when payment is completed and payment consent id is produced.
 
 ```

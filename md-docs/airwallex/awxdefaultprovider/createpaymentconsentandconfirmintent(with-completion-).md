@@ -21,6 +21,8 @@
 
 # createPaymentConsentAndConfirmIntent(with:completion:)
 
+**Instance Method**
+
 Create a new payment consent and confirm the payment intent with payment method as well as a custom completion block.
 
 ```

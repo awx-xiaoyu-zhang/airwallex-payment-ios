@@ -21,6 +21,8 @@
 
 # type
 
+**Instance Property**
+
 Type of the payment method. One of card, wechatpay, applepay.
 
 ```

@@ -21,6 +21,8 @@
 
 # provider(_:didCompleteWith:error:)
 
+**Instance Method**
+
 This method is called when payment is completed.
 
 ```

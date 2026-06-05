@@ -21,6 +21,8 @@
 
 # Palette
 
+**Structure**
+
 ```
 struct Palette
 ```

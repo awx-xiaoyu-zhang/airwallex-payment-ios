@@ -21,6 +21,8 @@
 
 # AWXPage
 
+**Protocol**
+
 ```
 protocol AWXPage
 ```

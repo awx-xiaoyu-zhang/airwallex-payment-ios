@@ -21,6 +21,8 @@
 
 # availablePaymentMethodTypes
 
+**Instance Property**
+
 Available payment method types.
 
 ```

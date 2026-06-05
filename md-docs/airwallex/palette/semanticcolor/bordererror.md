@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.borderError
 
+**Case**
+
 ```
 case borderError
 ```

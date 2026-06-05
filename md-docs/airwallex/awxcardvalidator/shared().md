@@ -21,6 +21,8 @@
 
 # shared()
 
+**Type Method**
+
 ```
 class func shared() -> Self
 ```

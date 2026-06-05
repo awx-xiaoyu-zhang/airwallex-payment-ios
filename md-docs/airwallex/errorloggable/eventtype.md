@@ -21,6 +21,8 @@
 
 # eventType
 
+**Instance Property**
+
 ```
 var eventType: String? { get }
 ```

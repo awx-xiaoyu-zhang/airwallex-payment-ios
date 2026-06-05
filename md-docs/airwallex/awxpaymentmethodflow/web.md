@@ -21,6 +21,8 @@
 
 # web
 
+**Type Property**
+
 ```
 static let web: AWXPaymentMethodFlow
 ```

@@ -21,6 +21,8 @@
 
 # AirwallexSDKMode.demoMode
 
+**Case**
+
 ```
 case demoMode
 ```

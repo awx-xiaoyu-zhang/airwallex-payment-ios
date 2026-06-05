@@ -21,6 +21,8 @@
 
 # enableLocalLogFile()
 
+**Type Method**
+
 Enable local log file.
 
 ```

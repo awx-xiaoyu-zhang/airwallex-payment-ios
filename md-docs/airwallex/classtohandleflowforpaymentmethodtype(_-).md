@@ -21,6 +21,8 @@
 
 # ClassToHandleFlowForPaymentMethodType(_:)
 
+**Function**
+
 ```
 func ClassToHandleFlowForPaymentMethodType(_ type: AWXPaymentMethodType) -> AnyClass?
 ```

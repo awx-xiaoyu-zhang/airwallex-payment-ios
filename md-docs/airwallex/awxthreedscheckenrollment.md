@@ -21,6 +21,8 @@
 
 # AWXThreeDSCheckEnrollment
 
+**Global Variable**
+
 ```
 let AWXThreeDSCheckEnrollment: String
 ```

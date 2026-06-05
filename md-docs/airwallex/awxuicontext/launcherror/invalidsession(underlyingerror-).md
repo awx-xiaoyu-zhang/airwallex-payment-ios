@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError.invalidSession(underlyingError:)
 
+**Case**
+
 ```
 case invalidSession(underlyingError: Error)
 ```

@@ -22,6 +22,8 @@
 
 # queryURLEncoding()
 
+**Instance Method**
+
 ```
 func queryURLEncoding() -> String
 ```

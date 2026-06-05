@@ -21,6 +21,8 @@
 
 # AWXThreeDs
 
+**Class**
+
 `AWXThreeDs` includes the information of 3ds.
 
 ```

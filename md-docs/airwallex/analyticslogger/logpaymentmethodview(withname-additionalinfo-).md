@@ -21,6 +21,8 @@
 
 # logPaymentMethodView(withName:additionalInfo:)
 
+**Instance Method**
+
 ```
 func logPaymentMethodView(withName name: String, additionalInfo: [String : Any])
 ```

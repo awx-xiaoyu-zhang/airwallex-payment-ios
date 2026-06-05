@@ -21,6 +21,8 @@
 
 # FormatAirwallexSDKMode(_:)
 
+**Function**
+
 ```
 func FormatAirwallexSDKMode(_ mode: AirwallexSDKMode) -> String
 ```

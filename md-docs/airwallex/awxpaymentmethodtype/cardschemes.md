@@ -21,6 +21,8 @@
 
 # cardSchemes
 
+**Instance Property**
+
 Supported card schemes
 
 ```

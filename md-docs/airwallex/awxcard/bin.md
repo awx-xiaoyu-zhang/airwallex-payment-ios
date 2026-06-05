@@ -21,6 +21,8 @@
 
 # bin
 
+**Instance Property**
+
 Bank identify number of this card.
 
 ```

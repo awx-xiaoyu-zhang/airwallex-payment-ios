@@ -21,6 +21,8 @@
 
 # requiredBillingContactFields
 
+**Instance Property**
+
 The billing information that you require from the user in order to process the transaction. Default value is empty set.
 
 ```

@@ -22,6 +22,8 @@
 
 # convertToDictionary()
 
+**Instance Method**
+
 ```
 func convertToDictionary() -> [AnyHashable : Any]
 ```

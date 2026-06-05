@@ -21,6 +21,8 @@
 
 # disableCardArt
 
+**Instance Property**
+
 Whether to disable card art on the Apple Pay button.
 Only applies on iOS 26+. Default is `true`.
 

@@ -21,6 +21,8 @@
 
 # disabledButtonColor()
 
+**Instance Method**
+
 ```
 func disabledButtonColor() -> UIColor
 ```

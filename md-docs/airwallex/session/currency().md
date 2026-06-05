@@ -21,6 +21,8 @@
 
 # currency()
 
+**Instance Method**
+
 Returns the currency code for the current payment.
 
 ```

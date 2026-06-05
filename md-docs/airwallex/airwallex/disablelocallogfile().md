@@ -21,6 +21,8 @@
 
 # disableLocalLogFile()
 
+**Type Method**
+
 Disable local log file.
 
 ```

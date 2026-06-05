@@ -21,6 +21,8 @@
 
 # score
 
+**Instance Property**
+
 ```
 var score: String { get }
 ```

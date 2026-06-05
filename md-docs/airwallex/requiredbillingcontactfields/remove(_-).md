@@ -22,6 +22,8 @@
 
 # remove(_:)
 
+**Instance Method**
+
 ```
 @discardableResult mutating func remove(_ member: Self.Element) -> Self.Element?
 ```

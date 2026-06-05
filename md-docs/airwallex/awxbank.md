@@ -21,6 +21,8 @@
 
 # AWXBank
 
+**Class**
+
 `AWXBank` includes the bank info.
 
 ```

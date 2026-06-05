@@ -21,6 +21,8 @@
 
 # avsCheck
 
+**Instance Property**
+
 Whether address pass the check.
 
 ```

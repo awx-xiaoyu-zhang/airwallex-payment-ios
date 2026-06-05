@@ -21,6 +21,8 @@
 
 # AWXRequestHandler
 
+**Type Alias**
+
 ```
 typealias AWXRequestHandler = (AWXResponse?, (any Error)?) -> Void
 ```

@@ -21,6 +21,8 @@
 
 # init(message:code:)
 
+**Initializer**
+
 Initializer.
 
 ```

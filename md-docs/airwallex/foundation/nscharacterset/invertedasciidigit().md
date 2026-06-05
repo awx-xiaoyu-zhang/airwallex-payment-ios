@@ -22,6 +22,8 @@
 
 # invertedAsciiDigit()
 
+**Type Method**
+
 ```
 class func invertedAsciiDigit() -> CharacterSet
 ```

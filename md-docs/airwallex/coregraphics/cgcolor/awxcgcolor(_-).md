@@ -22,6 +22,8 @@
 
 # awxCGColor(_:)
 
+**Type Method**
+
 ```
 static func awxCGColor(_ cgColor: Palette.SemanticColor) -> CGColor
 ```

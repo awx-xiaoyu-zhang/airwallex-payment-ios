@@ -21,6 +21,8 @@
 
 # sessionConfiguration
 
+**Instance Property**
+
 Optional session configuration
 
 ```

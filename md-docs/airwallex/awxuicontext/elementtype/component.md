@@ -21,6 +21,8 @@
 
 # AWXUIContext.ElementType.component
 
+**Case**
+
 Display a single payment method component.
 Requires `paymentMethodName` to be set on the configuration.
 

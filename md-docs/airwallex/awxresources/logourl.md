@@ -21,6 +21,8 @@
 
 # logoURL
 
+**Instance Property**
+
 Logo url
 
 ```

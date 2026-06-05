@@ -21,6 +21,8 @@
 
 # amount
 
+**Instance Property**
+
 Payment amount.
 
 ```

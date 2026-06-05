@@ -21,4 +21,6 @@
 
 # PaymentLayoutTab
 
+**Enumeration Case**
+
 Display payment methods in a tabbed layout.

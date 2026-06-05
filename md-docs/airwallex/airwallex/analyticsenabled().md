@@ -21,6 +21,8 @@
 
 # analyticsEnabled()
 
+**Type Method**
+
 Get whether analytics is enabled, by default it’s turned on.
 
 ```

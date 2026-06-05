@@ -21,6 +21,8 @@
 
 # AWXCardCVCViewController
 
+**Class**
+
 `AWXCardCVCViewController` provides a confirm button for user to finish checkout flow with payment consent.
 
 ```

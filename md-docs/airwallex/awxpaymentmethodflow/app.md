@@ -21,6 +21,8 @@
 
 # app
 
+**Type Property**
+
 ```
 static let app: AWXPaymentMethodFlow
 ```

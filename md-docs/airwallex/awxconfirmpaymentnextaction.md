@@ -21,6 +21,8 @@
 
 # AWXConfirmPaymentNextAction
 
+**Class**
+
 `AWXConfirmPaymentNextAction` includes the parameters for next action.
 
 ```

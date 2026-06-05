@@ -11,6 +11,8 @@
 
 # CustomNSError Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`errorCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/errorcode.md)

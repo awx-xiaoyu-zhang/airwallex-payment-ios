@@ -21,6 +21,8 @@
 
 # disableAnalytics()
 
+**Type Method**
+
 Disable analytics.
 
 ```

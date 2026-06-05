@@ -21,6 +21,8 @@
 
 # transactionMode()
 
+**Instance Method**
+
 Determines the transaction mode based on the presence of recurring options.
 
 ```

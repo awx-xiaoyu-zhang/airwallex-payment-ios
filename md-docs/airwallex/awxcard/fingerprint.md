@@ -21,6 +21,8 @@
 
 # fingerprint
 
+**Instance Property**
+
 Fingerprint of the card.
 
 ```

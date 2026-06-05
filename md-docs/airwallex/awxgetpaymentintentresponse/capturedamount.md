@@ -21,6 +21,8 @@
 
 # capturedAmount
 
+**Instance Property**
+
 Captured amount.
 
 ```

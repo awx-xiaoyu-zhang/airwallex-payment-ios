@@ -21,6 +21,8 @@
 
 # init(code:)
 
+**Initializer**
+
 Get a matched country object.
 
 ```

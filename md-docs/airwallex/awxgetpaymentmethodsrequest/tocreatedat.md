@@ -21,6 +21,8 @@
 
 # toCreatedAt
 
+**Instance Property**
+
 The end time of created_at in ISO8601 format
 
 ```

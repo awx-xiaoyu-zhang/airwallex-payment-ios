@@ -21,6 +21,8 @@
 
 # AirwallexSDKMode.stagingMode
 
+**Case**
+
 ```
 case stagingMode
 ```

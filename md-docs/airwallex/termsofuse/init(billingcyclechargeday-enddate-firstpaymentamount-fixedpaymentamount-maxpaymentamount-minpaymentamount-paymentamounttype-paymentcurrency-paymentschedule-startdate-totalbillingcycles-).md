@@ -21,6 +21,8 @@
 
 # init(billingCycleChargeDay:endDate:firstPaymentAmount:fixedPaymentAmount:maxPaymentAmount:minPaymentAmount:paymentAmountType:paymentCurrency:paymentSchedule:startDate:totalBillingCycles:)
 
+**Initializer**
+
 Creates a new TermsOfUse instance to specify how Payment Consent will be used.
 
 ```

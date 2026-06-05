@@ -21,6 +21,8 @@
 
 # init(delegate:session:)
 
+**Initializer**
+
 ```
 init(delegate: any AWXProviderDelegate, session: AWXSession)
 ```

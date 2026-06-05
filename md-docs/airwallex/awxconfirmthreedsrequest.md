@@ -21,6 +21,8 @@
 
 # AWXConfirmThreeDSRequest
 
+**Class**
+
 `AWXConfirmThreeDSRequest` includes all of the parameters needed to confirm 3ds.
 
 ```

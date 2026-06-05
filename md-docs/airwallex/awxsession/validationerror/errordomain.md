@@ -21,6 +21,8 @@
 
 # errorDomain
 
+**Type Property**
+
 ```
 static var errorDomain: String { get }
 ```

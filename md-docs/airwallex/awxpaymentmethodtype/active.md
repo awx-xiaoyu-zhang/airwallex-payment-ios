@@ -21,6 +21,8 @@
 
 # active
 
+**Instance Property**
+
 Whether payment method is active.
 
 ```

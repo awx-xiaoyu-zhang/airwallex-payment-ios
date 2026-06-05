@@ -21,6 +21,8 @@
 
 # AWXUIContext.LaunchError.invalidMethodFilter(_:)
 
+**Case**
+
 ```
 case invalidMethodFilter(String)
 ```

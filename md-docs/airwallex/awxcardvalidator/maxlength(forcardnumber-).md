@@ -21,6 +21,8 @@
 
 # maxLength(forCardNumber:)
 
+**Instance Method**
+
 ```
 func maxLength(forCardNumber cardNumber: String) -> Int
 ```

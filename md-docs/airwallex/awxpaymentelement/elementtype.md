@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.ElementType
 
+**Enumeration**
+
 The type of element to display.
 
 ```

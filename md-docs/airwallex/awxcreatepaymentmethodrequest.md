@@ -21,6 +21,8 @@
 
 # AWXCreatePaymentMethodRequest
 
+**Class**
+
 `AWXCreatePaymentMethodRequest` includes all of the parameters needed to create a payment method.
 
 ```

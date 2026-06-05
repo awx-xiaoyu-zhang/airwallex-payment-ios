@@ -21,6 +21,8 @@
 
 # AirwallexSDKMode
 
+**Enumeration**
+
 ```
 @frozen enum AirwallexSDKMode
 ```

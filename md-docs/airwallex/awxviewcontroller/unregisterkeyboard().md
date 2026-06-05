@@ -21,6 +21,8 @@
 
 # unregisterKeyboard()
 
+**Instance Method**
+
 Unregister keyboard listener
 
 ```

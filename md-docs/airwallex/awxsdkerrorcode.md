@@ -21,6 +21,8 @@
 
 # AWXSDKErrorCode
 
+**Enumeration**
+
 ```
 enum AWXSDKErrorCode
 ```

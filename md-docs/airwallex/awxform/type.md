@@ -21,6 +21,8 @@
 
 # type
 
+**Instance Property**
+
 ```
 var type: AWXFormType { get set }
 ```

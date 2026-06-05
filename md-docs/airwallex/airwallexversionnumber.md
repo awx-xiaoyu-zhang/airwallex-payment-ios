@@ -20,3 +20,5 @@
 -->
 
 # AirwallexVersionNumber
+
+**Global Variable**

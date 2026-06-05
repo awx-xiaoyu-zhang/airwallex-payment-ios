@@ -21,6 +21,8 @@
 
 # enableAnalytics()
 
+**Type Method**
+
 enable analytics.
 
 ```

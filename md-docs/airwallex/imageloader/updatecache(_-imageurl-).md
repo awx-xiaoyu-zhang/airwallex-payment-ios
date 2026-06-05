@@ -21,6 +21,8 @@
 
 # updateCache(_:imageURL:)
 
+**Instance Method**
+
 ```
 func updateCache(_ image: UIImage?, imageURL: URL)
 ```

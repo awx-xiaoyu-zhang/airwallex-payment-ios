@@ -21,6 +21,8 @@
 
 # primaryButtonTextColor()
 
+**Instance Method**
+
 ```
 func primaryButtonTextColor() -> UIColor
 ```

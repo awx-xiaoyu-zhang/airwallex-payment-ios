@@ -21,6 +21,8 @@
 
 # AWXThreeDSValidate
 
+**Global Variable**
+
 ```
 let AWXThreeDSValidate: String
 ```

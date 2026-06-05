@@ -22,6 +22,8 @@
 
 # init(arrayLiteral:)
 
+**Initializer**
+
 ```
 init(arrayLiteral: Self.Element...)
 ```

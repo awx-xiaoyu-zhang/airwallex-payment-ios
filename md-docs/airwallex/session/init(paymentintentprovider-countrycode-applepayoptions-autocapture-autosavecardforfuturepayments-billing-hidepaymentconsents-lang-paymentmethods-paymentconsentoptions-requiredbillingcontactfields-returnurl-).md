@@ -21,6 +21,8 @@
 
 # init(paymentIntentProvider:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)
 
+**Initializer**
+
 Creates a new unified Session with delayed payment intent creation.
 
 ```

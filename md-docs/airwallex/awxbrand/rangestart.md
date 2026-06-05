@@ -21,6 +21,8 @@
 
 # rangeStart
 
+**Instance Property**
+
 The start of  card No.
 
 ```

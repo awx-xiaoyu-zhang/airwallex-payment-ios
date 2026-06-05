@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError.invalidSessionType(_:)
 
+**Case**
+
 ```
 case invalidSessionType(String)
 ```

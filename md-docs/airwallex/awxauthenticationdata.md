@@ -21,6 +21,8 @@
 
 # AWXAuthenticationData
 
+**Class**
+
 `AWXAuthenticationData` includes the parameters for 3ds authentication.
 
 ```

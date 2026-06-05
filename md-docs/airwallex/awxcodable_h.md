@@ -20,3 +20,5 @@
 -->
 
 # AWXCodable_h
+
+**Macro**

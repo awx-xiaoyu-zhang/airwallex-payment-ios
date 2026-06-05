@@ -22,6 +22,8 @@
 
 # UIFont.AWXFont
 
+**Enumeration**
+
 ```
 enum AWXFont
 ```

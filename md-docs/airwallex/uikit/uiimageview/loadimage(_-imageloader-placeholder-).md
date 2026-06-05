@@ -22,6 +22,8 @@
 
 # loadImage(_:imageLoader:placeholder:)
 
+**Instance Method**
+
 ```
 @MainActor func loadImage(_ imageURL: URL, imageLoader: ImageLoader, placeholder: UIImage? = nil)
 ```

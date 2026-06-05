@@ -21,6 +21,8 @@
 
 # logError(withName:additionalInfo:)
 
+**Instance Method**
+
 ```
 func logError(withName eventName: String, additionalInfo: [String : Any])
 ```

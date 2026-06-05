@@ -21,6 +21,8 @@
 
 # PaymentVersionString
 
+**Global Variable**
+
 Project version string for Payment.
 
 ```

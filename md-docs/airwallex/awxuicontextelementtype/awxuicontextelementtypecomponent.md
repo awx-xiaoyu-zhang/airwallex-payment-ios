@@ -21,5 +21,7 @@
 
 # AWXUIContextElementTypeComponent
 
+**Enumeration Case**
+
 Display a single payment method component.
 Requires <code>paymentMethodName</code> to be set on the configuration.

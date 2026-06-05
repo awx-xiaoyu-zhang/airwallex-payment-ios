@@ -21,6 +21,8 @@
 
 # registerKeyboard()
 
+**Instance Method**
+
 Register keyboard listener
 
 ```

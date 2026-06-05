@@ -21,6 +21,8 @@
 
 # initialPaymentIntentId
 
+**Instance Property**
+
 Payment intent id.
 
 ```

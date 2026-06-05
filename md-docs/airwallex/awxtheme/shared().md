@@ -21,6 +21,8 @@
 
 # shared()
 
+**Type Method**
+
 Convenience constructor for a theme.
 
 ```

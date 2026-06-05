@@ -22,6 +22,8 @@
 
 # isEmpty
 
+**Instance Property**
+
 ```
 var isEmpty: Bool { get }
 ```

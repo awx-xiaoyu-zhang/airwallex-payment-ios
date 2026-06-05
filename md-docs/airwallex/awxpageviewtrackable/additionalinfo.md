@@ -21,6 +21,8 @@
 
 # additionalInfo
 
+**Instance Property**
+
 ```
 optional var additionalInfo: [String : Any]! { get }
 ```

@@ -21,6 +21,8 @@
 
 # paymentConsent
 
+**Instance Property**
+
 Payment consent used/generated in payment flow
 
 ```

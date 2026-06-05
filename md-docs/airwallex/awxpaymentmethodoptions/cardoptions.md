@@ -21,6 +21,8 @@
 
 # cardOptions
 
+**Instance Property**
+
 The options for card.
 
 ```

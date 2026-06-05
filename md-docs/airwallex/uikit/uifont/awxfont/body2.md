@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.body2
 
+**Case**
+
 15 regular - TableData content, Secondary subheadings (eg. cardholder name), Search placeholder text, Alert body text
 15 bold - TableData balances
 

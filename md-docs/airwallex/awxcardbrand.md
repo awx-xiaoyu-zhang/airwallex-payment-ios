@@ -21,6 +21,8 @@
 
 # AWXCardBrand
 
+**Structure**
+
 ```
 struct AWXCardBrand
 ```

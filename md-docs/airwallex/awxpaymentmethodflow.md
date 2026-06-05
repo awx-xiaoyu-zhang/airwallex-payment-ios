@@ -21,6 +21,8 @@
 
 # AWXPaymentMethodFlow
 
+**Structure**
+
 ```
 struct AWXPaymentMethodFlow
 ```

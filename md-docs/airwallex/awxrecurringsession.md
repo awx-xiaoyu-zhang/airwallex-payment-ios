@@ -21,6 +21,8 @@
 
 # AWXRecurringSession
 
+**Class** · *
+
 `AWXRecurringSession` is the session used for recurring.
 
 ## Deprecated

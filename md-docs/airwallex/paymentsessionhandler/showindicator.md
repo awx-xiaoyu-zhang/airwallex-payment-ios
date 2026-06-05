@@ -21,6 +21,8 @@
 
 # showIndicator
 
+**Instance Property**
+
 whether display the default loading indicator
 Set this to false if you prefer to display your own indicator instead of the default one
 

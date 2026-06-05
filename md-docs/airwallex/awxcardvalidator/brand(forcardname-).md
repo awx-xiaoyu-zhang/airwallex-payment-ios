@@ -21,6 +21,8 @@
 
 # brand(forCardName:)
 
+**Instance Method**
+
 ```
 func brand(forCardName name: String) -> AWXBrand?
 ```

@@ -21,6 +21,8 @@
 
 # currency
 
+**Instance Property**
+
 Currency.
 
 ```

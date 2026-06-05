@@ -21,6 +21,8 @@
 
 # errorColor()
 
+**Instance Method**
+
 ```
 func errorColor() -> UIColor
 ```

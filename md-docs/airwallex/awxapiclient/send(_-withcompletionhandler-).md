@@ -21,6 +21,8 @@
 
 # send(_:withCompletionHandler:)
 
+**Instance Method**
+
 Send request.
 
 ```

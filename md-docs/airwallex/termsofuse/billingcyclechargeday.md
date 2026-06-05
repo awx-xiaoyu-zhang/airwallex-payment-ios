@@ -21,6 +21,8 @@
 
 # billingCycleChargeDay
 
+**Instance Property**
+
 The granularity per billing cycle. Required when payment_schedule.period_unit is WEEK, MONTH, or YEAR.
 
 ```

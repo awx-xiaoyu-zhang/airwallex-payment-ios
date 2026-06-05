@@ -22,6 +22,8 @@
 
 # payloadForRequest(withBilling:)
 
+**Instance Method**
+
 ```
 func payloadForRequest(withBilling billingPayload: [AnyHashable : Any]?) throws -> [AnyHashable : Any]
 ```

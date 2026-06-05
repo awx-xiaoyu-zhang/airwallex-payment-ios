@@ -21,6 +21,8 @@
 
 # AWXOneOffSession
 
+**Class** · *
+
 `AWXOneOffSession` is the session used for one-off payment.
 
 ## Deprecated

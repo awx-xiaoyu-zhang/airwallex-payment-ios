@@ -21,6 +21,8 @@
 
 # merchantIdentifier
 
+**Instance Property**
+
 Apple Pay merchant identifier.
 
 ```

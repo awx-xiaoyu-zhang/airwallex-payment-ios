@@ -21,6 +21,8 @@
 
 # setMode(_:)
 
+**Type Method**
+
 Set sdk mode.
 
 ```

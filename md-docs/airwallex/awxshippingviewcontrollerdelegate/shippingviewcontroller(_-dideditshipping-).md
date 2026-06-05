@@ -21,6 +21,8 @@
 
 # shippingViewController(_:didEditShipping:)
 
+**Instance Method**
+
 ```
 func shippingViewController(_ controller: AWXShippingViewController, didEditShipping shipping: AWXPlaceDetails)
 ```

@@ -21,6 +21,8 @@
 
 # AirwallexPaymentStatus
 
+**Enumeration**
+
 ```
 @frozen enum AirwallexPaymentStatus
 ```

@@ -21,6 +21,8 @@
 
 # init(name:rangeStart:rangeEnd:length:type:)
 
+**Initializer**
+
 ```
 init(name: String, rangeStart: String, rangeEnd: String, length: Int, type: AWXBrandType)
 ```

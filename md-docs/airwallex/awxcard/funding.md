@@ -21,6 +21,8 @@
 
 # funding
 
+**Instance Property**
+
 Funding type of the card.
 
 ```

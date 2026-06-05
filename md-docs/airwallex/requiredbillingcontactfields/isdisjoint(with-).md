@@ -22,6 +22,8 @@
 
 # isDisjoint(with:)
 
+**Instance Method**
+
 ```
 func isDisjoint(with other: Self) -> Bool
 ```

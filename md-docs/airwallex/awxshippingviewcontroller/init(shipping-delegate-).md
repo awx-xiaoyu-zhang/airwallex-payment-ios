@@ -21,6 +21,8 @@
 
 # init(shipping:delegate:)
 
+**Initializer**
+
 ```
 @MainActor init(shipping: AWXPlaceDetails? = nil, delegate: (any AWXShippingViewControllerDelegate)? = nil)
 ```

@@ -21,6 +21,8 @@
 
 # cachedImage(_:)
 
+**Instance Method**
+
 ```
 func cachedImage(_ imageURL: URL) -> UIImage?
 ```

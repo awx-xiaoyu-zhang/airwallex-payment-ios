@@ -21,6 +21,8 @@
 
 # AWXPaymentElement
 
+**Class**
+
 An embeddable payment element that can be added to any view hierarchy.
 
 ```

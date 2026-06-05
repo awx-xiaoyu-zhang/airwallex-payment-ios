@@ -21,6 +21,8 @@
 
 # flow
 
+**Instance Property**
+
 Filter payment methods for a specific flow. Defaults to inapp.
 
 ```

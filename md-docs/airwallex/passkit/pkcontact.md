@@ -22,6 +22,8 @@
 
 # PKContact
 
+**Extended Class**
+
 ```
 extension PKContact
 ```

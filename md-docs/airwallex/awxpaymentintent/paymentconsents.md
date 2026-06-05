@@ -21,6 +21,8 @@
 
 # paymentConsents
 
+**Instance Property** · *
+
 Payment consents .
 
 ## Deprecated

@@ -21,6 +21,8 @@
 
 # paymentViewController(_:didCompleteWith:error:)
 
+**Instance Method**
+
 ```
 @MainActor func paymentViewController(_ controller: UIViewController?, didCompleteWith status: AirwallexPaymentStatus, error: Error?)
 ```

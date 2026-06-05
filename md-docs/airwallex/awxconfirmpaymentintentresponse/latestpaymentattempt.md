@@ -21,6 +21,8 @@
 
 # latestPaymentAttempt
 
+**Instance Property**
+
 The latest payment attempt object.
 
 ```

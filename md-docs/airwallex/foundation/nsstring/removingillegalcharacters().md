@@ -22,6 +22,8 @@
 
 # removingIllegalCharacters()
 
+**Instance Method**
+
 ```
 func removingIllegalCharacters() -> String
 ```

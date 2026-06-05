@@ -21,6 +21,8 @@
 
 # AWXFieldValidation
 
+**Class**
+
 validation returned for AWXField
 
 ```

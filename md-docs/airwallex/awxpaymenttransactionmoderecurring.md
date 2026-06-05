@@ -21,6 +21,8 @@
 
 # AWXPaymentTransactionModeRecurring
 
+**Global Variable**
+
 ```
 let AWXPaymentTransactionModeRecurring: String
 ```

@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.largeTitle
 
+**Case**
+
 34, Use for larger devices such as iPad
 
 ```

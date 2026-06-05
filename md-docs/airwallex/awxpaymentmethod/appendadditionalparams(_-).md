@@ -21,6 +21,8 @@
 
 # appendAdditionalParams(_:)
 
+**Instance Method**
+
 ```
 func appendAdditionalParams(_ params: [AnyHashable : Any])
 ```

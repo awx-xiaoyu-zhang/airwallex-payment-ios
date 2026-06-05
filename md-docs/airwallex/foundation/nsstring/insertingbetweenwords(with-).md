@@ -22,6 +22,8 @@
 
 # insertingBetweenWords(with:)
 
+**Instance Method**
+
 ```
 func insertingBetweenWords(with separator: String) -> String
 ```

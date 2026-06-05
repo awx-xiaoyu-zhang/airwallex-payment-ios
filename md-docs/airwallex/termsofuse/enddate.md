@@ -21,6 +21,8 @@
 
 # endDate
 
+**Instance Property**
+
 End date to expect payment request.
 This Date object will be converted to a string of the format yyyy-MM-dd during JSON encoding.
 

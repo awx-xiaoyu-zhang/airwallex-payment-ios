@@ -21,6 +21,8 @@
 
 # mastercard
 
+**Type Property**
+
 ```
 static let mastercard: AWXCardBrand
 ```

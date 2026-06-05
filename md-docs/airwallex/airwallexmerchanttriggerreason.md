@@ -21,6 +21,8 @@
 
 # AirwallexMerchantTriggerReason
 
+**Enumeration**
+
 ```
 @frozen enum AirwallexMerchantTriggerReason
 ```

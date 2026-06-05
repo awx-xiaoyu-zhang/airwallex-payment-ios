@@ -21,6 +21,8 @@
 
 # AWXCardKey
 
+**Global Variable**
+
 ```
 let AWXCardKey: String
 ```

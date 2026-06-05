@@ -21,6 +21,8 @@
 
 # setAmount(_:)
 
+**Instance Method** · *
+
 ```
 func setAmount(_ amount: NSDecimalNumber)
 ```

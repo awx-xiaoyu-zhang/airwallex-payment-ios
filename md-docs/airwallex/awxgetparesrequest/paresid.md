@@ -21,6 +21,8 @@
 
 # paResId
 
+**Instance Property**
+
 PaRes ID.
 
 ```

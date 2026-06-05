@@ -21,6 +21,8 @@
 
 # canHandle(methodType:session:)
 
+**Type Method**
+
 ```
 @MainActor class func canHandle(methodType: AWXPaymentMethodType, session: AWXSession) -> Bool
 ```

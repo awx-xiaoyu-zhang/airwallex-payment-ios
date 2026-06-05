@@ -21,6 +21,8 @@
 
 # method()
 
+**Instance Method**
+
 ```
 func method() -> AWXHTTPMethod
 ```

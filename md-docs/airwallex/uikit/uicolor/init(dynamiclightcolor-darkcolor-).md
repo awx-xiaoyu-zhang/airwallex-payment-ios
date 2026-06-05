@@ -22,6 +22,8 @@
 
 # init(dynamicLightColor:darkColor:)
 
+**Initializer**
+
 ```
 init!(dynamicLightColor lightColor: UIColor!, darkColor: UIColor!)
 ```

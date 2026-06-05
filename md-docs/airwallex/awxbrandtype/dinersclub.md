@@ -21,6 +21,8 @@
 
 # AWXBrandType.dinersClub
 
+**Case**
+
 ```
 case dinersClub
 ```

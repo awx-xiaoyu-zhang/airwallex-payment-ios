@@ -21,6 +21,8 @@
 
 # init(delegate:session:paymentMethodType:)
 
+**Initializer**
+
 ```
 init(delegate: any AWXProviderDelegate, session: AWXSession, paymentMethodType: AWXPaymentMethodType?)
 ```

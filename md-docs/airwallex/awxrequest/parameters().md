@@ -21,6 +21,8 @@
 
 # parameters()
 
+**Instance Method**
+
 ```
 func parameters() -> [AnyHashable : Any]?
 ```

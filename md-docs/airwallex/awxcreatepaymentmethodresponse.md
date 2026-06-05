@@ -21,6 +21,8 @@
 
 # AWXCreatePaymentMethodResponse
 
+**Class**
+
 `AWXCreatePaymentMethodResponse` includes the payment method created.
 
 ```

@@ -21,6 +21,8 @@
 
 # AWXTextFieldType.email
 
+**Case**
+
 ```
 case email
 ```

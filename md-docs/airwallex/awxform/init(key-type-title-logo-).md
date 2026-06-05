@@ -21,6 +21,8 @@
 
 # init(key:type:title:logo:)
 
+**Initializer**
+
 ```
 convenience init(key: String, type: AWXFormType, title: String, logo: URL?)
 ```

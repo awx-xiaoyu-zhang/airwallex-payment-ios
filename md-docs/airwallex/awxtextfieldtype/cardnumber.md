@@ -21,6 +21,8 @@
 
 # AWXTextFieldType.cardNumber
 
+**Case**
+
 ```
 case cardNumber
 ```

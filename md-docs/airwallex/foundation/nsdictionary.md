@@ -22,6 +22,8 @@
 
 # NSDictionary
 
+**Extended Class**
+
 ```
 extension NSDictionary
 ```

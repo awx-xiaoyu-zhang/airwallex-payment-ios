@@ -21,6 +21,8 @@
 
 # confirmPaymentIntent(with:flow:)
 
+**Instance Method**
+
 ```
 func confirmPaymentIntent(with paymentMethodName: String, flow: AWXPaymentMethodFlow)
 ```

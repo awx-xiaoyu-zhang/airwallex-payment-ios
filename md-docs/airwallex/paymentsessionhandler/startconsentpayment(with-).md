@@ -21,6 +21,8 @@
 
 # startConsentPayment(with:)
 
+**Instance Method**
+
 Initiates a consent-based payment using a previously obtained payment consent object.
 
 ```

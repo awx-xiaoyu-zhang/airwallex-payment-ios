@@ -21,6 +21,8 @@
 
 # AWXThreeDSReturnURL
 
+**Global Variable**
+
 ```
 let AWXThreeDSReturnURL: String
 ```

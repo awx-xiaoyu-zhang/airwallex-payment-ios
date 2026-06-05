@@ -21,6 +21,8 @@
 
 # status
 
+**Instance Property**
+
 Consent status.
 
 ```

@@ -21,6 +21,8 @@
 
 # key
 
+**Instance Property**
+
 ```
 var key: String { get set }
 ```

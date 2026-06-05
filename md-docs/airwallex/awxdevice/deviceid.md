@@ -21,6 +21,8 @@
 
 # deviceId
 
+**Instance Property**
+
 Device id.
 
 ```

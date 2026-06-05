@@ -22,6 +22,8 @@
 
 # NSDecimalNumber
 
+**Extended Class**
+
 ```
 extension NSDecimalNumber
 ```

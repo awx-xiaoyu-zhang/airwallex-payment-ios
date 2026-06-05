@@ -21,6 +21,8 @@
 
 # AWXRetrievePaymentIntentRequest
 
+**Class**
+
 `AWXRetrievePaymentIntentRequest` includes all of the parameters needed to get payment intent.
 
 ```

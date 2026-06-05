@@ -21,6 +21,8 @@
 
 # AWXForm
 
+**Class**
+
 ```
 class AWXForm
 ```

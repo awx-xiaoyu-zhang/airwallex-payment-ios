@@ -21,6 +21,8 @@
 
 # AWXGetPaymentConsentsRequest
 
+**Class**
+
 `AWXGetPaymentConsentsRequest` includes the request of payment consents.
 
 ```

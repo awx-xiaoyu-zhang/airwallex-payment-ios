@@ -21,6 +21,8 @@
 
 # decode(fromJSON:)
 
+**Type Method**
+
 ```
 static func decode(fromJSON json: [AnyHashable : Any]?) -> Any?
 ```

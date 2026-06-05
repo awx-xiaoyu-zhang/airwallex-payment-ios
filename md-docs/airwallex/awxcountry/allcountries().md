@@ -21,6 +21,8 @@
 
 # allCountries()
 
+**Type Method**
+
 Return all of the supported countries.
 
 ```

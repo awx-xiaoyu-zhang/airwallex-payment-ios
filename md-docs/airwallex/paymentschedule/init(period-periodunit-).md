@@ -21,6 +21,8 @@
 
 # init(period:periodUnit:)
 
+**Initializer**
+
 ```
 @objc init(period: Int = 1, periodUnit: PeriodUnit)
 ```

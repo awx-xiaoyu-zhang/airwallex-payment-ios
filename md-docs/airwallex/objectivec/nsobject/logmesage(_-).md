@@ -22,6 +22,8 @@
 
 # logMesage(_:)
 
+**Type Method**
+
 ```
 class func logMesage(_ message: String)
 ```

@@ -21,6 +21,8 @@
 
 # setCurrency(_:)
 
+**Instance Method** · *
+
 ```
 func setCurrency(_ currency: String)
 ```

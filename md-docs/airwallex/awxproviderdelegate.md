@@ -21,6 +21,8 @@
 
 # AWXProviderDelegate
 
+**Protocol**
+
 A delegate which handles checkout results.
 
 ```

@@ -21,6 +21,8 @@
 
 # paymentViewController(_:didCompleteWithPaymentConsentId:)
 
+**Instance Method**
+
 ```
 @MainActor func paymentViewController(_ controller: UIViewController?, didCompleteWithPaymentConsentId paymentConsentId: String)
 ```

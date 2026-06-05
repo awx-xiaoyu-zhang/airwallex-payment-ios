@@ -21,6 +21,8 @@
 
 # name
 
+**Type Property**
+
 ```
 static var name: RequiredBillingContactFields { get }
 ```

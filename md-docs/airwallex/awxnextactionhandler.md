@@ -21,6 +21,8 @@
 
 # AWXNextActionHandler
 
+**Class**
+
 ```
 class AWXNextActionHandler
 ```

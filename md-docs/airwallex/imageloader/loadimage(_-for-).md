@@ -21,6 +21,8 @@
 
 # loadImage(_:for:)
 
+**Instance Method**
+
 ```
 func loadImage(_ imageURL: URL, for view: UIView) async throws -> UIImage
 ```

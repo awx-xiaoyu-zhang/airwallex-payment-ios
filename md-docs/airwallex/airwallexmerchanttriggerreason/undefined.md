@@ -21,6 +21,8 @@
 
 # AirwallexMerchantTriggerReason.undefined
 
+**Case**
+
 ```
 case undefined
 ```

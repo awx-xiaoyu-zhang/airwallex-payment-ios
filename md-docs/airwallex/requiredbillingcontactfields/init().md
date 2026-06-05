@@ -22,6 +22,8 @@
 
 # init()
 
+**Initializer**
+
 ```
 init()
 ```

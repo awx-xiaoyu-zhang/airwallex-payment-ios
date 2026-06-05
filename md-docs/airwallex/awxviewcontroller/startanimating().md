@@ -21,6 +21,8 @@
 
 # startAnimating()
 
+**Instance Method**
+
 Show loading activity.
 
 ```

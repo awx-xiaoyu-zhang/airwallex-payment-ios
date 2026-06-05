@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.headline2
 
+**Case**
+
 15 Small buttons (eg. Filters), TableData balances, SectionHeader, TableHeader, CheckboxGroup, DateRangePickerGroup, DatePickerGroup, ChipGroup
 
 ```

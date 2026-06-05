@@ -22,6 +22,8 @@
 
 # UIImage
 
+**Extended Class**
+
 ```
 extension UIImage
 ```

@@ -21,6 +21,8 @@
 
 # requiredBillingContactFields
 
+**Instance Property**
+
 Specifies the required billing contact fields. Defaults to `AWXRequiredBillingContactFieldName`.
 
 ```

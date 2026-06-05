@@ -22,6 +22,8 @@
 
 # PKPaymentToken
 
+**Extended Class**
+
 ```
 extension PKPaymentToken
 ```

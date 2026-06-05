@@ -21,6 +21,8 @@
 
 # AWXTheme
 
+**Class**
+
 `AWXTheme` manages text styles.
 
 ```

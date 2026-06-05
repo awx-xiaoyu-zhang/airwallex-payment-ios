@@ -21,6 +21,8 @@
 
 # status
 
+**Instance Property**
+
 The status of payment attempt
 
 ```

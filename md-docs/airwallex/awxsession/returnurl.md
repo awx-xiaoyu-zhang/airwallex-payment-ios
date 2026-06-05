@@ -21,6 +21,8 @@
 
 # returnURL
 
+**Instance Property**
+
 Return URL for redirecting users back to your app after external payment processing.
 
 ```

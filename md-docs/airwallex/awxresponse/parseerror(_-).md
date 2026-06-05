@@ -21,6 +21,8 @@
 
 # parseError(_:)
 
+**Type Method**
+
 ```
 class func parseError(_ data: Data) -> AWXResponse?
 ```

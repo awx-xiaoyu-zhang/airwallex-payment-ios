@@ -11,6 +11,8 @@
 
 # OptionSet Implementations
 
+**collectionGroup**
+
 ## Initializers
 
 [`init()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/init().md)

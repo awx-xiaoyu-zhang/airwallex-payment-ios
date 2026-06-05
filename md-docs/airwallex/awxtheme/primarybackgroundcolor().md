@@ -21,6 +21,8 @@
 
 # primaryBackgroundColor()
 
+**Instance Method**
+
 ```
 func primaryBackgroundColor() -> UIColor
 ```

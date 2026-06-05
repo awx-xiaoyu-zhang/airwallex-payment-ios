@@ -21,6 +21,8 @@
 
 # customerId
 
+**Instance Property**
+
 The customer this payment method belongs to.
 
 ```

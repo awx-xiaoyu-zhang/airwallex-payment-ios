@@ -21,6 +21,8 @@
 
 # AWXGetPaymentIntentResponse
 
+**Class**
+
 `AWXGetPaymentIntentResponse` includes the information of payment intent.
 
 ```

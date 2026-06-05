@@ -21,6 +21,8 @@
 
 # clientSecret
 
+**Instance Property**
+
 The client secret for payment.
 
 ```

@@ -21,6 +21,8 @@
 
 # canHandle(_:paymentMethod:)
 
+**Type Method**
+
 Indicating whether the provider can handle a particular session. Default implementation returns YES. Subclasses can override to
 do additional checks.
 

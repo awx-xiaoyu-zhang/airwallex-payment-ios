@@ -21,6 +21,8 @@
 
 # options
 
+**Instance Property**
+
 Options object.
 
 ```

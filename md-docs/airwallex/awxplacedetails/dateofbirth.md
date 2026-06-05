@@ -21,6 +21,8 @@
 
 # dateOfBirth
 
+**Instance Property**
+
 Date of birth of the customer in the format: YYYY-MM-DD, optional.
 
 ```

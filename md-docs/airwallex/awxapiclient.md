@@ -21,6 +21,8 @@
 
 # AWXAPIClient
 
+**Class**
+
 `AWXAPIClient` is a http request client.
 
 ```

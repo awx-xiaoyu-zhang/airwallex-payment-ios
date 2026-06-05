@@ -21,6 +21,8 @@
 
 # launchPayment(from:session:paymentResultDelegate:configuration:)
 
+**Type Method**
+
 Launches the Airwallex payment UI using a configuration object.
 
 ```

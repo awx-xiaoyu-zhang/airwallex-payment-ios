@@ -21,6 +21,8 @@
 
 # length
 
+**Instance Property**
+
 The length of  card No.
 
 ```

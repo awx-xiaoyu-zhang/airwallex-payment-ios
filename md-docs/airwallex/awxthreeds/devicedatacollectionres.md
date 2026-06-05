@@ -21,6 +21,8 @@
 
 # deviceDataCollectionRes
 
+**Instance Property**
+
 Device data collection response.
 
 ```

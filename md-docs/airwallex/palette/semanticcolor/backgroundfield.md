@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.backgroundField
 
+**Case**
+
 ```
 case backgroundField
 ```

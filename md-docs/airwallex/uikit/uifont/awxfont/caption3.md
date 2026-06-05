@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.caption3
 
+**Case**
+
 11 regular - N/A
 11 bold - TabBar
 

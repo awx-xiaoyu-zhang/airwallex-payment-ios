@@ -21,6 +21,8 @@
 
 # cardType
 
+**Instance Property**
+
 Card type.
 
 ```

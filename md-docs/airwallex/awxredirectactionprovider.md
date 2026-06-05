@@ -21,6 +21,8 @@
 
 # AWXRedirectActionProvider
 
+**Class**
+
 `AWXRedirectActionProvider` handles Redirect flow.
 
 ```

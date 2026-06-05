@@ -21,6 +21,8 @@
 
 # AWXSDKErrorCode.internalError
 
+**Case**
+
 ```
 case internalError
 ```

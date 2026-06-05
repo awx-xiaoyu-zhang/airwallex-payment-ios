@@ -21,6 +21,8 @@
 
 # AIRWALLEX_API_VERSION
 
+**Global Variable**
+
 ```
 var AIRWALLEX_API_VERSION: String { get }
 ```

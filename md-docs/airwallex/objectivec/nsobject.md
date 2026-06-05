@@ -22,6 +22,8 @@
 
 # NSObject
 
+**Extended Class**
+
 ```
 extension NSObject
 ```

@@ -21,6 +21,8 @@
 
 # regex
 
+**Instance Property**
+
 regex validation
 
 ```

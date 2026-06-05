@@ -22,6 +22,8 @@
 
 # queryValue(forName:)
 
+**Instance Method**
+
 ```
 func queryValue(forName name: String) -> String?
 ```

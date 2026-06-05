@@ -21,6 +21,8 @@
 
 # isThreeDSVersion2()
 
+**Instance Method**
+
 Check whether 3ds version is v2.x.
 
 ```

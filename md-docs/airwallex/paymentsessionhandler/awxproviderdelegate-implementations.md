@@ -11,6 +11,8 @@
 
 # AWXProviderDelegate Implementations
 
+**collectionGroup**
+
 ## Instance Methods
 
 [`hostViewController()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/hostviewcontroller().md)

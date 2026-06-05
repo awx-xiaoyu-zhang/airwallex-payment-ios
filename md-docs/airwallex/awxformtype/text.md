@@ -21,6 +21,8 @@
 
 # AWXFormType.text
 
+**Case**
+
 ```
 case text
 ```

@@ -21,6 +21,8 @@
 
 # AWXSession.ValidationError.invalidData(_:)
 
+**Case**
+
 ```
 case invalidData(String)
 ```

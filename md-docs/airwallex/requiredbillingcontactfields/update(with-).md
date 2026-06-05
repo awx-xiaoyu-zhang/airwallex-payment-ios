@@ -22,6 +22,8 @@
 
 # update(with:)
 
+**Instance Method**
+
 ```
 @discardableResult mutating func update(with newMember: Self.Element) -> Self.Element?
 ```

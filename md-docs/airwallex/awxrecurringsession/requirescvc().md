@@ -21,6 +21,8 @@
 
 # requiresCVC()
 
+**Instance Method** · *
+
 ## Deprecated
 
 requiresCVC will be determined by consent returned by server (numberType), passing requiresCVC as a parameter is no longer needed

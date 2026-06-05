@@ -21,6 +21,8 @@
 
 # paymentElement(_:validationFailedFor:invalidInputView:)
 
+**Instance Method**
+
 Called when input validation fails, allowing the host app to scroll the first
 invalid field into the visible area.
 

@@ -21,6 +21,8 @@
 
 # headers()
 
+**Instance Method**
+
 ```
 func headers() -> [AnyHashable : Any]
 ```

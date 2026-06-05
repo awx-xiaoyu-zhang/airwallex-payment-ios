@@ -21,6 +21,8 @@
 
 # lang
 
+**Instance Property**
+
 Lang
 
 ```

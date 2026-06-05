@@ -21,6 +21,8 @@
 
 # confirmPaymentIntent(with:billing:saveCard:)
 
+**Instance Method** · *
+
 Confirm the payment intent with card and billing.
 
 ```

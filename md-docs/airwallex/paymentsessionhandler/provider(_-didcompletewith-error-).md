@@ -21,6 +21,8 @@
 
 # provider(_:didCompleteWith:error:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, didCompleteWith status: AirwallexPaymentStatus, error: (any Error)?)
 ```

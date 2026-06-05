@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.iconPrimary
 
+**Case**
+
 ```
 case iconPrimary
 ```

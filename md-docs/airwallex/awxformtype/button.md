@@ -21,6 +21,8 @@
 
 # AWXFormType.button
 
+**Case**
+
 ```
 case button
 ```

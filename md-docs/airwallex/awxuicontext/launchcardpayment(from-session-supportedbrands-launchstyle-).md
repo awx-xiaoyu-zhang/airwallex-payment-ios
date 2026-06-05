@@ -21,6 +21,8 @@
 
 # launchCardPayment(from:session:supportedBrands:launchStyle:)
 
+**Type Method**
+
 Launches the Airwallex card payment flow.
 
 ```

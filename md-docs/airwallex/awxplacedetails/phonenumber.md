@@ -21,6 +21,8 @@
 
 # phoneNumber
 
+**Instance Property**
+
 Phone number of the customer, optional.
 
 ```

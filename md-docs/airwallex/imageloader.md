@@ -21,6 +21,8 @@
 
 # ImageLoader
 
+**Class**
+
 ```
 class ImageLoader
 ```

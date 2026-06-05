@@ -21,6 +21,8 @@
 
 # transactionCurrency
 
+**Instance Property**
+
 A currency code.
 
 ```

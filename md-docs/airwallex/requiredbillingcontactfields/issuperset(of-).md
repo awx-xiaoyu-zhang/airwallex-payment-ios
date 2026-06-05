@@ -22,6 +22,8 @@
 
 # isSuperset(of:)
 
+**Instance Method**
+
 ```
 func isSuperset(of other: Self) -> Bool
 ```

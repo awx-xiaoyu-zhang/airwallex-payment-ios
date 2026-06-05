@@ -21,6 +21,8 @@
 
 # startPayment()
 
+**Instance Method** · *
+
 Launch Apple Pay sheet to confirm the payment intent.
 
 ## Deprecated

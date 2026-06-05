@@ -21,6 +21,8 @@
 
 # AWXPaymentResultDelegate
 
+**Protocol**
+
 ```
 protocol AWXPaymentResultDelegate : NSObjectProtocol
 ```

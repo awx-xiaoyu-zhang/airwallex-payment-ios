@@ -22,6 +22,8 @@
 
 # allURLQueryAllowed()
 
+**Type Method**
+
 ```
 class func allURLQueryAllowed() -> CharacterSet
 ```

@@ -22,6 +22,8 @@
 
 # CGColor
 
+**Extended Class**
+
 ```
 extension CGColor
 ```

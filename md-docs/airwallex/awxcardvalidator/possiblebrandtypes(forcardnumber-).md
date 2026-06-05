@@ -21,6 +21,8 @@
 
 # possibleBrandTypes(forCardNumber:)
 
+**Instance Method**
+
 ```
 func possibleBrandTypes(forCardNumber cardNumber: String) -> [NSNumber]
 ```

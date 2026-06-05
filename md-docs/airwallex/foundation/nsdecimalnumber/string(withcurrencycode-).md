@@ -22,6 +22,8 @@
 
 # string(withCurrencyCode:)
 
+**Instance Method**
+
 ```
 func string(withCurrencyCode currencyCode: String) -> String
 ```

@@ -21,6 +21,8 @@
 
 # AWXShippingViewControllerDelegate
 
+**Protocol**
+
 ```
 @objc protocol AWXShippingViewControllerDelegate
 ```

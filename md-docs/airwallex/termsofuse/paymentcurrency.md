@@ -21,6 +21,8 @@
 
 # paymentCurrency
 
+**Instance Property**
+
 The currency of this payment
 
 ```

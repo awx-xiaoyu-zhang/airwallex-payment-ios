@@ -21,6 +21,8 @@
 
 # AWXSDKErrorCode.userCancelled
 
+**Case**
+
 ```
 case userCancelled
 ```

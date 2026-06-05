@@ -21,6 +21,8 @@
 
 # isComplete
 
+**Instance Property**
+
 ```
 var isComplete: Bool { get }
 ```

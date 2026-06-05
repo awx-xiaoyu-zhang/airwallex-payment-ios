@@ -21,6 +21,8 @@
 
 # country
 
+**Instance Property**
+
 Country code of the card.
 
 ```

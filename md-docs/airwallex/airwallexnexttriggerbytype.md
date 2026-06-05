@@ -21,6 +21,8 @@
 
 # AirwallexNextTriggerByType
 
+**Enumeration**
+
 ```
 @frozen enum AirwallexNextTriggerByType
 ```

@@ -21,6 +21,8 @@
 
 # paymentElement(_:onProcessingStateChangedFor:isProcessing:)
 
+**Instance Method**
+
 Called when payment processing state changes.
 
 ```

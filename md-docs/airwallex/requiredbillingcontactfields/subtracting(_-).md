@@ -22,6 +22,8 @@
 
 # subtracting(_:)
 
+**Instance Method**
+
 ```
 func subtracting(_ other: Self) -> Self
 ```

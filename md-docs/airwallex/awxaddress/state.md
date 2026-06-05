@@ -21,6 +21,8 @@
 
 # state
 
+**Instance Property**
+
 State or province of the address.
 
 ```

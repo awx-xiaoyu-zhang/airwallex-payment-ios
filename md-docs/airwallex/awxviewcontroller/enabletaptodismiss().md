@@ -21,6 +21,8 @@
 
 # enableTapToDismiss()
 
+**Instance Method**
+
 Enable user to tap the view to dismiss view controller.
 
 ```

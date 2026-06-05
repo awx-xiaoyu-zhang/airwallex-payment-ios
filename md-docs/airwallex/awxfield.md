@@ -21,6 +21,8 @@
 
 # AWXField
 
+**Class**
+
 `AWXField` includes the field of schema.
 
 ```

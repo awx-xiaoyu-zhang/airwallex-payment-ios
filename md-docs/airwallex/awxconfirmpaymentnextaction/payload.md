@@ -21,6 +21,8 @@
 
 # payload
 
+**Instance Property**
+
 Payload of next action.
 
 ```

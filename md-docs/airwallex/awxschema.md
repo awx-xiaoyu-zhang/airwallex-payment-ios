@@ -21,6 +21,8 @@
 
 # AWXSchema
 
+**Class**
+
 `AWXSchema` includes the schema of payment method.
 
 ```

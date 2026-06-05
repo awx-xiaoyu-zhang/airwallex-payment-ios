@@ -21,6 +21,8 @@
 
 # ErrorLoggable
 
+**Protocol**
+
 ```
 protocol ErrorLoggable : CustomNSError, LocalizedError
 ```

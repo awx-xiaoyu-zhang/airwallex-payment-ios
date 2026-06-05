@@ -21,6 +21,8 @@
 
 # type
 
+**Instance Property**
+
 type of field.
 
 ```

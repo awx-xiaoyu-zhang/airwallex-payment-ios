@@ -21,6 +21,8 @@
 
 # AWXDevice
 
+**Class**
+
 `AWXDevice` includes the information of device.
 
 ```

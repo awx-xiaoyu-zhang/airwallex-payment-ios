@@ -21,6 +21,8 @@
 
 # title
 
+**Instance Property**
+
 Custom title for the checkout button.
 When `nil` (default), the SDK automatically selects based on session type:
 “Pay” for one-off payments, “Confirm” for recurring.

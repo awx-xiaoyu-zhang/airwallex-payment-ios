@@ -21,6 +21,8 @@
 
 # totalPriceLabel
 
+**Instance Property**
+
 Description of the total price. Default value is nil.
 
 ```

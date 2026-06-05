@@ -21,6 +21,8 @@
 
 # numberType
 
+**Instance Property**
+
 Type of the number. One of PAN, EXTERNAL_NETWORK_TOKEN, AIRWALLEX_NETWORK_TOKEN.
 
 ```

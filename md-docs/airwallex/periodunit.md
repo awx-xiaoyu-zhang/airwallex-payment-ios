@@ -21,6 +21,8 @@
 
 # PeriodUnit
 
+**Enumeration**
+
 Period unit enumeration for billing frequency
 
 ```

@@ -22,6 +22,8 @@
 
 # NSCharacterSet
 
+**Extended Class**
+
 ```
 extension NSCharacterSet
 ```

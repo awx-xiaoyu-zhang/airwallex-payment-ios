@@ -21,6 +21,8 @@
 
 # verbose
 
+**Instance Property**
+
 Defaults to `false`, will print all events to console if set to true
 
 ```

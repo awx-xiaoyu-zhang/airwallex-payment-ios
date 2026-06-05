@@ -21,6 +21,8 @@
 
 # secondaryTextColor()
 
+**Instance Method**
+
 ```
 func secondaryTextColor() -> UIColor
 ```

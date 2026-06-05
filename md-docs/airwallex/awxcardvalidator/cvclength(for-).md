@@ -21,6 +21,8 @@
 
 # cvcLength(for:)
 
+**Type Method**
+
 ```
 class func cvcLength(for type: AWXBrandType) -> Int
 ```

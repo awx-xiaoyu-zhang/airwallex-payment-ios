@@ -21,6 +21,8 @@
 
 # viewDidLoad()
 
+**Instance Method**
+
 ```
 @MainActor override func viewDidLoad()
 ```

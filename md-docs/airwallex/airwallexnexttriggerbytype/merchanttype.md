@@ -21,6 +21,8 @@
 
 # AirwallexNextTriggerByType.merchantType
 
+**Case**
+
 ```
 case merchantType
 ```

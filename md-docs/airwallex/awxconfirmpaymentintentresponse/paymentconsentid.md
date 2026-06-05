@@ -21,6 +21,8 @@
 
 # paymentConsentId
 
+**Instance Property**
+
 ID of the PaymentConsent related to this PaymentIntent
 
 ```

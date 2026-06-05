@@ -21,6 +21,8 @@
 
 # hidePaymentConsents
 
+**Instance Property**
+
 Whether show stored card.
 
 ```

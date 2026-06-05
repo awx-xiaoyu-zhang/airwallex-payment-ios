@@ -21,6 +21,8 @@
 
 # ClassToHandleNextActionForType(_:)
 
+**Function**
+
 ```
 func ClassToHandleNextActionForType(_ nextAction: AWXConfirmPaymentNextAction) -> AnyClass
 ```

@@ -21,6 +21,8 @@
 
 # provider(_:shouldPresent:forceToDismiss:withAnimation:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, shouldPresent controller: UIViewController?, forceToDismiss: Bool, withAnimation: Bool)
 ```

@@ -21,6 +21,8 @@
 
 # AWXWeChatPaySDKResponse
 
+**Class**
+
 `AWXWeChatPaySDKResponse` includes the parameters for WeChatSDK.
 
 ```

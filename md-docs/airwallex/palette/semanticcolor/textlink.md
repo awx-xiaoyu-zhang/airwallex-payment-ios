@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.textLink
 
+**Case**
+
 ```
 case textLink
 ```

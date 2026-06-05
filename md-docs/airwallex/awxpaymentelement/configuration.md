@@ -21,6 +21,8 @@
 
 # AWXPaymentElement.Configuration
 
+**Class**
+
 Configuration options for the embedded payment element.
 
 ```

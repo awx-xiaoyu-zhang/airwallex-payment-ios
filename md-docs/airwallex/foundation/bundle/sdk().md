@@ -22,6 +22,8 @@
 
 # sdk()
 
+**Type Method**
+
 ```
 class func sdk() -> Bundle
 ```

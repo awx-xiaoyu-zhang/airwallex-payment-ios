@@ -21,6 +21,8 @@
 
 # customerPaymentConsents()
 
+**Instance Method** · *
+
 Return all of customer payment consents
 
 ```

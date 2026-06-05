@@ -22,6 +22,8 @@
 
 # awxColor(_:)
 
+**Type Method**
+
 ```
 static func awxColor(_ color: Palette.SemanticColor) -> UIColor
 ```

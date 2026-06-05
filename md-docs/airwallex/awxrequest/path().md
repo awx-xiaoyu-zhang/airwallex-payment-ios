@@ -21,6 +21,8 @@
 
 # path()
 
+**Instance Method**
+
 ```
 func path() -> String
 ```

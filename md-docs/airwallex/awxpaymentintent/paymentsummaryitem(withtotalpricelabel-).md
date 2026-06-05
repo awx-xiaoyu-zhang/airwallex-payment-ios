@@ -21,6 +21,8 @@
 
 # paymentSummaryItem(withTotalPriceLabel:)
 
+**Instance Method**
+
 ```
 func paymentSummaryItem(withTotalPriceLabel label: String?) -> PKPaymentSummaryItem
 ```

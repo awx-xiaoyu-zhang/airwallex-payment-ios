@@ -22,6 +22,8 @@
 
 # subhead1()
 
+**Type Method**
+
 ```
 class func subhead1() -> UIFont
 ```

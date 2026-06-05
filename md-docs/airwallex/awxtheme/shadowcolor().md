@@ -21,6 +21,8 @@
 
 # shadowColor()
 
+**Instance Method**
+
 ```
 func shadowColor() -> UIColor
 ```

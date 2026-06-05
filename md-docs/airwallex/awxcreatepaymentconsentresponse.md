@@ -21,6 +21,8 @@
 
 # AWXCreatePaymentConsentResponse
 
+**Class**
+
 `AWXCreatePaymentConsentResponse` includes the response of payment consent.
 
 ```

@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.textPrimary
 
+**Case**
+
 ```
 case textPrimary
 ```

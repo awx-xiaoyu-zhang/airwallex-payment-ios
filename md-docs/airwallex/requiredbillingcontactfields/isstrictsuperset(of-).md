@@ -22,6 +22,8 @@
 
 # isStrictSuperset(of:)
 
+**Instance Method**
+
 ```
 func isStrictSuperset(of other: Self) -> Bool
 ```

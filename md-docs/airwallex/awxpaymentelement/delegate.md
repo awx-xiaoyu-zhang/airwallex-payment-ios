@@ -21,6 +21,8 @@
 
 # delegate
 
+**Instance Property**
+
 The delegate that receives payment lifecycle callbacks.
 
 ```

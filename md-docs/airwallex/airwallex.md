@@ -21,6 +21,8 @@
 
 # Airwallex
 
+**Class**
+
 `Airwallex` contains the base configuration the SDK needs.
 
 ```

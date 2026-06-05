@@ -11,6 +11,8 @@
 
 # Encodable Implementations
 
+**collectionGroup**
+
 ## Instance Methods
 
 [`encode(to:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/encode(to-).md)

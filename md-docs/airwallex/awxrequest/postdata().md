@@ -21,6 +21,8 @@
 
 # postData()
 
+**Instance Method**
+
 ```
 func postData() -> Data?
 ```

@@ -21,6 +21,8 @@
 
 # UIFont.AWXFont.caption2
 
+**Case**
+
 12 regular - Section header caption, Currency field
 12 bold - Tag (2), TextInput filled label, Alert, TableHeader, CurrencyField error (This needs some work), PasscodeField
 

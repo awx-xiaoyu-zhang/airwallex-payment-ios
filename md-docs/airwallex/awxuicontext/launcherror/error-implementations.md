@@ -11,6 +11,8 @@
 
 # Error Implementations
 
+**collectionGroup**
+
 ## Instance Properties
 
 [`localizedDescription`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/localizeddescription.md)

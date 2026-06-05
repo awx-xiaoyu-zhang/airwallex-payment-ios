@@ -21,6 +21,8 @@
 
 # PaymentAmountType
 
+**Enumeration**
+
 Payment amount type enumeration
 
 ```

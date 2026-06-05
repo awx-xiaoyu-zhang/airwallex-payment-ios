@@ -23,6 +23,8 @@
 
 # paymentViewController(_:didCompleteWith:error:)
 
+**Instance Method** · iOS 2.0.0+, iPadOS 2.0.0+, macCatalyst 2.0.0+
+
 This method is called when the user has completed the checkout.
 
 ```

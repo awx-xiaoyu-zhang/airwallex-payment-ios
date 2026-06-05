@@ -21,6 +21,8 @@
 
 # AWXBrandType
 
+**Enumeration**
+
 ```
 enum AWXBrandType
 ```

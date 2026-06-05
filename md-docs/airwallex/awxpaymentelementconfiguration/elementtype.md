@@ -21,4 +21,6 @@
 
 # elementType
 
+**Instance Property**
+
 The type of element to display.

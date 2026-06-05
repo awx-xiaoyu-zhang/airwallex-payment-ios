@@ -21,6 +21,8 @@
 
 # encode(to:)
 
+**Instance Method**
+
 ```
 func encode(to encoder: any Encoder) throws
 ```

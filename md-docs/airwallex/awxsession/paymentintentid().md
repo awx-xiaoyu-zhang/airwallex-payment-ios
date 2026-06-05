@@ -21,6 +21,8 @@
 
 # paymentIntentId()
 
+**Instance Method**
+
 Return payment intent id
 
 ```

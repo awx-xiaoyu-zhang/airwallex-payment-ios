@@ -21,6 +21,8 @@
 
 # partnerId
 
+**Instance Property**
+
 Partner id
 
 ```

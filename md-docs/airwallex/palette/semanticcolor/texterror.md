@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.textError
 
+**Case**
+
 ```
 case textError
 ```

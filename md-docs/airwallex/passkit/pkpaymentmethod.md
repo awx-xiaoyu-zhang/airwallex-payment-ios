@@ -22,6 +22,8 @@
 
 # PKPaymentMethod
 
+**Extended Class**
+
 ```
 extension PKPaymentMethod
 ```

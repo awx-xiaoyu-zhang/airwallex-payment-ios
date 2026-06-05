@@ -21,6 +21,8 @@
 
 # paymentAmountType
 
+**Instance Property**
+
 The agreed type of amounts for subsequent payment. Should be one of FIXED, VARIABLE.
 
 ```

@@ -21,6 +21,8 @@
 
 # confirmPaymentIntent(with:)
 
+**Instance Method**
+
 ```
 func confirmPaymentIntent(with paymentMethodName: String)
 ```

@@ -21,6 +21,8 @@
 
 # complete(with:error:)
 
+**Instance Method**
+
 Complete the payment flow.
 
 ```

@@ -21,6 +21,8 @@
 
 # accountID
 
+**Instance Property**
+
 The account ID from client secret.
 
 ```

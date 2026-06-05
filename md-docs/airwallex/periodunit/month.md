@@ -21,6 +21,8 @@
 
 # PeriodUnit.month
 
+**Case**
+
 ```
 case month
 ```

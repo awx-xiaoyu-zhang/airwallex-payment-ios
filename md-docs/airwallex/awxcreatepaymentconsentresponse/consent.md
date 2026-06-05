@@ -21,6 +21,8 @@
 
 # consent
 
+**Instance Property**
+
 Payment consent object.
 
 ```

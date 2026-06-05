@@ -21,6 +21,8 @@
 
 # device
 
+**Instance Property**
+
 Device object.
 
 ```

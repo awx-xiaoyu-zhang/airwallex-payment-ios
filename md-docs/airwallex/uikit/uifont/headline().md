@@ -22,6 +22,8 @@
 
 # headline()
 
+**Type Method**
+
 ```
 class func headline() -> UIFont
 ```

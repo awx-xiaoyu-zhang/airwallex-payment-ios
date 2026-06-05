@@ -21,6 +21,8 @@
 
 # AWXCardOptions
 
+**Class**
+
 `AWXCardOptions` includes the options of card.
 
 ```

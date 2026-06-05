@@ -21,6 +21,8 @@
 
 # pageName
 
+**Instance Property**
+
 ```
 @MainActor var pageName: String! { get }
 ```

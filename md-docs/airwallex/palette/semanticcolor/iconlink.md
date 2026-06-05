@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.iconLink
 
+**Case**
+
 ```
 case iconLink
 ```

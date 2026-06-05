@@ -21,6 +21,8 @@
 
 # Palette.SemanticColor.iconWarning
 
+**Case**
+
 ```
 case iconWarning
 ```

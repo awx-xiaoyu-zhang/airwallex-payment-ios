@@ -21,6 +21,8 @@
 
 # threeDs
 
+**Instance Property**
+
 ThreeDs object.
 
 ```

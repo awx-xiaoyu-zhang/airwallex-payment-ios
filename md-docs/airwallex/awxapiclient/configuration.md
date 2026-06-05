@@ -21,6 +21,8 @@
 
 # configuration
 
+**Instance Property**
+
 The configuration required.
 
 ```

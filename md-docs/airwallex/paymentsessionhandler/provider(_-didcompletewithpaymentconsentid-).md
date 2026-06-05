@@ -21,6 +21,8 @@
 
 # provider(_:didCompleteWithPaymentConsentId:)
 
+**Instance Method**
+
 ```
 @MainActor func provider(_ provider: AWXDefaultProvider, didCompleteWithPaymentConsentId paymentConsentId: String)
 ```

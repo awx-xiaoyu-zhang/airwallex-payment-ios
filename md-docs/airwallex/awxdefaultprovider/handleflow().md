@@ -21,6 +21,8 @@
 
 # handleFlow()
 
+**Instance Method**
+
 Start the payment flow.
 
 ```

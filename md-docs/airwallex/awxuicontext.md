@@ -21,6 +21,8 @@
 
 # AWXUIContext
 
+**Class**
+
 The main UI context for Airwallex payment flows.
 
 ```
