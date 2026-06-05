@@ -29,18 +29,18 @@ class AWXPaymentMethod
 
 ## Instance Properties
 
-[`additionalParams`](/documentation/airwallex/awxpaymentmethod/additionalparams)
+[`additionalParams`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/additionalparams.md)
 
-[`billing`](/documentation/airwallex/awxpaymentmethod/billing)
+[`billing`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/billing.md)
 
-[`card`](/documentation/airwallex/awxpaymentmethod/card)
+[`card`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/card.md)
 
-[`customerId`](/documentation/airwallex/awxpaymentmethod/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/customerid.md)
 
-[`id`](/documentation/airwallex/awxpaymentmethod/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/id.md)
 
-[`type`](/documentation/airwallex/awxpaymentmethod/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/type.md)
 
 ## Instance Methods
 
-[`appendAdditionalParams(_:)`](/documentation/airwallex/awxpaymentmethod/appendadditionalparams(_:))
+[`appendAdditionalParams(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod/appendadditionalparams(_-).md)

@@ -29,20 +29,20 @@ class AWXGetPaymentMethodTypesRequest
 
 ## Instance Properties
 
-[`active`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/active)
+[`active`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/active.md)
 
-[`countryCode`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/countrycode.md)
 
-[`flow`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/flow)
+[`flow`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/flow.md)
 
-[`lang`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/lang)
+[`lang`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/lang.md)
 
-[`pageNum`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/pagenum)
+[`pageNum`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/pagenum.md)
 
-[`pageSize`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/pagesize)
+[`pageSize`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/pagesize.md)
 
-[`resources`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/resources)
+[`resources`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/resources.md)
 
-[`transactionCurrency`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/transactioncurrency)
+[`transactionCurrency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/transactioncurrency.md)
 
-[`transactionMode`](/documentation/airwallex/awxgetpaymentmethodtypesrequest/transactionmode)
+[`transactionMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest/transactionmode.md)

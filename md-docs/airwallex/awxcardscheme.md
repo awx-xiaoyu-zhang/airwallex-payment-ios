@@ -27,14 +27,14 @@ class AWXCardScheme
 
 ## Initializers
 
-[`init(name:)`](/documentation/airwallex/awxcardscheme/init(name:))
+[`init(name:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardscheme/init(name-).md)
 
 ## Instance Properties
 
-[`brandType`](/documentation/airwallex/awxcardscheme/brandtype)
+[`brandType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardscheme/brandtype.md)
 
-[`name`](/documentation/airwallex/awxcardscheme/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardscheme/name.md)
 
 ## Type Properties
 
-[`allAvailable`](/documentation/airwallex/awxcardscheme/allavailable)
+[`allAvailable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardscheme/allavailable.md)

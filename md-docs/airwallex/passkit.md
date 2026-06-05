@@ -23,8 +23,8 @@
 
 ## Extended Classes
 
-[`PKContact`](/documentation/airwallex/passkit/pkcontact)
+[`PKContact`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkcontact.md)
 
-[`PKPaymentMethod`](/documentation/airwallex/passkit/pkpaymentmethod)
+[`PKPaymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkpaymentmethod.md)
 
-[`PKPaymentToken`](/documentation/airwallex/passkit/pkpaymenttoken)
+[`PKPaymentToken`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkpaymenttoken.md)

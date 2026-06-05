@@ -27,30 +27,30 @@ struct AWXCardBrand
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxcardbrand/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/init(rawvalue-).md)
 
 ## Instance Properties
 
-[`brandType`](/documentation/airwallex/awxcardbrand/brandtype)
+[`brandType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/brandtype.md)
 
 ## Type Properties
 
-[`JCB`](/documentation/airwallex/awxcardbrand/jcb)
+[`JCB`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/jcb.md)
 
-[`allAvailable`](/documentation/airwallex/awxcardbrand/allavailable)
+[`allAvailable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/allavailable.md)
 
-[`amex`](/documentation/airwallex/awxcardbrand/amex)
+[`amex`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/amex.md)
 
-[`dinersClub`](/documentation/airwallex/awxcardbrand/dinersclub)
+[`dinersClub`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/dinersclub.md)
 
-[`discover`](/documentation/airwallex/awxcardbrand/discover)
+[`discover`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/discover.md)
 
-[`mastercard`](/documentation/airwallex/awxcardbrand/mastercard)
+[`mastercard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/mastercard.md)
 
-[`unionPay`](/documentation/airwallex/awxcardbrand/unionpay)
+[`unionPay`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/unionpay.md)
 
-[`visa`](/documentation/airwallex/awxcardbrand/visa)
+[`visa`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/visa.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxcardbrand/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand/equatable-implementations.md)

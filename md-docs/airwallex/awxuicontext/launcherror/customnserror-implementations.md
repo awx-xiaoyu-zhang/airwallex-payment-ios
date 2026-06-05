@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`errorCode`](/documentation/airwallex/awxuicontext/launcherror/errorcode)
+[`errorCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/errorcode.md)
 
 ## Type Properties
 
-[`errorDomain`](/documentation/airwallex/awxuicontext/launcherror/errordomain-7zx8x)
+[`errorDomain`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/errordomain-7zx8x.md)

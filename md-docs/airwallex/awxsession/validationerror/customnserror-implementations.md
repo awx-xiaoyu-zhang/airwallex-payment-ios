@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`errorCode`](/documentation/airwallex/awxsession/validationerror/errorcode)
+[`errorCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/errorcode.md)
 
 ## Type Properties
 
-[`errorDomain`](/documentation/airwallex/awxsession/validationerror/errordomain-2kies)
+[`errorDomain`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/errordomain-2kies.md)

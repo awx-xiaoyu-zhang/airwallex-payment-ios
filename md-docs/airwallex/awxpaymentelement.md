@@ -55,22 +55,22 @@ containerView.addSubview(element.view)
 
 ## Classes
 
-[`AWXPaymentElement.Configuration`](/documentation/airwallex/awxpaymentelement/configuration)
+[`AWXPaymentElement.Configuration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration.md)
 
 ## Instance Properties
 
-[`delegate`](/documentation/airwallex/awxpaymentelement/delegate)
+[`delegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/delegate.md)
 
-[`view`](/documentation/airwallex/awxpaymentelement/view)
+[`view`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/view.md)
 
 ## Type Methods
 
-[`create(session:delegate:configuration:)`](/documentation/airwallex/awxpaymentelement/create(session:delegate:configuration:))
+[`create(session:delegate:configuration:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/create(session-delegate-configuration-).md)
 
 ## Enumerations
 
-[`AWXPaymentElement.ElementType`](/documentation/airwallex/awxpaymentelement/elementtype)
+[`AWXPaymentElement.ElementType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype.md)
 
 ## Default Implementations
 
-[`AWXPaymentResultDelegate Implementations`](/documentation/airwallex/awxpaymentelement/awxpaymentresultdelegate-implementations)
+[`AWXPaymentResultDelegate Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/awxpaymentresultdelegate-implementations.md)

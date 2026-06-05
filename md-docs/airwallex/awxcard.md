@@ -29,42 +29,42 @@ class AWXCard
 
 ## Initializers
 
-[`init(name:cardNumber:expiryMonth:expiryYear:cvc:)`](/documentation/airwallex/awxcard/init(name:cardnumber:expirymonth:expiryyear:cvc:))
+[`init(name:cardNumber:expiryMonth:expiryYear:cvc:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/init(name-cardnumber-expirymonth-expiryyear-cvc-).md)
 
 ## Instance Properties
 
-[`avsCheck`](/documentation/airwallex/awxcard/avscheck)
+[`avsCheck`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/avscheck.md)
 
-[`bin`](/documentation/airwallex/awxcard/bin)
+[`bin`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/bin.md)
 
-[`brand`](/documentation/airwallex/awxcard/brand)
+[`brand`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/brand.md)
 
-[`country`](/documentation/airwallex/awxcard/country)
+[`country`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/country.md)
 
-[`cvc`](/documentation/airwallex/awxcard/cvc)
+[`cvc`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/cvc.md)
 
-[`cvcCheck`](/documentation/airwallex/awxcard/cvccheck)
+[`cvcCheck`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/cvccheck.md)
 
-[`expiryMonth`](/documentation/airwallex/awxcard/expirymonth)
+[`expiryMonth`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/expirymonth.md)
 
-[`expiryYear`](/documentation/airwallex/awxcard/expiryyear)
+[`expiryYear`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/expiryyear.md)
 
-[`fingerprint`](/documentation/airwallex/awxcard/fingerprint)
+[`fingerprint`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/fingerprint.md)
 
-[`funding`](/documentation/airwallex/awxcard/funding)
+[`funding`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/funding.md)
 
-[`last4`](/documentation/airwallex/awxcard/last4)
+[`last4`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/last4.md)
 
-[`name`](/documentation/airwallex/awxcard/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/name.md)
 
-[`number`](/documentation/airwallex/awxcard/number)
+[`number`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/number.md)
 
-[`numberType`](/documentation/airwallex/awxcard/numbertype-swift.property)
+[`numberType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/numbertype-swift.property.md)
 
 ## Instance Methods
 
-[`validate()`](/documentation/airwallex/awxcard/validate())
+[`validate()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/validate().md)
 
 ## Enumerations
 
-[`AWXCard.NumberType`](/documentation/airwallex/awxcard/numbertype-swift.enum)
+[`AWXCard.NumberType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/numbertype-swift.enum.md)

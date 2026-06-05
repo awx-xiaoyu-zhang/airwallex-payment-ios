@@ -27,6 +27,6 @@ protocol AWXPageViewTrackable
 
 ## Instance Properties
 
-[`additionalInfo`](/documentation/airwallex/awxpageviewtrackable/additionalinfo)
+[`additionalInfo`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpageviewtrackable/additionalinfo.md)
 
-[`pageName`](/documentation/airwallex/awxpageviewtrackable/pagename)
+[`pageName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpageviewtrackable/pagename.md)

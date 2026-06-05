@@ -29,14 +29,14 @@ class AWXConfirmPaymentIntentResponse
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/awxconfirmpaymentintentresponse/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/amount.md)
 
-[`currency`](/documentation/airwallex/awxconfirmpaymentintentresponse/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/currency.md)
 
-[`latestPaymentAttempt`](/documentation/airwallex/awxconfirmpaymentintentresponse/latestpaymentattempt)
+[`latestPaymentAttempt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/latestpaymentattempt.md)
 
-[`nextAction`](/documentation/airwallex/awxconfirmpaymentintentresponse/nextaction)
+[`nextAction`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/nextaction.md)
 
-[`paymentConsentId`](/documentation/airwallex/awxconfirmpaymentintentresponse/paymentconsentid)
+[`paymentConsentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/paymentconsentid.md)
 
-[`status`](/documentation/airwallex/awxconfirmpaymentintentresponse/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse/status.md)

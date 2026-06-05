@@ -27,16 +27,16 @@ enum AWXSDKErrorCode
 
 ## Enumeration Cases
 
-[`AWXSDKErrorCode.internalError`](/documentation/airwallex/awxsdkerrorcode/internalerror)
+[`AWXSDKErrorCode.internalError`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/internalerror.md)
 
-[`AWXSDKErrorCode.userCancelled`](/documentation/airwallex/awxsdkerrorcode/usercancelled)
+[`AWXSDKErrorCode.userCancelled`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/usercancelled.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxsdkerrorcode/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxsdkerrorcode/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxsdkerrorcode/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/rawrepresentable-implementations.md)

@@ -27,6 +27,6 @@ class AWXFormMapping
 
 ## Instance Properties
 
-[`forms`](/documentation/airwallex/awxformmapping/forms)
+[`forms`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformmapping/forms.md)
 
-[`title`](/documentation/airwallex/awxformmapping/title)
+[`title`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformmapping/title.md)

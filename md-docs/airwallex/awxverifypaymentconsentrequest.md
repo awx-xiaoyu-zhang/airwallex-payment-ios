@@ -29,14 +29,14 @@ class AWXVerifyPaymentConsentRequest
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/awxverifypaymentconsentrequest/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/amount.md)
 
-[`consent`](/documentation/airwallex/awxverifypaymentconsentrequest/consent)
+[`consent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/consent.md)
 
-[`currency`](/documentation/airwallex/awxverifypaymentconsentrequest/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/currency.md)
 
-[`device`](/documentation/airwallex/awxverifypaymentconsentrequest/device)
+[`device`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/device.md)
 
-[`options`](/documentation/airwallex/awxverifypaymentconsentrequest/options)
+[`options`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/options.md)
 
-[`returnURL`](/documentation/airwallex/awxverifypaymentconsentrequest/returnurl)
+[`returnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest/returnurl.md)

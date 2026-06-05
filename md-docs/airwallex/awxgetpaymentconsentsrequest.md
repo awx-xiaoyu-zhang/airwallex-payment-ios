@@ -29,14 +29,14 @@ class AWXGetPaymentConsentsRequest
 
 ## Instance Properties
 
-[`customerId`](/documentation/airwallex/awxgetpaymentconsentsrequest/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/customerid.md)
 
-[`merchantTriggerReason`](/documentation/airwallex/awxgetpaymentconsentsrequest/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/merchanttriggerreason.md)
 
-[`nextTriggeredBy`](/documentation/airwallex/awxgetpaymentconsentsrequest/nexttriggeredby)
+[`nextTriggeredBy`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/nexttriggeredby.md)
 
-[`pageNum`](/documentation/airwallex/awxgetpaymentconsentsrequest/pagenum)
+[`pageNum`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/pagenum.md)
 
-[`pageSize`](/documentation/airwallex/awxgetpaymentconsentsrequest/pagesize)
+[`pageSize`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/pagesize.md)
 
-[`status`](/documentation/airwallex/awxgetpaymentconsentsrequest/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest/status.md)

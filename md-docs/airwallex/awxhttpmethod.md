@@ -29,16 +29,16 @@ struct AWXHTTPMethod
 
 ## Initializers
 
-[`init(_:)`](/documentation/airwallex/awxhttpmethod/init(_:))
+[`init(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod/init(_-).md)
 
-[`init(rawValue:)`](/documentation/airwallex/awxhttpmethod/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod/init(rawvalue-).md)
 
 ## Instance Properties
 
-[`rawValue`](/documentation/airwallex/awxhttpmethod/rawvalue)
+[`rawValue`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod/rawvalue.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxhttpmethod/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxhttpmethod/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod/rawrepresentable-implementations.md)

@@ -29,40 +29,40 @@ class AWXDefaultProvider
 
 ## Initializers
 
-[`init(delegate:session:)`](/documentation/airwallex/awxdefaultprovider/init(delegate:session:))
+[`init(delegate:session:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/init(delegate-session-).md)
 
-[`init(delegate:session:paymentMethodType:)`](/documentation/airwallex/awxdefaultprovider/init(delegate:session:paymentmethodtype:))
+[`init(delegate:session:paymentMethodType:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/init(delegate-session-paymentmethodtype-).md)
 
 ## Instance Properties
 
-[`delegate`](/documentation/airwallex/awxdefaultprovider/delegate)
+[`delegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/delegate.md)
 
-[`paymentConsent`](/documentation/airwallex/awxdefaultprovider/paymentconsent)
+[`paymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/paymentconsent.md)
 
-[`paymentMethod`](/documentation/airwallex/awxdefaultprovider/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/paymentmethod.md)
 
-[`paymentMethodType`](/documentation/airwallex/awxdefaultprovider/paymentmethodtype)
+[`paymentMethodType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/paymentmethodtype.md)
 
-[`session`](/documentation/airwallex/awxdefaultprovider/session)
+[`session`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/session.md)
 
-[`showPaymentDirectly`](/documentation/airwallex/awxdefaultprovider/showpaymentdirectly)
+[`showPaymentDirectly`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/showpaymentdirectly.md)
 
 ## Instance Methods
 
-[`complete(with:error:)`](/documentation/airwallex/awxdefaultprovider/complete(with:error:))
+[`complete(with:error:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/complete(with-error-).md)
 
-[`confirmPaymentIntent(with:paymentConsent:)`](/documentation/airwallex/awxdefaultprovider/confirmpaymentintent(with:paymentconsent:))
+[`confirmPaymentIntent(with:paymentConsent:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/confirmpaymentintent(with-paymentconsent-).md)
 
-[`confirmPaymentIntent(with:paymentConsent:completion:)`](/documentation/airwallex/awxdefaultprovider/confirmpaymentintent(with:paymentconsent:completion:))
+[`confirmPaymentIntent(with:paymentConsent:completion:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/confirmpaymentintent(with-paymentconsent-completion-).md)
 
-[`confirmPaymentIntent(with:paymentConsent:flow:)`](/documentation/airwallex/awxdefaultprovider/confirmpaymentintent(with:paymentconsent:flow:))
+[`confirmPaymentIntent(with:paymentConsent:flow:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/confirmpaymentintent(with-paymentconsent-flow-).md)
 
-[`createPaymentConsentAndConfirmIntent(with:)`](/documentation/airwallex/awxdefaultprovider/createpaymentconsentandconfirmintent(with:))
+[`createPaymentConsentAndConfirmIntent(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/createpaymentconsentandconfirmintent(with-).md)
 
-[`createPaymentConsentAndConfirmIntent(with:completion:)`](/documentation/airwallex/awxdefaultprovider/createpaymentconsentandconfirmintent(with:completion:))
+[`createPaymentConsentAndConfirmIntent(with:completion:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/createpaymentconsentandconfirmintent(with-completion-).md)
 
-[`handleFlow()`](/documentation/airwallex/awxdefaultprovider/handleflow())
+[`handleFlow()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/handleflow().md)
 
 ## Type Methods
 
-[`canHandle(_:paymentMethod:)`](/documentation/airwallex/awxdefaultprovider/canhandle(_:paymentmethod:))
+[`canHandle(_:paymentMethod:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider/canhandle(_-paymentmethod-).md)

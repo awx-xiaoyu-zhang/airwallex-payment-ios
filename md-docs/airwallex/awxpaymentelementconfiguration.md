@@ -26,18 +26,18 @@ Use this class to customize the appearance and behavior of the payment element.
 
 ## Instance Properties
 
-[`appearance`](/documentation/airwallex/awxpaymentelementconfiguration/appearance)
+[`appearance`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/appearance.md)
 
-[`applePayButton`](/documentation/airwallex/awxpaymentelementconfiguration/applepaybutton)
+[`applePayButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/applepaybutton.md)
 
-[`checkoutButton`](/documentation/airwallex/awxpaymentelementconfiguration/checkoutbutton)
+[`checkoutButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/checkoutbutton.md)
 
-[`elementType`](/documentation/airwallex/awxpaymentelementconfiguration/elementtype)
+[`elementType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/elementtype.md)
 
-[`layout`](/documentation/airwallex/awxpaymentelementconfiguration/layout)
+[`layout`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/layout.md)
 
-[`supportedCardBrands`](/documentation/airwallex/awxpaymentelementconfiguration/supportedcardbrands)
+[`supportedCardBrands`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/supportedcardbrands.md)
 
 ## Instance Methods
 
-[`init`](/documentation/airwallex/awxpaymentelementconfiguration/init)
+[`init`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementconfiguration/init.md)

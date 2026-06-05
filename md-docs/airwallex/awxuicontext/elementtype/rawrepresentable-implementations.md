@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`hashValue`](/documentation/airwallex/awxuicontext/elementtype/hashvalue)
+[`hashValue`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/hashvalue.md)
 
 ## Instance Methods
 
-[`hash(into:)`](/documentation/airwallex/awxuicontext/elementtype/hash(into:))
+[`hash(into:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/hash(into-).md)

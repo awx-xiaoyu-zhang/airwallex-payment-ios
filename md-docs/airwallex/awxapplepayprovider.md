@@ -33,4 +33,4 @@ class AWXApplePayProvider
 
 ## Instance Methods
 
-[`startPayment()`](/documentation/airwallex/awxapplepayprovider/startpayment())
+[`startPayment()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayprovider/startpayment().md)

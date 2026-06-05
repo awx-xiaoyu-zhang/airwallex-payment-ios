@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`failureReason`](/documentation/airwallex/awxuicontext/launcherror/failurereason)
+[`failureReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/failurereason.md)
 
-[`helpAnchor`](/documentation/airwallex/awxuicontext/launcherror/helpanchor)
+[`helpAnchor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/helpanchor.md)
 
-[`recoverySuggestion`](/documentation/airwallex/awxuicontext/launcherror/recoverysuggestion)
+[`recoverySuggestion`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/recoverysuggestion.md)

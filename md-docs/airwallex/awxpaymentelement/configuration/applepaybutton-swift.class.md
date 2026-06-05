@@ -29,8 +29,8 @@ Configuration for the Apple Pay button appearance and behavior.
 
 ## Instance Properties
 
-[`buttonType`](/documentation/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/buttontype)
+[`buttonType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/buttontype.md)
 
-[`disableCardArt`](/documentation/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/disablecardart)
+[`disableCardArt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/disablecardart.md)
 
-[`showsAsPrimaryButton`](/documentation/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/showsasprimarybutton)
+[`showsAsPrimaryButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration/applepaybutton-swift.class/showsasprimarybutton.md)

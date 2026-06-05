@@ -27,20 +27,20 @@ class AWXForm
 
 ## Initializers
 
-[`init(key:type:title:)`](/documentation/airwallex/awxform/init(key:type:title:))
+[`init(key:type:title:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/init(key-type-title-).md)
 
-[`init(key:type:title:logo:)`](/documentation/airwallex/awxform/init(key:type:title:logo:))
+[`init(key:type:title:logo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/init(key-type-title-logo-).md)
 
-[`init(key:type:title:textFieldType:)`](/documentation/airwallex/awxform/init(key:type:title:textfieldtype:))
+[`init(key:type:title:textFieldType:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/init(key-type-title-textfieldtype-).md)
 
 ## Instance Properties
 
-[`key`](/documentation/airwallex/awxform/key)
+[`key`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/key.md)
 
-[`logo`](/documentation/airwallex/awxform/logo)
+[`logo`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/logo.md)
 
-[`textFieldType`](/documentation/airwallex/awxform/textfieldtype)
+[`textFieldType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/textfieldtype.md)
 
-[`title`](/documentation/airwallex/awxform/title)
+[`title`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/title.md)
 
-[`type`](/documentation/airwallex/awxform/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform/type.md)

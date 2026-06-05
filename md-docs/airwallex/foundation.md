@@ -23,18 +23,18 @@
 
 ## Extended Classes
 
-[`Bundle`](/documentation/airwallex/foundation/bundle)
+[`Bundle`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/bundle.md)
 
-[`NSArray`](/documentation/airwallex/foundation/nsarray)
+[`NSArray`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsarray.md)
 
-[`NSCharacterSet`](/documentation/airwallex/foundation/nscharacterset)
+[`NSCharacterSet`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nscharacterset.md)
 
-[`NSDecimalNumber`](/documentation/airwallex/foundation/nsdecimalnumber)
+[`NSDecimalNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdecimalnumber.md)
 
-[`NSDictionary`](/documentation/airwallex/foundation/nsdictionary)
+[`NSDictionary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdictionary.md)
 
-[`NSLocale`](/documentation/airwallex/foundation/nslocale)
+[`NSLocale`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nslocale.md)
 
-[`NSString`](/documentation/airwallex/foundation/nsstring)
+[`NSString`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsstring.md)
 
-[`NSURL`](/documentation/airwallex/foundation/nsurl)
+[`NSURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsurl.md)

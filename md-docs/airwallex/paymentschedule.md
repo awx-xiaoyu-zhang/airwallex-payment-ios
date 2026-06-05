@@ -29,14 +29,14 @@ Payment schedule configuration
 
 ## Initializers
 
-[`init(period:periodUnit:)`](/documentation/airwallex/paymentschedule/init(period:periodunit:))
+[`init(period:periodUnit:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentschedule/init(period-periodunit-).md)
 
 ## Instance Properties
 
-[`period`](/documentation/airwallex/paymentschedule/period)
+[`period`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentschedule/period.md)
 
-[`periodUnit`](/documentation/airwallex/paymentschedule/periodunit)
+[`periodUnit`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentschedule/periodunit.md)
 
 ## Default Implementations
 
-[`Encodable Implementations`](/documentation/airwallex/paymentschedule/encodable-implementations)
+[`Encodable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentschedule/encodable-implementations.md)

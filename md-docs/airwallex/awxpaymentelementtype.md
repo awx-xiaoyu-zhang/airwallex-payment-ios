@@ -25,6 +25,6 @@ The type of element to display.
 
 ## Enumeration Cases
 
-[`AWXPaymentElementTypeAddCard`](/documentation/airwallex/awxpaymentelementtype/awxpaymentelementtypeaddcard)
+[`AWXPaymentElementTypeAddCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementtype/awxpaymentelementtypeaddcard.md)
 
-[`AWXPaymentElementTypePaymentSheet`](/documentation/airwallex/awxpaymentelementtype/awxpaymentelementtypepaymentsheet)
+[`AWXPaymentElementTypePaymentSheet`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementtype/awxpaymentelementtypepaymentsheet.md)

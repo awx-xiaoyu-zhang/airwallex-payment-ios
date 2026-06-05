@@ -27,6 +27,6 @@ class AWXResponse
 
 ## Type Methods
 
-[`parse(_:)`](/documentation/airwallex/awxresponse/parse(_:))
+[`parse(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresponse/parse(_-).md)
 
-[`parseError(_:)`](/documentation/airwallex/awxresponse/parseerror(_:))
+[`parseError(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresponse/parseerror(_-).md)

@@ -29,8 +29,8 @@ class AWXDevice
 
 ## Instance Properties
 
-[`deviceId`](/documentation/airwallex/awxdevice/deviceid)
+[`deviceId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdevice/deviceid.md)
 
 ## Type Methods
 
-[`withRiskSessionId()`](/documentation/airwallex/awxdevice/withrisksessionid())
+[`withRiskSessionId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdevice/withrisksessionid().md)

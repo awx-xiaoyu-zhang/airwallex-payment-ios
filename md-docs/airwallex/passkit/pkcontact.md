@@ -28,4 +28,4 @@ extension PKContact
 
 ## Instance Methods
 
-[`payloadForRequest()`](/documentation/airwallex/passkit/pkcontact/payloadforrequest())
+[`payloadForRequest()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkcontact/payloadforrequest().md)

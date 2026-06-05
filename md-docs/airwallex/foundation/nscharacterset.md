@@ -28,6 +28,6 @@ extension NSCharacterSet
 
 ## Type Methods
 
-[`allURLQueryAllowed()`](/documentation/airwallex/foundation/nscharacterset/allurlqueryallowed())
+[`allURLQueryAllowed()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nscharacterset/allurlqueryallowed().md)
 
-[`invertedAsciiDigit()`](/documentation/airwallex/foundation/nscharacterset/invertedasciidigit())
+[`invertedAsciiDigit()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nscharacterset/invertedasciidigit().md)

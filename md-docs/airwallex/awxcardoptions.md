@@ -29,6 +29,6 @@ class AWXCardOptions
 
 ## Instance Properties
 
-[`autoCapture`](/documentation/airwallex/awxcardoptions/autocapture)
+[`autoCapture`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardoptions/autocapture.md)
 
-[`threeDs`](/documentation/airwallex/awxcardoptions/threeds)
+[`threeDs`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardoptions/threeds.md)

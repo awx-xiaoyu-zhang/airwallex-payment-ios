@@ -29,20 +29,20 @@ class AWXPaymentMethodType
 
 ## Instance Properties
 
-[`active`](/documentation/airwallex/awxpaymentmethodtype/active)
+[`active`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/active.md)
 
-[`cardSchemes`](/documentation/airwallex/awxpaymentmethodtype/cardschemes)
+[`cardSchemes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/cardschemes.md)
 
-[`displayName`](/documentation/airwallex/awxpaymentmethodtype/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/displayname.md)
 
-[`flows`](/documentation/airwallex/awxpaymentmethodtype/flows)
+[`flows`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/flows.md)
 
-[`hasSchema`](/documentation/airwallex/awxpaymentmethodtype/hasschema)
+[`hasSchema`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/hasschema.md)
 
-[`name`](/documentation/airwallex/awxpaymentmethodtype/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/name.md)
 
-[`resources`](/documentation/airwallex/awxpaymentmethodtype/resources)
+[`resources`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/resources.md)
 
-[`transactionCurrencies`](/documentation/airwallex/awxpaymentmethodtype/transactioncurrencies)
+[`transactionCurrencies`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/transactioncurrencies.md)
 
-[`transactionMode`](/documentation/airwallex/awxpaymentmethodtype/transactionmode)
+[`transactionMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype/transactionmode.md)

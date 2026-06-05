@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`hashValue`](/documentation/airwallex/airwallexnexttriggerbytype/hashvalue)
+[`hashValue`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/hashvalue.md)
 
 ## Instance Methods
 
-[`hash(into:)`](/documentation/airwallex/airwallexnexttriggerbytype/hash(into:))
+[`hash(into:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/hash(into-).md)

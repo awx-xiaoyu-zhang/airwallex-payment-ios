@@ -27,32 +27,32 @@ enum AWXBrandType
 
 ## Enumeration Cases
 
-[`AWXBrandType.JCB`](/documentation/airwallex/awxbrandtype/jcb)
+[`AWXBrandType.JCB`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/jcb.md)
 
-[`AWXBrandType.amex`](/documentation/airwallex/awxbrandtype/amex)
+[`AWXBrandType.amex`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/amex.md)
 
-[`AWXBrandType.dinersClub`](/documentation/airwallex/awxbrandtype/dinersclub)
+[`AWXBrandType.dinersClub`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/dinersclub.md)
 
-[`AWXBrandType.discover`](/documentation/airwallex/awxbrandtype/discover)
+[`AWXBrandType.discover`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/discover.md)
 
-[`AWXBrandType.mastercard`](/documentation/airwallex/awxbrandtype/mastercard)
+[`AWXBrandType.mastercard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/mastercard.md)
 
-[`AWXBrandType.unionPay`](/documentation/airwallex/awxbrandtype/unionpay)
+[`AWXBrandType.unionPay`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/unionpay.md)
 
-[`AWXBrandType.unknown`](/documentation/airwallex/awxbrandtype/unknown)
+[`AWXBrandType.unknown`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/unknown.md)
 
-[`AWXBrandType.visa`](/documentation/airwallex/awxbrandtype/visa)
+[`AWXBrandType.visa`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/visa.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxbrandtype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/init(rawvalue-).md)
 
 ## Type Properties
 
-[`allAvailable`](/documentation/airwallex/awxbrandtype/allavailable)
+[`allAvailable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/allavailable.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxbrandtype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxbrandtype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype/rawrepresentable-implementations.md)

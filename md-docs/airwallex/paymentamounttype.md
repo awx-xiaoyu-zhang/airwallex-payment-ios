@@ -29,16 +29,16 @@ Payment amount type enumeration
 
 ## Enumeration Cases
 
-[`PaymentAmountType.fixed`](/documentation/airwallex/paymentamounttype/fixed)
+[`PaymentAmountType.fixed`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype/fixed.md)
 
-[`PaymentAmountType.variable`](/documentation/airwallex/paymentamounttype/variable)
+[`PaymentAmountType.variable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype/variable.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/paymentamounttype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/paymentamounttype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/paymentamounttype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype/rawrepresentable-implementations.md)

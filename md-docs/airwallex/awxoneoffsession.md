@@ -33,8 +33,8 @@ class AWXOneOffSession
 
 ## Instance Properties
 
-[`autoCapture`](/documentation/airwallex/awxoneoffsession/autocapture)
+[`autoCapture`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxoneoffsession/autocapture.md)
 
-[`autoSaveCardForFuturePayments`](/documentation/airwallex/awxoneoffsession/autosavecardforfuturepayments)
+[`autoSaveCardForFuturePayments`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxoneoffsession/autosavecardforfuturepayments.md)
 
-[`paymentIntent`](/documentation/airwallex/awxoneoffsession/paymentintent)
+[`paymentIntent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxoneoffsession/paymentintent.md)

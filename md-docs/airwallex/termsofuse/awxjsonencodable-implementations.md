@@ -13,4 +13,4 @@
 
 ## Instance Methods
 
-[`encodeToJSON()`](/documentation/airwallex/termsofuse/encodetojson())
+[`encodeToJSON()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/encodetojson().md)

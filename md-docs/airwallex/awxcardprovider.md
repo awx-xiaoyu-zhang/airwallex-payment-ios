@@ -33,8 +33,8 @@ class AWXCardProvider
 
 ## Instance Methods
 
-[`confirmPaymentIntent(with:)`](/documentation/airwallex/awxcardprovider/confirmpaymentintent(with:))
+[`confirmPaymentIntent(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardprovider/confirmpaymentintent(with-).md)
 
-[`confirmPaymentIntent(with:billing:saveCard:)`](/documentation/airwallex/awxcardprovider/confirmpaymentintent(with:billing:savecard:))
+[`confirmPaymentIntent(with:billing:saveCard:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardprovider/confirmpaymentintent(with-billing-savecard-).md)
 
-[`confirmPaymentIntent(withPaymentConsentId:)`](/documentation/airwallex/awxcardprovider/confirmpaymentintent(withpaymentconsentid:))
+[`confirmPaymentIntent(withPaymentConsentId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardprovider/confirmpaymentintent(withpaymentconsentid-).md)

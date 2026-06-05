@@ -28,6 +28,6 @@ extension UIImageView
 
 ## Instance Methods
 
-[`loadImage(_:imageLoader:placeholder:)`](/documentation/airwallex/uikit/uiimageview/loadimage(_:imageloader:placeholder:))
+[`loadImage(_:imageLoader:placeholder:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimageview/loadimage(_-imageloader-placeholder-).md)
 
-[`setImageURL(_:placeholder:)`](/documentation/airwallex/uikit/uiimageview/setimageurl(_:placeholder:))
+[`setImageURL(_:placeholder:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimageview/setimageurl(_-placeholder-).md)

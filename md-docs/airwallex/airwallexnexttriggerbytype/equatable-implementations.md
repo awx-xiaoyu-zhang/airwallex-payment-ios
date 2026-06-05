@@ -13,4 +13,4 @@
 
 ## Operators
 
-[`!=(_:_:)`](/documentation/airwallex/airwallexnexttriggerbytype/!=(_:_:))
+[`!=(_:_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/%21%3D(_-_-).md)

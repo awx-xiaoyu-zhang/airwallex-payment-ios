@@ -29,12 +29,12 @@ class AWXAPIClient
 
 ## Initializers
 
-[`init(configuration:)`](/documentation/airwallex/awxapiclient/init(configuration:))
+[`init(configuration:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclient/init(configuration-).md)
 
 ## Instance Properties
 
-[`configuration`](/documentation/airwallex/awxapiclient/configuration)
+[`configuration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclient/configuration.md)
 
 ## Instance Methods
 
-[`send(_:withCompletionHandler:)`](/documentation/airwallex/awxapiclient/send(_:withcompletionhandler:))
+[`send(_:withCompletionHandler:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclient/send(_-withcompletionhandler-).md)

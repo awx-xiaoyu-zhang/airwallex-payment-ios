@@ -27,4 +27,4 @@ class AWXGetPaymentConsentsResponse
 
 ## Instance Properties
 
-[`items`](/documentation/airwallex/awxgetpaymentconsentsresponse/items)
+[`items`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsresponse/items.md)

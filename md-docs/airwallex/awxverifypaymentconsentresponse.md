@@ -29,8 +29,8 @@ class AWXVerifyPaymentConsentResponse
 
 ## Instance Properties
 
-[`initialPaymentIntentId`](/documentation/airwallex/awxverifypaymentconsentresponse/initialpaymentintentid)
+[`initialPaymentIntentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentresponse/initialpaymentintentid.md)
 
-[`nextAction`](/documentation/airwallex/awxverifypaymentconsentresponse/nextaction)
+[`nextAction`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentresponse/nextaction.md)
 
-[`status`](/documentation/airwallex/awxverifypaymentconsentresponse/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentresponse/status.md)

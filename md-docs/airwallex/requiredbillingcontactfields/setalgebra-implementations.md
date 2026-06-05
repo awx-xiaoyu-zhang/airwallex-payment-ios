@@ -13,26 +13,26 @@
 
 ## Initializers
 
-[`init(_:)`](/documentation/airwallex/requiredbillingcontactfields/init(_:))
+[`init(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/init(_-).md)
 
-[`init(arrayLiteral:)`](/documentation/airwallex/requiredbillingcontactfields/init(arrayliteral:))
+[`init(arrayLiteral:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/init(arrayliteral-).md)
 
 ## Instance Properties
 
-[`isEmpty`](/documentation/airwallex/requiredbillingcontactfields/isempty)
+[`isEmpty`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/isempty.md)
 
 ## Instance Methods
 
-[`isDisjoint(with:)`](/documentation/airwallex/requiredbillingcontactfields/isdisjoint(with:))
+[`isDisjoint(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/isdisjoint(with-).md)
 
-[`isStrictSubset(of:)`](/documentation/airwallex/requiredbillingcontactfields/isstrictsubset(of:))
+[`isStrictSubset(of:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/isstrictsubset(of-).md)
 
-[`isStrictSuperset(of:)`](/documentation/airwallex/requiredbillingcontactfields/isstrictsuperset(of:))
+[`isStrictSuperset(of:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/isstrictsuperset(of-).md)
 
-[`isSubset(of:)`](/documentation/airwallex/requiredbillingcontactfields/issubset(of:))
+[`isSubset(of:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/issubset(of-).md)
 
-[`isSuperset(of:)`](/documentation/airwallex/requiredbillingcontactfields/issuperset(of:))
+[`isSuperset(of:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/issuperset(of-).md)
 
-[`subtract(_:)`](/documentation/airwallex/requiredbillingcontactfields/subtract(_:))
+[`subtract(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/subtract(_-).md)
 
-[`subtracting(_:)`](/documentation/airwallex/requiredbillingcontactfields/subtracting(_:))
+[`subtracting(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/subtracting(_-).md)

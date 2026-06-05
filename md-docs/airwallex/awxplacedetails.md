@@ -29,22 +29,22 @@ class AWXPlaceDetails
 
 ## Instance Properties
 
-[`address`](/documentation/airwallex/awxplacedetails/address)
+[`address`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/address.md)
 
-[`dateOfBirth`](/documentation/airwallex/awxplacedetails/dateofbirth)
+[`dateOfBirth`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/dateofbirth.md)
 
-[`email`](/documentation/airwallex/awxplacedetails/email)
+[`email`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/email.md)
 
-[`firstName`](/documentation/airwallex/awxplacedetails/firstname)
+[`firstName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/firstname.md)
 
-[`fullName`](/documentation/airwallex/awxplacedetails/fullname)
+[`fullName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/fullname.md)
 
-[`lastName`](/documentation/airwallex/awxplacedetails/lastname)
+[`lastName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/lastname.md)
 
-[`phoneNumber`](/documentation/airwallex/awxplacedetails/phonenumber)
+[`phoneNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/phonenumber.md)
 
 ## Instance Methods
 
-[`convertToPaymentContact()`](/documentation/airwallex/awxplacedetails/converttopaymentcontact())
+[`convertToPaymentContact()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/converttopaymentcontact().md)
 
-[`validate()`](/documentation/airwallex/awxplacedetails/validate())
+[`validate()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails/validate().md)

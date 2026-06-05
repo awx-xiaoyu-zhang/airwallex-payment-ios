@@ -29,16 +29,16 @@ class AWXConfirmPaymentNextAction
 
 ## Instance Properties
 
-[`debugDescription`](/documentation/airwallex/awxconfirmpaymentnextaction/debugdescription)
+[`debugDescription`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/debugdescription.md)
 
-[`fallbackUrl`](/documentation/airwallex/awxconfirmpaymentnextaction/fallbackurl)
+[`fallbackUrl`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/fallbackurl.md)
 
-[`method`](/documentation/airwallex/awxconfirmpaymentnextaction/method)
+[`method`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/method.md)
 
-[`payload`](/documentation/airwallex/awxconfirmpaymentnextaction/payload)
+[`payload`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/payload.md)
 
-[`stage`](/documentation/airwallex/awxconfirmpaymentnextaction/stage)
+[`stage`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/stage.md)
 
-[`type`](/documentation/airwallex/awxconfirmpaymentnextaction/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/type.md)
 
-[`url`](/documentation/airwallex/awxconfirmpaymentnextaction/url)
+[`url`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction/url.md)

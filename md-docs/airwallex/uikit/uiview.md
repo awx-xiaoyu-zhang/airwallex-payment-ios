@@ -28,8 +28,8 @@ extension UIView
 
 ## Instance Methods
 
-[`roundCorners(_:radius:)`](/documentation/airwallex/uikit/uiview/roundcorners(_:radius:))
+[`roundCorners(_:radius:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiview/roundcorners(_-radius-).md)
 
 ## Type Methods
 
-[`autoLayout()`](/documentation/airwallex/uikit/uiview/autolayout())
+[`autoLayout()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiview/autolayout().md)

@@ -29,20 +29,20 @@ class AWXBrand
 
 ## Initializers
 
-[`init(name:rangeStart:rangeEnd:length:type:)`](/documentation/airwallex/awxbrand/init(name:rangestart:rangeend:length:type:))
+[`init(name:rangeStart:rangeEnd:length:type:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/init(name-rangestart-rangeend-length-type-).md)
 
 ## Instance Properties
 
-[`length`](/documentation/airwallex/awxbrand/length)
+[`length`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/length.md)
 
-[`name`](/documentation/airwallex/awxbrand/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/name.md)
 
-[`rangeEnd`](/documentation/airwallex/awxbrand/rangeend)
+[`rangeEnd`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/rangeend.md)
 
-[`rangeStart`](/documentation/airwallex/awxbrand/rangestart)
+[`rangeStart`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/rangestart.md)
 
-[`type`](/documentation/airwallex/awxbrand/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/type.md)
 
 ## Instance Methods
 
-[`matchesPrefix(_:)`](/documentation/airwallex/awxbrand/matchesprefix(_:))
+[`matchesPrefix(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand/matchesprefix(_-).md)

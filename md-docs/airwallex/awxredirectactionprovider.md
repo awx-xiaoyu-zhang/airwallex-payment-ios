@@ -29,10 +29,10 @@ class AWXRedirectActionProvider
 
 ## Instance Methods
 
-[`confirmPaymentIntent(with:)`](/documentation/airwallex/awxredirectactionprovider/confirmpaymentintent(with:))
+[`confirmPaymentIntent(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxredirectactionprovider/confirmpaymentintent(with-).md)
 
-[`confirmPaymentIntent(with:additionalInfo:)`](/documentation/airwallex/awxredirectactionprovider/confirmpaymentintent(with:additionalinfo:))
+[`confirmPaymentIntent(with:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxredirectactionprovider/confirmpaymentintent(with-additionalinfo-).md)
 
-[`confirmPaymentIntent(with:additionalInfo:flow:)`](/documentation/airwallex/awxredirectactionprovider/confirmpaymentintent(with:additionalinfo:flow:))
+[`confirmPaymentIntent(with:additionalInfo:flow:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxredirectactionprovider/confirmpaymentintent(with-additionalinfo-flow-).md)
 
-[`confirmPaymentIntent(with:flow:)`](/documentation/airwallex/awxredirectactionprovider/confirmpaymentintent(with:flow:))
+[`confirmPaymentIntent(with:flow:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxredirectactionprovider/confirmpaymentintent(with-flow-).md)

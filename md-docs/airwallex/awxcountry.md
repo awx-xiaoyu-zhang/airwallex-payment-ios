@@ -29,14 +29,14 @@ class AWXCountry
 
 ## Initializers
 
-[`init(code:)`](/documentation/airwallex/awxcountry/init(code:))
+[`init(code:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcountry/init(code-).md)
 
 ## Instance Properties
 
-[`countryCode`](/documentation/airwallex/awxcountry/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcountry/countrycode.md)
 
-[`countryName`](/documentation/airwallex/awxcountry/countryname)
+[`countryName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcountry/countryname.md)
 
 ## Type Methods
 
-[`allCountries()`](/documentation/airwallex/awxcountry/allcountries())
+[`allCountries()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcountry/allcountries().md)

@@ -27,4 +27,4 @@
 
 ## Instance Methods
 
-[`shippingViewController(_:didEditShipping:)`](/documentation/airwallex/awxshippingviewcontrollerdelegate/shippingviewcontroller(_:dideditshipping:))
+[`shippingViewController(_:didEditShipping:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontrollerdelegate/shippingviewcontroller(_-dideditshipping-).md)

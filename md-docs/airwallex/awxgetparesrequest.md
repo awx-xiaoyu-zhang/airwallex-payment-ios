@@ -29,4 +29,4 @@ class AWXGetPaResRequest
 
 ## Instance Properties
 
-[`paResId`](/documentation/airwallex/awxgetparesrequest/paresid)
+[`paResId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetparesrequest/paresid.md)

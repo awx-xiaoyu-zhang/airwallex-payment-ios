@@ -29,20 +29,20 @@ class AWXApplePayOptions
 
 ## Initializers
 
-[`init(merchantIdentifier:)`](/documentation/airwallex/awxapplepayoptions/init(merchantidentifier:))
+[`init(merchantIdentifier:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/init(merchantidentifier-).md)
 
 ## Instance Properties
 
-[`additionalPaymentSummaryItems`](/documentation/airwallex/awxapplepayoptions/additionalpaymentsummaryitems)
+[`additionalPaymentSummaryItems`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/additionalpaymentsummaryitems.md)
 
-[`merchantCapabilities`](/documentation/airwallex/awxapplepayoptions/merchantcapabilities)
+[`merchantCapabilities`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/merchantcapabilities.md)
 
-[`merchantIdentifier`](/documentation/airwallex/awxapplepayoptions/merchantidentifier)
+[`merchantIdentifier`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/merchantidentifier.md)
 
-[`requiredBillingContactFields`](/documentation/airwallex/awxapplepayoptions/requiredbillingcontactfields)
+[`requiredBillingContactFields`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/requiredbillingcontactfields.md)
 
-[`supportedCountries`](/documentation/airwallex/awxapplepayoptions/supportedcountries)
+[`supportedCountries`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/supportedcountries.md)
 
-[`supportedNetworks`](/documentation/airwallex/awxapplepayoptions/supportednetworks)
+[`supportedNetworks`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/supportednetworks.md)
 
-[`totalPriceLabel`](/documentation/airwallex/awxapplepayoptions/totalpricelabel)
+[`totalPriceLabel`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions/totalpricelabel.md)

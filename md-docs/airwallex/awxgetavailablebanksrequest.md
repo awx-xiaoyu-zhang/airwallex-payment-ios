@@ -29,8 +29,8 @@ class AWXGetAvailableBanksRequest
 
 ## Instance Properties
 
-[`countryCode`](/documentation/airwallex/awxgetavailablebanksrequest/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksrequest/countrycode.md)
 
-[`lang`](/documentation/airwallex/awxgetavailablebanksrequest/lang)
+[`lang`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksrequest/lang.md)
 
-[`paymentMethodType`](/documentation/airwallex/awxgetavailablebanksrequest/paymentmethodtype)
+[`paymentMethodType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksrequest/paymentmethodtype.md)

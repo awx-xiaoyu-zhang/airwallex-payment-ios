@@ -28,6 +28,6 @@ extension UIButton
 
 ## Instance Methods
 
-[`setImageAndTitleHorizontalAlignmentCenter(_:)`](/documentation/airwallex/uikit/uibutton/setimageandtitlehorizontalalignmentcenter(_:))
+[`setImageAndTitleHorizontalAlignmentCenter(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uibutton/setimageandtitlehorizontalalignmentcenter(_-).md)
 
-[`setImageAndTitleVerticalAlignmentCenter(_:imageSize:)`](/documentation/airwallex/uikit/uibutton/setimageandtitleverticalalignmentcenter(_:imagesize:))
+[`setImageAndTitleVerticalAlignmentCenter(_:imageSize:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uibutton/setimageandtitleverticalalignmentcenter(_-imagesize-).md)

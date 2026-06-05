@@ -27,20 +27,20 @@
 
 ## Enumeration Cases
 
-[`AirwallexMerchantTriggerReason.installments`](/documentation/airwallex/airwallexmerchanttriggerreason/installments)
+[`AirwallexMerchantTriggerReason.installments`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/installments.md)
 
-[`AirwallexMerchantTriggerReason.scheduled`](/documentation/airwallex/airwallexmerchanttriggerreason/scheduled)
+[`AirwallexMerchantTriggerReason.scheduled`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/scheduled.md)
 
-[`AirwallexMerchantTriggerReason.undefined`](/documentation/airwallex/airwallexmerchanttriggerreason/undefined)
+[`AirwallexMerchantTriggerReason.undefined`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/undefined.md)
 
-[`AirwallexMerchantTriggerReason.unscheduled`](/documentation/airwallex/airwallexmerchanttriggerreason/unscheduled)
+[`AirwallexMerchantTriggerReason.unscheduled`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/unscheduled.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/airwallexmerchanttriggerreason/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/airwallexmerchanttriggerreason/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/airwallexmerchanttriggerreason/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason/rawrepresentable-implementations.md)

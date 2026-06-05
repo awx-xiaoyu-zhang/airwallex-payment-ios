@@ -28,4 +28,4 @@ extension CGColor
 
 ## Type Methods
 
-[`awxCGColor(_:)`](/documentation/airwallex/coregraphics/cgcolor/awxcgcolor(_:))
+[`awxCGColor(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/coregraphics/cgcolor/awxcgcolor(_-).md)

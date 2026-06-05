@@ -29,12 +29,12 @@ class AWXThreeDs
 
 ## Instance Properties
 
-[`attemptId`](/documentation/airwallex/awxthreeds/attemptid)
+[`attemptId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds/attemptid.md)
 
-[`deviceDataCollectionRes`](/documentation/airwallex/awxthreeds/devicedatacollectionres)
+[`deviceDataCollectionRes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds/devicedatacollectionres.md)
 
-[`dsTransactionId`](/documentation/airwallex/awxthreeds/dstransactionid)
+[`dsTransactionId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds/dstransactionid.md)
 
-[`paRes`](/documentation/airwallex/awxthreeds/pares)
+[`paRes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds/pares.md)
 
-[`returnURL`](/documentation/airwallex/awxthreeds/returnurl)
+[`returnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds/returnurl.md)

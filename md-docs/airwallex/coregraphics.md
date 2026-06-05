@@ -23,4 +23,4 @@
 
 ## Extended Classes
 
-[`CGColor`](/documentation/airwallex/coregraphics/cgcolor)
+[`CGColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/coregraphics/cgcolor.md)

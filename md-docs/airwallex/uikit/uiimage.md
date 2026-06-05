@@ -28,6 +28,6 @@ extension UIImage
 
 ## Initializers
 
-[`init(from:)`](/documentation/airwallex/uikit/uiimage/init(from:))
+[`init(from:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimage/init(from-).md)
 
-[`init(named:in:)`](/documentation/airwallex/uikit/uiimage/init(named:in:))
+[`init(named:in:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimage/init(named-in-).md)

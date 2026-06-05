@@ -23,10 +23,6 @@
 
 Confirm the payment intent with payment consent ID.
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.CardProvider instead
-
 ```
 func confirmPaymentIntent(withPaymentConsentId paymentConsentId: String)
 ```

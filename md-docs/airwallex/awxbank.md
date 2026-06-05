@@ -29,8 +29,8 @@ class AWXBank
 
 ## Instance Properties
 
-[`displayName`](/documentation/airwallex/awxbank/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbank/displayname.md)
 
-[`name`](/documentation/airwallex/awxbank/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbank/name.md)
 
-[`resources`](/documentation/airwallex/awxbank/resources)
+[`resources`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbank/resources.md)

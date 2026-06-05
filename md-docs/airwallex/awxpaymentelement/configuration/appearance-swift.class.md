@@ -29,4 +29,4 @@ Appearance configuration for customizing the visual style.
 
 ## Instance Properties
 
-[`tintColor`](/documentation/airwallex/awxpaymentelement/configuration/appearance-swift.class/tintcolor)
+[`tintColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration/appearance-swift.class/tintcolor.md)

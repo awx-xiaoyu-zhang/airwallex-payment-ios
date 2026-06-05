@@ -25,6 +25,6 @@ Defines the layout style for payment method selection.
 
 ## Enumeration Cases
 
-[`PaymentLayoutAccordion`](/documentation/airwallex/paymentlayout/paymentlayoutaccordion)
+[`PaymentLayoutAccordion`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentlayout/paymentlayoutaccordion.md)
 
-[`PaymentLayoutTab`](/documentation/airwallex/paymentlayout/paymentlayouttab)
+[`PaymentLayoutTab`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentlayout/paymentlayouttab.md)

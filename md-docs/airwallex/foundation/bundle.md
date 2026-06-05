@@ -28,6 +28,6 @@ extension Bundle
 
 ## Type Methods
 
-[`resource()`](/documentation/airwallex/foundation/bundle/resource())
+[`resource()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/bundle/resource().md)
 
-[`sdk()`](/documentation/airwallex/foundation/bundle/sdk())
+[`sdk()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/bundle/sdk().md)

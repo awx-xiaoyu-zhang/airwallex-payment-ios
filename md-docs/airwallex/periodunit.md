@@ -29,20 +29,20 @@ Period unit enumeration for billing frequency
 
 ## Enumeration Cases
 
-[`PeriodUnit.day`](/documentation/airwallex/periodunit/day)
+[`PeriodUnit.day`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/day.md)
 
-[`PeriodUnit.month`](/documentation/airwallex/periodunit/month)
+[`PeriodUnit.month`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/month.md)
 
-[`PeriodUnit.week`](/documentation/airwallex/periodunit/week)
+[`PeriodUnit.week`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/week.md)
 
-[`PeriodUnit.year`](/documentation/airwallex/periodunit/year)
+[`PeriodUnit.year`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/year.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/periodunit/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/periodunit/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/periodunit/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit/rawrepresentable-implementations.md)

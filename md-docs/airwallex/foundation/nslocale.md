@@ -28,4 +28,4 @@ extension NSLocale
 
 ## Initializers
 
-[`init(currency:)`](/documentation/airwallex/foundation/nslocale/init(currency:))
+[`init(currency:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nslocale/init(currency-).md)

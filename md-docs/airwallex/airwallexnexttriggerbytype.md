@@ -27,16 +27,16 @@
 
 ## Enumeration Cases
 
-[`AirwallexNextTriggerByType.customerType`](/documentation/airwallex/airwallexnexttriggerbytype/customertype)
+[`AirwallexNextTriggerByType.customerType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/customertype.md)
 
-[`AirwallexNextTriggerByType.merchantType`](/documentation/airwallex/airwallexnexttriggerbytype/merchanttype)
+[`AirwallexNextTriggerByType.merchantType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/merchanttype.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/airwallexnexttriggerbytype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/airwallexnexttriggerbytype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/airwallexnexttriggerbytype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype/rawrepresentable-implementations.md)

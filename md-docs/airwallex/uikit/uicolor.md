@@ -28,8 +28,8 @@ extension UIColor
 
 ## Initializers
 
-[`init(dynamicLightColor:darkColor:)`](/documentation/airwallex/uikit/uicolor/init(dynamiclightcolor:darkcolor:))
+[`init(dynamicLightColor:darkColor:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uicolor/init(dynamiclightcolor-darkcolor-).md)
 
 ## Type Methods
 
-[`awxColor(_:)`](/documentation/airwallex/uikit/uicolor/awxcolor(_:))
+[`awxColor(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uicolor/awxcolor(_-).md)

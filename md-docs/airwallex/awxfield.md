@@ -29,16 +29,16 @@ class AWXField
 
 ## Instance Properties
 
-[`candidates`](/documentation/airwallex/awxfield/candidates)
+[`candidates`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/candidates.md)
 
-[`displayName`](/documentation/airwallex/awxfield/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/displayname.md)
 
-[`hidden`](/documentation/airwallex/awxfield/hidden)
+[`hidden`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/hidden.md)
 
-[`name`](/documentation/airwallex/awxfield/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/name.md)
 
-[`type`](/documentation/airwallex/awxfield/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/type.md)
 
-[`uiType`](/documentation/airwallex/awxfield/uitype)
+[`uiType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/uitype.md)
 
-[`validations`](/documentation/airwallex/awxfield/validations)
+[`validations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield/validations.md)

@@ -27,6 +27,6 @@ protocol AWXPage
 
 ## Instance Properties
 
-[`hasMore`](/documentation/airwallex/awxpage/hasmore)
+[`hasMore`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpage/hasmore.md)
 
-[`items`](/documentation/airwallex/awxpage/items)
+[`items`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpage/items.md)

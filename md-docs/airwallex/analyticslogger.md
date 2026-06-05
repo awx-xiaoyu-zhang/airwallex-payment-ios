@@ -27,32 +27,32 @@ class AnalyticsLogger
 
 ## Instance Properties
 
-[`verbose`](/documentation/airwallex/analyticslogger/verbose)
+[`verbose`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/verbose.md)
 
 ## Instance Methods
 
-[`bindExtraCommonData(_:)`](/documentation/airwallex/analyticslogger/bindextracommondata(_:))
+[`bindExtraCommonData(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/bindextracommondata(_-).md)
 
-[`bindSession(_:additionalInfo:)`](/documentation/airwallex/analyticslogger/bindsession(_:additionalinfo:))
+[`bindSession(_:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/bindsession(_-additionalinfo-).md)
 
-[`logAction(withName:)`](/documentation/airwallex/analyticslogger/logaction(withname:))
+[`logAction(withName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logaction(withname-).md)
 
-[`logAction(withName:additionalInfo:)`](/documentation/airwallex/analyticslogger/logaction(withname:additionalinfo:))
+[`logAction(withName:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logaction(withname-additionalinfo-).md)
 
-[`logError(_:withEventName:)`](/documentation/airwallex/analyticslogger/logerror(_:witheventname:))
+[`logError(_:withEventName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logerror(_-witheventname-).md)
 
-[`logError(withName:additionalInfo:)`](/documentation/airwallex/analyticslogger/logerror(withname:additionalinfo:))
+[`logError(withName:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logerror(withname-additionalinfo-).md)
 
-[`logError(withName:url:response:additionalInfo:)`](/documentation/airwallex/analyticslogger/logerror(withname:url:response:additionalinfo:))
+[`logError(withName:url:response:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logerror(withname-url-response-additionalinfo-).md)
 
-[`logPageView(withName:)`](/documentation/airwallex/analyticslogger/logpageview(withname:))
+[`logPageView(withName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logpageview(withname-).md)
 
-[`logPageView(withName:additionalInfo:)`](/documentation/airwallex/analyticslogger/logpageview(withname:additionalinfo:))
+[`logPageView(withName:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logpageview(withname-additionalinfo-).md)
 
-[`logPaymentMethodView(withName:)`](/documentation/airwallex/analyticslogger/logpaymentmethodview(withname:))
+[`logPaymentMethodView(withName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logpaymentmethodview(withname-).md)
 
-[`logPaymentMethodView(withName:additionalInfo:)`](/documentation/airwallex/analyticslogger/logpaymentmethodview(withname:additionalinfo:))
+[`logPaymentMethodView(withName:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/logpaymentmethodview(withname-additionalinfo-).md)
 
 ## Type Methods
 
-[`shared()`](/documentation/airwallex/analyticslogger/shared())
+[`shared()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger/shared().md)

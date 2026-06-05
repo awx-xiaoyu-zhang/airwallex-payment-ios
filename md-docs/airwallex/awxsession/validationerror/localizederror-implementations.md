@@ -13,8 +13,8 @@
 
 ## Instance Properties
 
-[`failureReason`](/documentation/airwallex/awxsession/validationerror/failurereason)
+[`failureReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/failurereason.md)
 
-[`helpAnchor`](/documentation/airwallex/awxsession/validationerror/helpanchor)
+[`helpAnchor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/helpanchor.md)
 
-[`recoverySuggestion`](/documentation/airwallex/awxsession/validationerror/recoverysuggestion)
+[`recoverySuggestion`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/recoverysuggestion.md)

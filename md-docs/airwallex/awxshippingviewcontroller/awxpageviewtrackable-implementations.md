@@ -13,4 +13,4 @@
 
 ## Instance Properties
 
-[`pageName`](/documentation/airwallex/awxshippingviewcontroller/pagename)
+[`pageName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/pagename.md)

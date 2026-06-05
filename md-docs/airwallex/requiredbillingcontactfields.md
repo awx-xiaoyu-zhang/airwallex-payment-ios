@@ -27,24 +27,24 @@ struct RequiredBillingContactFields
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/requiredbillingcontactfields/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/init(rawvalue-).md)
 
 ## Type Properties
 
-[`address`](/documentation/airwallex/requiredbillingcontactfields/address)
+[`address`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/address.md)
 
-[`countryCode`](/documentation/airwallex/requiredbillingcontactfields/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/countrycode.md)
 
-[`email`](/documentation/airwallex/requiredbillingcontactfields/email)
+[`email`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/email.md)
 
-[`name`](/documentation/airwallex/requiredbillingcontactfields/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/name.md)
 
-[`phone`](/documentation/airwallex/requiredbillingcontactfields/phone)
+[`phone`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/phone.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/requiredbillingcontactfields/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/equatable-implementations.md)
 
-[`OptionSet Implementations`](/documentation/airwallex/requiredbillingcontactfields/optionset-implementations)
+[`OptionSet Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/optionset-implementations.md)
 
-[`SetAlgebra Implementations`](/documentation/airwallex/requiredbillingcontactfields/setalgebra-implementations)
+[`SetAlgebra Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/setalgebra-implementations.md)

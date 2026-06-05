@@ -28,8 +28,8 @@ extension NSString
 
 ## Instance Methods
 
-[`convertToDictionary()`](/documentation/airwallex/foundation/nsstring/converttodictionary())
+[`convertToDictionary()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsstring/converttodictionary().md)
 
-[`insertingBetweenWords(with:)`](/documentation/airwallex/foundation/nsstring/insertingbetweenwords(with:))
+[`insertingBetweenWords(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsstring/insertingbetweenwords(with-).md)
 
-[`removingIllegalCharacters()`](/documentation/airwallex/foundation/nsstring/removingillegalcharacters())
+[`removingIllegalCharacters()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsstring/removingillegalcharacters().md)

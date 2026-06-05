@@ -27,18 +27,18 @@ struct AWXPaymentMethodFlow
 
 ## Initializers
 
-[`init(_:)`](/documentation/airwallex/awxpaymentmethodflow/init(_:))
+[`init(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/init(_-).md)
 
-[`init(rawValue:)`](/documentation/airwallex/awxpaymentmethodflow/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/init(rawvalue-).md)
 
 ## Type Properties
 
-[`app`](/documentation/airwallex/awxpaymentmethodflow/app)
+[`app`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/app.md)
 
-[`qrcode`](/documentation/airwallex/awxpaymentmethodflow/qrcode)
+[`qrcode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/qrcode.md)
 
-[`web`](/documentation/airwallex/awxpaymentmethodflow/web)
+[`web`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/web.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxpaymentmethodflow/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow/equatable-implementations.md)

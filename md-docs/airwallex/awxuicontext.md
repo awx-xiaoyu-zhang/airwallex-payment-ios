@@ -45,34 +45,34 @@ context.launchPayment(
 
 ## Classes
 
-[`AWXUIContext.Configuration`](/documentation/airwallex/awxuicontext/configuration)
+[`AWXUIContext.Configuration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration.md)
 
 ## Type Properties
 
-[`shared`](/documentation/airwallex/awxuicontext/shared)
+[`shared`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/shared.md)
 
 ## Type Methods
 
-[`launchCardPayment(from:session:paymentResultDelegate:supportedBrands:launchStyle:)`](/documentation/airwallex/awxuicontext/launchcardpayment(from:session:paymentresultdelegate:supportedbrands:launchstyle:))
+[`launchCardPayment(from:session:paymentResultDelegate:supportedBrands:launchStyle:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchcardpayment(from-session-paymentresultdelegate-supportedbrands-launchstyle-).md)
 
-[`launchCardPayment(from:session:supportedBrands:launchStyle:)`](/documentation/airwallex/awxuicontext/launchcardpayment(from:session:supportedbrands:launchstyle:))
+[`launchCardPayment(from:session:supportedBrands:launchStyle:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchcardpayment(from-session-supportedbrands-launchstyle-).md)
 
-[`launchPayment(from:session:configuration:)`](/documentation/airwallex/awxuicontext/launchpayment(from:session:configuration:))
+[`launchPayment(from:session:configuration:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchpayment(from-session-configuration-).md)
 
-[`launchPayment(from:session:filterBy:launchStyle:layout:)`](/documentation/airwallex/awxuicontext/launchpayment(from:session:filterby:launchstyle:layout:))
+[`launchPayment(from:session:filterBy:launchStyle:layout:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchpayment(from-session-filterby-launchstyle-layout-).md)
 
-[`launchPayment(from:session:paymentResultDelegate:configuration:)`](/documentation/airwallex/awxuicontext/launchpayment(from:session:paymentresultdelegate:configuration:))
+[`launchPayment(from:session:paymentResultDelegate:configuration:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchpayment(from-session-paymentresultdelegate-configuration-).md)
 
-[`launchPayment(from:session:paymentResultDelegate:filterBy:launchStyle:layout:)`](/documentation/airwallex/awxuicontext/launchpayment(from:session:paymentresultdelegate:filterby:launchstyle:layout:))
+[`launchPayment(from:session:paymentResultDelegate:filterBy:launchStyle:layout:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchpayment(from-session-paymentresultdelegate-filterby-launchstyle-layout-).md)
 
-[`launchPayment(name:from:session:paymentResultDelegate:supportedBrands:launchStyle:)`](/documentation/airwallex/awxuicontext/launchpayment(name:from:session:paymentresultdelegate:supportedbrands:launchstyle:))
+[`launchPayment(name:from:session:paymentResultDelegate:supportedBrands:launchStyle:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchpayment(name-from-session-paymentresultdelegate-supportedbrands-launchstyle-).md)
 
 ## Enumerations
 
-[`AWXUIContext.ElementType`](/documentation/airwallex/awxuicontext/elementtype)
+[`AWXUIContext.ElementType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype.md)
 
-[`AWXUIContext.LaunchError`](/documentation/airwallex/awxuicontext/launcherror)
+[`AWXUIContext.LaunchError`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror.md)
 
-[`AWXUIContext.LaunchStyle`](/documentation/airwallex/awxuicontext/launchstyle)
+[`AWXUIContext.LaunchStyle`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle.md)
 
-[`AWXUIContext.PaymentLayout`](/documentation/airwallex/awxuicontext/paymentlayout)
+[`AWXUIContext.PaymentLayout`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout.md)

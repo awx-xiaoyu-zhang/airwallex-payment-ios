@@ -62,32 +62,32 @@ This class handles:
 
 ## Initializers
 
-[`init(session:viewController:methodType:)`](/documentation/airwallex/paymentsessionhandler/init(session:viewcontroller:methodtype:))
+[`init(session:viewController:methodType:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/init(session-viewcontroller-methodtype-).md)
 
-[`init(session:viewController:paymentResultDelegate:methodType:)`](/documentation/airwallex/paymentsessionhandler/init(session:viewcontroller:paymentresultdelegate:methodtype:))
+[`init(session:viewController:paymentResultDelegate:methodType:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/init(session-viewcontroller-paymentresultdelegate-methodtype-).md)
 
 ## Instance Properties
 
-[`showIndicator`](/documentation/airwallex/paymentsessionhandler/showindicator)
+[`showIndicator`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/showindicator.md)
 
 ## Instance Methods
 
-[`startApplePay()`](/documentation/airwallex/paymentsessionhandler/startapplepay())
+[`startApplePay()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startapplepay().md)
 
-[`startCardPayment(with:billing:saveCard:)`](/documentation/airwallex/paymentsessionhandler/startcardpayment(with:billing:savecard:))
+[`startCardPayment(with:billing:saveCard:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startcardpayment(with-billing-savecard-).md)
 
-[`startConsentPayment(with:)`](/documentation/airwallex/paymentsessionhandler/startconsentpayment(with:))
+[`startConsentPayment(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startconsentpayment(with-).md)
 
-[`startConsentPayment(withId:)`](/documentation/airwallex/paymentsessionhandler/startconsentpayment(withid:))
+[`startConsentPayment(withId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startconsentpayment(withid-).md)
 
-[`startConsentPayment(withId:requiresCVC:)`](/documentation/airwallex/paymentsessionhandler/startconsentpayment(withid:requirescvc:))
+[`startConsentPayment(withId:requiresCVC:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startconsentpayment(withid-requirescvc-).md)
 
-[`startRedirectPayment(with:additionalInfo:)`](/documentation/airwallex/paymentsessionhandler/startredirectpayment(with:additionalinfo:))
+[`startRedirectPayment(with:additionalInfo:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/startredirectpayment(with-additionalinfo-).md)
 
 ## Type Methods
 
-[`canHandle(methodType:session:)`](/documentation/airwallex/paymentsessionhandler/canhandle(methodtype:session:))
+[`canHandle(methodType:session:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/canhandle(methodtype-session-).md)
 
 ## Default Implementations
 
-[`AWXProviderDelegate Implementations`](/documentation/airwallex/paymentsessionhandler/awxproviderdelegate-implementations)
+[`AWXProviderDelegate Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/awxproviderdelegate-implementations.md)

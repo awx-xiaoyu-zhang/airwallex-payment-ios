@@ -29,24 +29,24 @@ class AWXPaymentIntent
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/awxpaymentintent/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/amount.md)
 
-[`availablePaymentMethodTypes`](/documentation/airwallex/awxpaymentintent/availablepaymentmethodtypes)
+[`availablePaymentMethodTypes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/availablepaymentmethodtypes.md)
 
-[`clientSecret`](/documentation/airwallex/awxpaymentintent/clientsecret)
+[`clientSecret`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/clientsecret.md)
 
-[`currency`](/documentation/airwallex/awxpaymentintent/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/currency.md)
 
-[`customerId`](/documentation/airwallex/awxpaymentintent/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/customerid.md)
 
-[`id`](/documentation/airwallex/awxpaymentintent/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/id.md)
 
-[`paymentConsents`](/documentation/airwallex/awxpaymentintent/paymentconsents)
+[`paymentConsents`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/paymentconsents.md)
 
-[`paymentMethods`](/documentation/airwallex/awxpaymentintent/paymentmethods)
+[`paymentMethods`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/paymentmethods.md)
 
-[`status`](/documentation/airwallex/awxpaymentintent/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/status.md)
 
 ## Instance Methods
 
-[`paymentSummaryItem(withTotalPriceLabel:)`](/documentation/airwallex/awxpaymentintent/paymentsummaryitem(withtotalpricelabel:))
+[`paymentSummaryItem(withTotalPriceLabel:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent/paymentsummaryitem(withtotalpricelabel-).md)

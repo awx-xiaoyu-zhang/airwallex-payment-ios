@@ -79,12 +79,12 @@ let session = Session(
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/paymentintentprovider/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentintentprovider/amount.md)
 
-[`currency`](/documentation/airwallex/paymentintentprovider/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentintentprovider/currency.md)
 
-[`customerId`](/documentation/airwallex/paymentintentprovider/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentintentprovider/customerid.md)
 
 ## Instance Methods
 
-[`createPaymentIntent()`](/documentation/airwallex/paymentintentprovider/createpaymentintent())
+[`createPaymentIntent()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentintentprovider/createpaymentintent().md)

@@ -29,12 +29,12 @@ class AWXGetPaymentMethodTypeResponse
 
 ## Instance Properties
 
-[`displayName`](/documentation/airwallex/awxgetpaymentmethodtyperesponse/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse/displayname.md)
 
-[`hasSchema`](/documentation/airwallex/awxgetpaymentmethodtyperesponse/hasschema)
+[`hasSchema`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse/hasschema.md)
 
-[`logoURL`](/documentation/airwallex/awxgetpaymentmethodtyperesponse/logourl)
+[`logoURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse/logourl.md)
 
-[`name`](/documentation/airwallex/awxgetpaymentmethodtyperesponse/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse/name.md)
 
-[`schemas`](/documentation/airwallex/awxgetpaymentmethodtyperesponse/schemas)
+[`schemas`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse/schemas.md)

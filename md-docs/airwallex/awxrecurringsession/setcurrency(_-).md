@@ -21,10 +21,6 @@
 
 # setCurrency(_:)
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.Session instead
-
 ```
 func setCurrency(_ currency: String)
 ```

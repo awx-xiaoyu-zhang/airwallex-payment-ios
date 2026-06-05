@@ -21,10 +21,6 @@
 
 # setAmount(_:)
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.Session instead
-
 ```
 func setAmount(_ amount: NSDecimalNumber)
 ```

@@ -29,18 +29,18 @@ Options for payment consents
 
 ## Initializers
 
-[`init(nextTriggeredBy:merchantTriggerReason:termsOfUse:)`](/documentation/airwallex/paymentconsentoptions/init(nexttriggeredby:merchanttriggerreason:termsofuse:))
+[`init(nextTriggeredBy:merchantTriggerReason:termsOfUse:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/init(nexttriggeredby-merchanttriggerreason-termsofuse-).md)
 
 ## Instance Properties
 
-[`merchantTriggerReason`](/documentation/airwallex/paymentconsentoptions/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/merchanttriggerreason.md)
 
-[`nextTriggeredBy`](/documentation/airwallex/paymentconsentoptions/nexttriggeredby)
+[`nextTriggeredBy`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/nexttriggeredby.md)
 
-[`termsOfUse`](/documentation/airwallex/paymentconsentoptions/termsofuse)
+[`termsOfUse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/termsofuse.md)
 
 ## Default Implementations
 
-[`AWXJSONEncodable Implementations`](/documentation/airwallex/paymentconsentoptions/awxjsonencodable-implementations)
+[`AWXJSONEncodable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/awxjsonencodable-implementations.md)
 
-[`Encodable Implementations`](/documentation/airwallex/paymentconsentoptions/encodable-implementations)
+[`Encodable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions/encodable-implementations.md)

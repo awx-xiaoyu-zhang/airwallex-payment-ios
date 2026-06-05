@@ -28,8 +28,8 @@ extension NSDecimalNumber
 
 ## Instance Methods
 
-[`currencySymbol(_:)`](/documentation/airwallex/foundation/nsdecimalnumber/currencysymbol(_:))
+[`currencySymbol(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdecimalnumber/currencysymbol(_-).md)
 
-[`string()`](/documentation/airwallex/foundation/nsdecimalnumber/string())
+[`string()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdecimalnumber/string().md)
 
-[`string(withCurrencyCode:)`](/documentation/airwallex/foundation/nsdecimalnumber/string(withcurrencycode:))
+[`string(withCurrencyCode:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdecimalnumber/string(withcurrencycode-).md)

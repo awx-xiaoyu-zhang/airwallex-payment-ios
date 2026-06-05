@@ -29,52 +29,52 @@ class AWXSession
 
 ## Instance Properties
 
-[`applePayOptions`](/documentation/airwallex/awxsession/applepayoptions)
+[`applePayOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/applepayoptions.md)
 
-[`billing`](/documentation/airwallex/awxsession/billing)
+[`billing`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/billing.md)
 
-[`countryCode`](/documentation/airwallex/awxsession/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/countrycode.md)
 
-[`hidePaymentConsents`](/documentation/airwallex/awxsession/hidepaymentconsents)
+[`hidePaymentConsents`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/hidepaymentconsents.md)
 
-[`isExpressCheckout`](/documentation/airwallex/awxsession/isexpresscheckout)
+[`isExpressCheckout`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/isexpresscheckout.md)
 
-[`lang`](/documentation/airwallex/awxsession/lang)
+[`lang`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/lang.md)
 
-[`paymentMethods`](/documentation/airwallex/awxsession/paymentmethods)
+[`paymentMethods`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/paymentmethods.md)
 
-[`requiredBillingContactFields`](/documentation/airwallex/awxsession/requiredbillingcontactfields)
+[`requiredBillingContactFields`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/requiredbillingcontactfields.md)
 
-[`returnURL`](/documentation/airwallex/awxsession/returnurl)
+[`returnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/returnurl.md)
 
-[`shouldShowPayAsCta`](/documentation/airwallex/awxsession/shouldshowpayascta)
+[`shouldShowPayAsCta`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/shouldshowpayascta.md)
 
 ## Instance Methods
 
-[`amount()`](/documentation/airwallex/awxsession/amount())
+[`amount()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/amount().md)
 
-[`currency()`](/documentation/airwallex/awxsession/currency())
+[`currency()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/currency().md)
 
-[`customerId()`](/documentation/airwallex/awxsession/customerid())
+[`customerId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/customerid().md)
 
-[`customerPaymentConsents()`](/documentation/airwallex/awxsession/customerpaymentconsents())
+[`customerPaymentConsents()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/customerpaymentconsents().md)
 
-[`customerPaymentMethods()`](/documentation/airwallex/awxsession/customerpaymentmethods())
+[`customerPaymentMethods()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/customerpaymentmethods().md)
 
-[`makePaymentRequestOrError()`](/documentation/airwallex/awxsession/makepaymentrequestorerror())
+[`makePaymentRequestOrError()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/makepaymentrequestorerror().md)
 
-[`paymentIntentId()`](/documentation/airwallex/awxsession/paymentintentid())
+[`paymentIntentId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/paymentintentid().md)
 
-[`requiresCVC()`](/documentation/airwallex/awxsession/requirescvc())
+[`requiresCVC()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/requirescvc().md)
 
-[`transactionMode()`](/documentation/airwallex/awxsession/transactionmode())
+[`transactionMode()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/transactionmode().md)
 
-[`updateInitialPaymentIntentId(_:)`](/documentation/airwallex/awxsession/updateinitialpaymentintentid(_:))
+[`updateInitialPaymentIntentId(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/updateinitialpaymentintentid(_-).md)
 
-[`validate()`](/documentation/airwallex/awxsession/validate())
+[`validate()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validate().md)
 
-[`validateData()`](/documentation/airwallex/awxsession/validatedata())
+[`validateData()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validatedata().md)
 
 ## Enumerations
 
-[`AWXSession.ValidationError`](/documentation/airwallex/awxsession/validationerror)
+[`AWXSession.ValidationError`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror.md)

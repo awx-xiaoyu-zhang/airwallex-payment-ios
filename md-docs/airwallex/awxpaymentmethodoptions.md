@@ -29,4 +29,4 @@ class AWXPaymentMethodOptions
 
 ## Instance Properties
 
-[`cardOptions`](/documentation/airwallex/awxpaymentmethodoptions/cardoptions)
+[`cardOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodoptions/cardoptions.md)

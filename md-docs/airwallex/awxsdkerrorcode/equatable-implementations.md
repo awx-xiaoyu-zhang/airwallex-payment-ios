@@ -13,4 +13,4 @@
 
 ## Operators
 
-[`!=(_:_:)`](/documentation/airwallex/awxsdkerrorcode/!=(_:_:))
+[`!=(_:_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode/%21%3D(_-_-).md)

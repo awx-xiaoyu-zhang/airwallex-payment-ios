@@ -29,8 +29,8 @@ class AWXSchema
 
 ## Instance Properties
 
-[`fields`](/documentation/airwallex/awxschema/fields)
+[`fields`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxschema/fields.md)
 
-[`flow`](/documentation/airwallex/awxschema/flow)
+[`flow`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxschema/flow.md)
 
-[`transactionMode`](/documentation/airwallex/awxschema/transactionmode)
+[`transactionMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxschema/transactionmode.md)

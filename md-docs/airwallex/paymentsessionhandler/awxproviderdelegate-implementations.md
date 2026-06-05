@@ -13,20 +13,20 @@
 
 ## Instance Methods
 
-[`hostViewController()`](/documentation/airwallex/paymentsessionhandler/hostviewcontroller())
+[`hostViewController()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/hostviewcontroller().md)
 
-[`provider(_:didCompleteWith:error:)`](/documentation/airwallex/paymentsessionhandler/provider(_:didcompletewith:error:))
+[`provider(_:didCompleteWith:error:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-didcompletewith-error-).md)
 
-[`provider(_:didCompleteWithPaymentConsentId:)`](/documentation/airwallex/paymentsessionhandler/provider(_:didcompletewithpaymentconsentid:))
+[`provider(_:didCompleteWithPaymentConsentId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-didcompletewithpaymentconsentid-).md)
 
-[`provider(_:didInitializePaymentIntentId:)`](/documentation/airwallex/paymentsessionhandler/provider(_:didinitializepaymentintentid:))
+[`provider(_:didInitializePaymentIntentId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-didinitializepaymentintentid-).md)
 
-[`provider(_:shouldHandle:)`](/documentation/airwallex/paymentsessionhandler/provider(_:shouldhandle:))
+[`provider(_:shouldHandle:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-shouldhandle-).md)
 
-[`provider(_:shouldInsert:)`](/documentation/airwallex/paymentsessionhandler/provider(_:shouldinsert:))
+[`provider(_:shouldInsert:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-shouldinsert-).md)
 
-[`provider(_:shouldPresent:forceToDismiss:withAnimation:)`](/documentation/airwallex/paymentsessionhandler/provider(_:shouldpresent:forcetodismiss:withanimation:))
+[`provider(_:shouldPresent:forceToDismiss:withAnimation:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/provider(_-shouldpresent-forcetodismiss-withanimation-).md)
 
-[`providerDidEndRequest(_:)`](/documentation/airwallex/paymentsessionhandler/providerdidendrequest(_:))
+[`providerDidEndRequest(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/providerdidendrequest(_-).md)
 
-[`providerDidStartRequest(_:)`](/documentation/airwallex/paymentsessionhandler/providerdidstartrequest(_:))
+[`providerDidStartRequest(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler/providerdidstartrequest(_-).md)

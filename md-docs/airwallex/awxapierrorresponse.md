@@ -29,12 +29,12 @@ class AWXAPIErrorResponse
 
 ## Initializers
 
-[`init(message:code:)`](/documentation/airwallex/awxapierrorresponse/init(message:code:))
+[`init(message:code:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapierrorresponse/init(message-code-).md)
 
 ## Instance Properties
 
-[`code`](/documentation/airwallex/awxapierrorresponse/code)
+[`code`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapierrorresponse/code.md)
 
-[`error`](/documentation/airwallex/awxapierrorresponse/error)
+[`error`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapierrorresponse/error.md)
 
-[`message`](/documentation/airwallex/awxapierrorresponse/message)
+[`message`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapierrorresponse/message.md)

@@ -28,4 +28,4 @@ extension PKPaymentMethod
 
 ## Instance Methods
 
-[`typeNameForRequest()`](/documentation/airwallex/passkit/pkpaymentmethod/typenameforrequest())
+[`typeNameForRequest()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkpaymentmethod/typenameforrequest().md)

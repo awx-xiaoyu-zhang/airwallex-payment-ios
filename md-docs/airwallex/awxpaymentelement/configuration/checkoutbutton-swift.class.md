@@ -29,4 +29,4 @@ Configuration for the checkout button title.
 
 ## Instance Properties
 
-[`title`](/documentation/airwallex/awxpaymentelement/configuration/checkoutbutton-swift.class/title)
+[`title`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/configuration/checkoutbutton-swift.class/title.md)

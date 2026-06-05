@@ -28,6 +28,6 @@ extension NSURL
 
 ## Instance Methods
 
-[`queryItems()`](/documentation/airwallex/foundation/nsurl/queryitems())
+[`queryItems()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsurl/queryitems().md)
 
-[`queryValue(forName:)`](/documentation/airwallex/foundation/nsurl/queryvalue(forname:))
+[`queryValue(forName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsurl/queryvalue(forname-).md)

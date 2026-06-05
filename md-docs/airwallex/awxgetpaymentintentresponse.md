@@ -29,28 +29,28 @@ class AWXGetPaymentIntentResponse
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/awxgetpaymentintentresponse/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/amount.md)
 
-[`availablePaymentMethodTypes`](/documentation/airwallex/awxgetpaymentintentresponse/availablepaymentmethodtypes)
+[`availablePaymentMethodTypes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/availablepaymentmethodtypes.md)
 
-[`capturedAmount`](/documentation/airwallex/awxgetpaymentintentresponse/capturedamount)
+[`capturedAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/capturedamount.md)
 
-[`clientSecret`](/documentation/airwallex/awxgetpaymentintentresponse/clientsecret)
+[`clientSecret`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/clientsecret.md)
 
-[`createdAt`](/documentation/airwallex/awxgetpaymentintentresponse/createdat)
+[`createdAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/createdat.md)
 
-[`currency`](/documentation/airwallex/awxgetpaymentintentresponse/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/currency.md)
 
-[`customerId`](/documentation/airwallex/awxgetpaymentintentresponse/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/customerid.md)
 
-[`id`](/documentation/airwallex/awxgetpaymentintentresponse/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/id.md)
 
-[`merchantOrderId`](/documentation/airwallex/awxgetpaymentintentresponse/merchantorderid)
+[`merchantOrderId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/merchantorderid.md)
 
-[`order`](/documentation/airwallex/awxgetpaymentintentresponse/order)
+[`order`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/order.md)
 
-[`requestId`](/documentation/airwallex/awxgetpaymentintentresponse/requestid)
+[`requestId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/requestid.md)
 
-[`status`](/documentation/airwallex/awxgetpaymentintentresponse/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/status.md)
 
-[`updatedAt`](/documentation/airwallex/awxgetpaymentintentresponse/updatedat)
+[`updatedAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse/updatedat.md)

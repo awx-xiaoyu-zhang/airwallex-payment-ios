@@ -29,16 +29,16 @@ class AWXWeChatPaySDKResponse
 
 ## Instance Properties
 
-[`appId`](/documentation/airwallex/awxwechatpaysdkresponse/appid)
+[`appId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/appid.md)
 
-[`nonceStr`](/documentation/airwallex/awxwechatpaysdkresponse/noncestr)
+[`nonceStr`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/noncestr.md)
 
-[`package`](/documentation/airwallex/awxwechatpaysdkresponse/package)
+[`package`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/package.md)
 
-[`partnerId`](/documentation/airwallex/awxwechatpaysdkresponse/partnerid)
+[`partnerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/partnerid.md)
 
-[`prepayId`](/documentation/airwallex/awxwechatpaysdkresponse/prepayid)
+[`prepayId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/prepayid.md)
 
-[`sign`](/documentation/airwallex/awxwechatpaysdkresponse/sign)
+[`sign`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/sign.md)
 
-[`timeStamp`](/documentation/airwallex/awxwechatpaysdkresponse/timestamp)
+[`timeStamp`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse/timestamp.md)

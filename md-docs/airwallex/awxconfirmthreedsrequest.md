@@ -29,16 +29,16 @@ class AWXConfirmThreeDSRequest
 
 ## Instance Properties
 
-[`acsResponse`](/documentation/airwallex/awxconfirmthreedsrequest/acsresponse)
+[`acsResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/acsresponse.md)
 
-[`device`](/documentation/airwallex/awxconfirmthreedsrequest/device)
+[`device`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/device.md)
 
-[`deviceDataCollectionRes`](/documentation/airwallex/awxconfirmthreedsrequest/devicedatacollectionres)
+[`deviceDataCollectionRes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/devicedatacollectionres.md)
 
-[`dsTransactionId`](/documentation/airwallex/awxconfirmthreedsrequest/dstransactionid)
+[`dsTransactionId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/dstransactionid.md)
 
-[`intentId`](/documentation/airwallex/awxconfirmthreedsrequest/intentid)
+[`intentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/intentid.md)
 
-[`returnURL`](/documentation/airwallex/awxconfirmthreedsrequest/returnurl)
+[`returnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/returnurl.md)
 
-[`type`](/documentation/airwallex/awxconfirmthreedsrequest/type)
+[`type`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest/type.md)

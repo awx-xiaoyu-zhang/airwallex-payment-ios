@@ -29,6 +29,6 @@
 
 ## Instance Properties
 
-[`cvcCallback`](/documentation/airwallex/awxcardcvcviewcontroller/cvccallback)
+[`cvcCallback`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardcvcviewcontroller/cvccallback.md)
 
-[`paymentConsent`](/documentation/airwallex/awxcardcvcviewcontroller/paymentconsent)
+[`paymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardcvcviewcontroller/paymentconsent.md)

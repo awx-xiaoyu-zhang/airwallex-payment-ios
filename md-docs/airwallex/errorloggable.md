@@ -27,6 +27,6 @@ protocol ErrorLoggable : CustomNSError, LocalizedError
 
 ## Instance Properties
 
-[`eventName`](/documentation/airwallex/errorloggable/eventname)
+[`eventName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/errorloggable/eventname.md)
 
-[`eventType`](/documentation/airwallex/errorloggable/eventtype)
+[`eventType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/errorloggable/eventtype.md)

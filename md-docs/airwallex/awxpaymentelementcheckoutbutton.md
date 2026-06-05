@@ -25,8 +25,8 @@ Configuration for the checkout button title.
 
 ## Instance Properties
 
-[`title`](/documentation/airwallex/awxpaymentelementcheckoutbutton/title)
+[`title`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementcheckoutbutton/title.md)
 
 ## Instance Methods
 
-[`init`](/documentation/airwallex/awxpaymentelementcheckoutbutton/init)
+[`init`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementcheckoutbutton/init.md)

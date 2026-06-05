@@ -29,4 +29,4 @@ class AWXDisablePaymentConsentRequest
 
 ## Instance Properties
 
-[`id`](/documentation/airwallex/awxdisablepaymentconsentrequest/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdisablepaymentconsentrequest/id.md)

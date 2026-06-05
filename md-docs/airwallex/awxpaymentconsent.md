@@ -29,24 +29,24 @@ class AWXPaymentConsent
 
 ## Instance Properties
 
-[`clientSecret`](/documentation/airwallex/awxpaymentconsent/clientsecret)
+[`clientSecret`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/clientsecret.md)
 
-[`createdAt`](/documentation/airwallex/awxpaymentconsent/createdat)
+[`createdAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/createdat.md)
 
-[`customerId`](/documentation/airwallex/awxpaymentconsent/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/customerid.md)
 
-[`id`](/documentation/airwallex/awxpaymentconsent/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/id.md)
 
-[`merchantTriggerReason`](/documentation/airwallex/awxpaymentconsent/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/merchanttriggerreason.md)
 
-[`nextTriggeredBy`](/documentation/airwallex/awxpaymentconsent/nexttriggeredby)
+[`nextTriggeredBy`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/nexttriggeredby.md)
 
-[`paymentMethod`](/documentation/airwallex/awxpaymentconsent/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/paymentmethod.md)
 
-[`requestId`](/documentation/airwallex/awxpaymentconsent/requestid)
+[`requestId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/requestid.md)
 
-[`requiresCVC`](/documentation/airwallex/awxpaymentconsent/requirescvc)
+[`requiresCVC`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/requirescvc.md)
 
-[`status`](/documentation/airwallex/awxpaymentconsent/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/status.md)
 
-[`updatedAt`](/documentation/airwallex/awxpaymentconsent/updatedat)
+[`updatedAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent/updatedat.md)

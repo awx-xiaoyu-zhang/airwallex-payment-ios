@@ -29,20 +29,20 @@ class AWXConfirmPaymentIntentRequest
 
 ## Instance Properties
 
-[`consentOptions`](/documentation/airwallex/awxconfirmpaymentintentrequest/consentoptions)
+[`consentOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/consentoptions.md)
 
-[`customerId`](/documentation/airwallex/awxconfirmpaymentintentrequest/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/customerid.md)
 
-[`device`](/documentation/airwallex/awxconfirmpaymentintentrequest/device)
+[`device`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/device.md)
 
-[`intentId`](/documentation/airwallex/awxconfirmpaymentintentrequest/intentid)
+[`intentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/intentid.md)
 
-[`options`](/documentation/airwallex/awxconfirmpaymentintentrequest/options)
+[`options`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/options.md)
 
-[`paymentConsent`](/documentation/airwallex/awxconfirmpaymentintentrequest/paymentconsent)
+[`paymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/paymentconsent.md)
 
-[`paymentMethod`](/documentation/airwallex/awxconfirmpaymentintentrequest/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/paymentmethod.md)
 
-[`returnURL`](/documentation/airwallex/awxconfirmpaymentintentrequest/returnurl)
+[`returnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/returnurl.md)
 
-[`savePaymentMethod`](/documentation/airwallex/awxconfirmpaymentintentrequest/savepaymentmethod)
+[`savePaymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest/savepaymentmethod.md)

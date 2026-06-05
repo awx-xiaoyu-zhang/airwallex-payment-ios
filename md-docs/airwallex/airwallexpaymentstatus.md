@@ -27,22 +27,22 @@
 
 ## Enumeration Cases
 
-[`AirwallexPaymentStatus.cancel`](/documentation/airwallex/airwallexpaymentstatus/cancel)
+[`AirwallexPaymentStatus.cancel`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/cancel.md)
 
-[`AirwallexPaymentStatus.failure`](/documentation/airwallex/airwallexpaymentstatus/failure)
+[`AirwallexPaymentStatus.failure`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/failure.md)
 
-[`AirwallexPaymentStatus.inProgress`](/documentation/airwallex/airwallexpaymentstatus/inprogress)
+[`AirwallexPaymentStatus.inProgress`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/inprogress.md)
 
-[`AirwallexPaymentStatus.success`](/documentation/airwallex/airwallexpaymentstatus/success)
+[`AirwallexPaymentStatus.success`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/success.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/airwallexpaymentstatus/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`CustomStringConvertible Implementations`](/documentation/airwallex/airwallexpaymentstatus/customstringconvertible-implementations)
+[`CustomStringConvertible Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/customstringconvertible-implementations.md)
 
-[`Equatable Implementations`](/documentation/airwallex/airwallexpaymentstatus/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/airwallexpaymentstatus/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/rawrepresentable-implementations.md)

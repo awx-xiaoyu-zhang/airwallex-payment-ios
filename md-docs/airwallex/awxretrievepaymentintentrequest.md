@@ -29,4 +29,4 @@ class AWXRetrievePaymentIntentRequest
 
 ## Instance Properties
 
-[`intentId`](/documentation/airwallex/awxretrievepaymentintentrequest/intentid)
+[`intentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxretrievepaymentintentrequest/intentid.md)

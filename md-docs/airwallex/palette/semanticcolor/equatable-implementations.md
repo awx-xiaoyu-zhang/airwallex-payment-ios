@@ -13,4 +13,4 @@
 
 ## Operators
 
-[`!=(_:_:)`](/documentation/airwallex/palette/semanticcolor/!=(_:_:))
+[`!=(_:_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/%21%3D(_-_-).md)

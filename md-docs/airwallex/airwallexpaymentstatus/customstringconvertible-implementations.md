@@ -13,4 +13,4 @@
 
 ## Instance Properties
 
-[`description`](/documentation/airwallex/airwallexpaymentstatus/description)
+[`description`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus/description.md)

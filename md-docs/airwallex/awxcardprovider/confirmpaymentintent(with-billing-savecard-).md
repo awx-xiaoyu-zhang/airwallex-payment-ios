@@ -23,10 +23,6 @@
 
 Confirm the payment intent with card and billing.
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.CardProvider instead
-
 ```
 func confirmPaymentIntent(with card: AWXCard, billing: AWXPlaceDetails?, saveCard: Bool)
 ```

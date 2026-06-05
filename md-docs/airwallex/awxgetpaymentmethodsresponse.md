@@ -29,6 +29,6 @@ class AWXGetPaymentMethodsResponse
 
 ## Instance Properties
 
-[`hasMore`](/documentation/airwallex/awxgetpaymentmethodsresponse/hasmore)
+[`hasMore`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsresponse/hasmore.md)
 
-[`items`](/documentation/airwallex/awxgetpaymentmethodsresponse/items)
+[`items`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsresponse/items.md)

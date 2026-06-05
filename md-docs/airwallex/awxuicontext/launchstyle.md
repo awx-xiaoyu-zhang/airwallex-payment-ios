@@ -27,16 +27,16 @@
 
 ## Enumeration Cases
 
-[`AWXUIContext.LaunchStyle.present`](/documentation/airwallex/awxuicontext/launchstyle/present)
+[`AWXUIContext.LaunchStyle.present`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle/present.md)
 
-[`AWXUIContext.LaunchStyle.push`](/documentation/airwallex/awxuicontext/launchstyle/push)
+[`AWXUIContext.LaunchStyle.push`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle/push.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxuicontext/launchstyle/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxuicontext/launchstyle/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxuicontext/launchstyle/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launchstyle/rawrepresentable-implementations.md)

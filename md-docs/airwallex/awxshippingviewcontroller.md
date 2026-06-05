@@ -27,24 +27,24 @@
 
 ## Initializers
 
-[`init(shipping:delegate:)`](/documentation/airwallex/awxshippingviewcontroller/init(shipping:delegate:))
+[`init(shipping:delegate:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/init(shipping-delegate-).md)
 
 ## Instance Properties
 
-[`delegate`](/documentation/airwallex/awxshippingviewcontroller/delegate)
+[`delegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/delegate.md)
 
-[`shipping`](/documentation/airwallex/awxshippingviewcontroller/shipping)
+[`shipping`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/shipping.md)
 
 ## Instance Methods
 
-[`activeScrollView()`](/documentation/airwallex/awxshippingviewcontroller/activescrollview())
+[`activeScrollView()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/activescrollview().md)
 
-[`viewDidAppear(_:)`](/documentation/airwallex/awxshippingviewcontroller/viewdidappear(_:))
+[`viewDidAppear(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/viewdidappear(_-).md)
 
-[`viewDidLoad()`](/documentation/airwallex/awxshippingviewcontroller/viewdidload())
+[`viewDidLoad()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/viewdidload().md)
 
-[`viewWillDisappear(_:)`](/documentation/airwallex/awxshippingviewcontroller/viewwilldisappear(_:))
+[`viewWillDisappear(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/viewwilldisappear(_-).md)
 
 ## Default Implementations
 
-[`AWXPageViewTrackable Implementations`](/documentation/airwallex/awxshippingviewcontroller/awxpageviewtrackable-implementations)
+[`AWXPageViewTrackable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller/awxpageviewtrackable-implementations.md)

@@ -29,6 +29,6 @@ class AWXCandidate
 
 ## Instance Properties
 
-[`displayName`](/documentation/airwallex/awxcandidate/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcandidate/displayname.md)
 
-[`value`](/documentation/airwallex/awxcandidate/value)
+[`value`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcandidate/value.md)

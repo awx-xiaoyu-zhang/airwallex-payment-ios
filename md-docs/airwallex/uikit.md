@@ -23,14 +23,14 @@
 
 ## Extended Classes
 
-[`UIButton`](/documentation/airwallex/uikit/uibutton)
+[`UIButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uibutton.md)
 
-[`UIColor`](/documentation/airwallex/uikit/uicolor)
+[`UIColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uicolor.md)
 
-[`UIFont`](/documentation/airwallex/uikit/uifont)
+[`UIFont`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont.md)
 
-[`UIImage`](/documentation/airwallex/uikit/uiimage)
+[`UIImage`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimage.md)
 
-[`UIImageView`](/documentation/airwallex/uikit/uiimageview)
+[`UIImageView`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiimageview.md)
 
-[`UIView`](/documentation/airwallex/uikit/uiview)
+[`UIView`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uiview.md)

@@ -26,22 +26,22 @@ Use this class to customize the payment flow launched by <code>AWXUIContext</cod
 
 ## Instance Properties
 
-[`appearance`](/documentation/airwallex/awxuicontextconfiguration/appearance)
+[`appearance`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/appearance.md)
 
-[`applePayButton`](/documentation/airwallex/awxuicontextconfiguration/applepaybutton)
+[`applePayButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/applepaybutton.md)
 
-[`checkoutButton`](/documentation/airwallex/awxuicontextconfiguration/checkoutbutton)
+[`checkoutButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/checkoutbutton.md)
 
-[`elementType`](/documentation/airwallex/awxuicontextconfiguration/elementtype)
+[`elementType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/elementtype.md)
 
-[`launchStyle`](/documentation/airwallex/awxuicontextconfiguration/launchstyle)
+[`launchStyle`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/launchstyle.md)
 
-[`layout`](/documentation/airwallex/awxuicontextconfiguration/layout)
+[`layout`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/layout.md)
 
-[`paymentMethodName`](/documentation/airwallex/awxuicontextconfiguration/paymentmethodname)
+[`paymentMethodName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/paymentmethodname.md)
 
-[`supportedCardBrands`](/documentation/airwallex/awxuicontextconfiguration/supportedcardbrands)
+[`supportedCardBrands`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/supportedcardbrands.md)
 
 ## Instance Methods
 
-[`init`](/documentation/airwallex/awxuicontextconfiguration/init)
+[`init`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextconfiguration/init.md)

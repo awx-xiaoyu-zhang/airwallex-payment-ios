@@ -29,6 +29,6 @@ class AWXGetAvailableBanksResponse
 
 ## Instance Properties
 
-[`hasMore`](/documentation/airwallex/awxgetavailablebanksresponse/hasmore)
+[`hasMore`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksresponse/hasmore.md)
 
-[`items`](/documentation/airwallex/awxgetavailablebanksresponse/items)
+[`items`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksresponse/items.md)

@@ -27,12 +27,12 @@ class ImageLoader
 
 ## Initializers
 
-[`init(session:)`](/documentation/airwallex/imageloader/init(session:))
+[`init(session:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/imageloader/init(session-).md)
 
 ## Instance Methods
 
-[`cachedImage(_:)`](/documentation/airwallex/imageloader/cachedimage(_:))
+[`cachedImage(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/imageloader/cachedimage(_-).md)
 
-[`loadImage(_:for:)`](/documentation/airwallex/imageloader/loadimage(_:for:))
+[`loadImage(_:for:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/imageloader/loadimage(_-for-).md)
 
-[`updateCache(_:imageURL:)`](/documentation/airwallex/imageloader/updatecache(_:imageurl:))
+[`updateCache(_:imageURL:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/imageloader/updatecache(_-imageurl-).md)

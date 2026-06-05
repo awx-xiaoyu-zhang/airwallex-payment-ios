@@ -29,4 +29,4 @@ class AWXRetrievePaymentConsentRequest
 
 ## Instance Properties
 
-[`consentId`](/documentation/airwallex/awxretrievepaymentconsentrequest/consentid)
+[`consentId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxretrievepaymentconsentrequest/consentid.md)

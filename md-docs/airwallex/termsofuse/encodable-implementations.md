@@ -13,4 +13,4 @@
 
 ## Instance Methods
 
-[`encode(to:)`](/documentation/airwallex/termsofuse/encode(to:))
+[`encode(to:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/encode(to-).md)

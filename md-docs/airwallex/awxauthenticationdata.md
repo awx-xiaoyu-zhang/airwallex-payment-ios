@@ -29,12 +29,12 @@ class AWXAuthenticationData
 
 ## Instance Properties
 
-[`action`](/documentation/airwallex/awxauthenticationdata/action)
+[`action`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxauthenticationdata/action.md)
 
-[`score`](/documentation/airwallex/awxauthenticationdata/score)
+[`score`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxauthenticationdata/score.md)
 
-[`version`](/documentation/airwallex/awxauthenticationdata/version)
+[`version`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxauthenticationdata/version.md)
 
 ## Instance Methods
 
-[`isThreeDSVersion2()`](/documentation/airwallex/awxauthenticationdata/isthreedsversion2())
+[`isThreeDSVersion2()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxauthenticationdata/isthreedsversion2().md)

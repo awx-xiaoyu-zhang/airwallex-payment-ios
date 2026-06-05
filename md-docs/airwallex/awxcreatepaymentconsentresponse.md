@@ -29,4 +29,4 @@ class AWXCreatePaymentConsentResponse
 
 ## Instance Properties
 
-[`consent`](/documentation/airwallex/awxcreatepaymentconsentresponse/consent)
+[`consent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentresponse/consent.md)

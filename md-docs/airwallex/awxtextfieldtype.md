@@ -27,40 +27,40 @@ enum AWXTextFieldType
 
 ## Enumeration Cases
 
-[`AWXTextFieldType.CVC`](/documentation/airwallex/awxtextfieldtype/cvc)
+[`AWXTextFieldType.CVC`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/cvc.md)
 
-[`AWXTextFieldType.cardNumber`](/documentation/airwallex/awxtextfieldtype/cardnumber)
+[`AWXTextFieldType.cardNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/cardnumber.md)
 
-[`AWXTextFieldType.city`](/documentation/airwallex/awxtextfieldtype/city)
+[`AWXTextFieldType.city`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/city.md)
 
-[`AWXTextFieldType.country`](/documentation/airwallex/awxtextfieldtype/country)
+[`AWXTextFieldType.country`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/country.md)
 
-[`AWXTextFieldType.default`](/documentation/airwallex/awxtextfieldtype/default)
+[`AWXTextFieldType.default`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/default.md)
 
-[`AWXTextFieldType.email`](/documentation/airwallex/awxtextfieldtype/email)
+[`AWXTextFieldType.email`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/email.md)
 
-[`AWXTextFieldType.expires`](/documentation/airwallex/awxtextfieldtype/expires)
+[`AWXTextFieldType.expires`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/expires.md)
 
-[`AWXTextFieldType.firstName`](/documentation/airwallex/awxtextfieldtype/firstname)
+[`AWXTextFieldType.firstName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/firstname.md)
 
-[`AWXTextFieldType.lastName`](/documentation/airwallex/awxtextfieldtype/lastname)
+[`AWXTextFieldType.lastName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/lastname.md)
 
-[`AWXTextFieldType.nameOnCard`](/documentation/airwallex/awxtextfieldtype/nameoncard)
+[`AWXTextFieldType.nameOnCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/nameoncard.md)
 
-[`AWXTextFieldType.phoneNumber`](/documentation/airwallex/awxtextfieldtype/phonenumber)
+[`AWXTextFieldType.phoneNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/phonenumber.md)
 
-[`AWXTextFieldType.state`](/documentation/airwallex/awxtextfieldtype/state)
+[`AWXTextFieldType.state`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/state.md)
 
-[`AWXTextFieldType.street`](/documentation/airwallex/awxtextfieldtype/street)
+[`AWXTextFieldType.street`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/street.md)
 
-[`AWXTextFieldType.zipcode`](/documentation/airwallex/awxtextfieldtype/zipcode)
+[`AWXTextFieldType.zipcode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/zipcode.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxtextfieldtype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxtextfieldtype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxtextfieldtype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype/rawrepresentable-implementations.md)

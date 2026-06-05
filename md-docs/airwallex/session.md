@@ -38,30 +38,30 @@ consistent API, making it easier to implement payment processing in your applica
 
 ## Initializers
 
-[`init(paymentIntent:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)`](/documentation/airwallex/session/init(paymentintent:countrycode:applepayoptions:autocapture:autosavecardforfuturepayments:billing:hidepaymentconsents:lang:paymentmethods:paymentconsentoptions:requiredbillingcontactfields:returnurl:))
+[`init(paymentIntent:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/init(paymentintent-countrycode-applepayoptions-autocapture-autosavecardforfuturepayments-billing-hidepaymentconsents-lang-paymentmethods-paymentconsentoptions-requiredbillingcontactfields-returnurl-).md)
 
-[`init(paymentIntentProvider:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)`](/documentation/airwallex/session/init(paymentintentprovider:countrycode:applepayoptions:autocapture:autosavecardforfuturepayments:billing:hidepaymentconsents:lang:paymentmethods:paymentconsentoptions:requiredbillingcontactfields:returnurl:))
+[`init(paymentIntentProvider:countryCode:applePayOptions:autoCapture:autoSaveCardForFuturePayments:billing:hidePaymentConsents:lang:paymentMethods:paymentConsentOptions:requiredBillingContactFields:returnURL:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/init(paymentintentprovider-countrycode-applepayoptions-autocapture-autosavecardforfuturepayments-billing-hidepaymentconsents-lang-paymentmethods-paymentconsentoptions-requiredbillingcontactfields-returnurl-).md)
 
 ## Instance Properties
 
-[`autoCapture`](/documentation/airwallex/session/autocapture)
+[`autoCapture`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/autocapture.md)
 
-[`autoSaveCardForFuturePayments`](/documentation/airwallex/session/autosavecardforfuturepayments)
+[`autoSaveCardForFuturePayments`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/autosavecardforfuturepayments.md)
 
-[`paymentConsentOptions`](/documentation/airwallex/session/paymentconsentoptions)
+[`paymentConsentOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/paymentconsentoptions.md)
 
-[`paymentIntent`](/documentation/airwallex/session/paymentintent)
+[`paymentIntent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/paymentintent.md)
 
-[`paymentIntentProvider`](/documentation/airwallex/session/paymentintentprovider)
+[`paymentIntentProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/paymentintentprovider.md)
 
 ## Instance Methods
 
-[`amount()`](/documentation/airwallex/session/amount())
+[`amount()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/amount().md)
 
-[`currency()`](/documentation/airwallex/session/currency())
+[`currency()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/currency().md)
 
-[`customerId()`](/documentation/airwallex/session/customerid())
+[`customerId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/customerid().md)
 
-[`paymentIntentId()`](/documentation/airwallex/session/paymentintentid())
+[`paymentIntentId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/paymentintentid().md)
 
-[`transactionMode()`](/documentation/airwallex/session/transactionmode())
+[`transactionMode()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session/transactionmode().md)

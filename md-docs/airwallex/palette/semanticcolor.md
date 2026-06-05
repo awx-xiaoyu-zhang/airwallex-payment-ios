@@ -27,52 +27,52 @@ enum SemanticColor
 
 ## Enumeration Cases
 
-[`Palette.SemanticColor.backgroundField`](/documentation/airwallex/palette/semanticcolor/backgroundfield)
+[`Palette.SemanticColor.backgroundField`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundfield.md)
 
-[`Palette.SemanticColor.backgroundHighlight`](/documentation/airwallex/palette/semanticcolor/backgroundhighlight)
+[`Palette.SemanticColor.backgroundHighlight`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundhighlight.md)
 
-[`Palette.SemanticColor.backgroundInteractive`](/documentation/airwallex/palette/semanticcolor/backgroundinteractive)
+[`Palette.SemanticColor.backgroundInteractive`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundinteractive.md)
 
-[`Palette.SemanticColor.backgroundPrimary`](/documentation/airwallex/palette/semanticcolor/backgroundprimary)
+[`Palette.SemanticColor.backgroundPrimary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundprimary.md)
 
-[`Palette.SemanticColor.backgroundSecondary`](/documentation/airwallex/palette/semanticcolor/backgroundsecondary)
+[`Palette.SemanticColor.backgroundSecondary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundsecondary.md)
 
-[`Palette.SemanticColor.backgroundSelected`](/documentation/airwallex/palette/semanticcolor/backgroundselected)
+[`Palette.SemanticColor.backgroundSelected`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundselected.md)
 
-[`Palette.SemanticColor.backgroundWarning`](/documentation/airwallex/palette/semanticcolor/backgroundwarning)
+[`Palette.SemanticColor.backgroundWarning`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/backgroundwarning.md)
 
-[`Palette.SemanticColor.borderDecorative`](/documentation/airwallex/palette/semanticcolor/borderdecorative)
+[`Palette.SemanticColor.borderDecorative`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/borderdecorative.md)
 
-[`Palette.SemanticColor.borderError`](/documentation/airwallex/palette/semanticcolor/bordererror)
+[`Palette.SemanticColor.borderError`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/bordererror.md)
 
-[`Palette.SemanticColor.borderInteractive`](/documentation/airwallex/palette/semanticcolor/borderinteractive)
+[`Palette.SemanticColor.borderInteractive`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/borderinteractive.md)
 
-[`Palette.SemanticColor.borderPerceivable`](/documentation/airwallex/palette/semanticcolor/borderperceivable)
+[`Palette.SemanticColor.borderPerceivable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/borderperceivable.md)
 
-[`Palette.SemanticColor.iconDisabled`](/documentation/airwallex/palette/semanticcolor/icondisabled)
+[`Palette.SemanticColor.iconDisabled`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/icondisabled.md)
 
-[`Palette.SemanticColor.iconLink`](/documentation/airwallex/palette/semanticcolor/iconlink)
+[`Palette.SemanticColor.iconLink`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/iconlink.md)
 
-[`Palette.SemanticColor.iconPrimary`](/documentation/airwallex/palette/semanticcolor/iconprimary)
+[`Palette.SemanticColor.iconPrimary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/iconprimary.md)
 
-[`Palette.SemanticColor.iconSecondary`](/documentation/airwallex/palette/semanticcolor/iconsecondary)
+[`Palette.SemanticColor.iconSecondary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/iconsecondary.md)
 
-[`Palette.SemanticColor.iconWarning`](/documentation/airwallex/palette/semanticcolor/iconwarning)
+[`Palette.SemanticColor.iconWarning`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/iconwarning.md)
 
-[`Palette.SemanticColor.textError`](/documentation/airwallex/palette/semanticcolor/texterror)
+[`Palette.SemanticColor.textError`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/texterror.md)
 
-[`Palette.SemanticColor.textInverse`](/documentation/airwallex/palette/semanticcolor/textinverse)
+[`Palette.SemanticColor.textInverse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/textinverse.md)
 
-[`Palette.SemanticColor.textLink`](/documentation/airwallex/palette/semanticcolor/textlink)
+[`Palette.SemanticColor.textLink`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/textlink.md)
 
-[`Palette.SemanticColor.textPlaceholder`](/documentation/airwallex/palette/semanticcolor/textplaceholder)
+[`Palette.SemanticColor.textPlaceholder`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/textplaceholder.md)
 
-[`Palette.SemanticColor.textPrimary`](/documentation/airwallex/palette/semanticcolor/textprimary)
+[`Palette.SemanticColor.textPrimary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/textprimary.md)
 
-[`Palette.SemanticColor.textSecondary`](/documentation/airwallex/palette/semanticcolor/textsecondary)
+[`Palette.SemanticColor.textSecondary`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/textsecondary.md)
 
-[`Palette.SemanticColor.theme`](/documentation/airwallex/palette/semanticcolor/theme)
+[`Palette.SemanticColor.theme`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/theme.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/palette/semanticcolor/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor/equatable-implementations.md)

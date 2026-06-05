@@ -29,30 +29,30 @@
 
 ## Instance Properties
 
-[`provider`](/documentation/airwallex/awxviewcontroller/provider)
+[`provider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/provider.md)
 
-[`session`](/documentation/airwallex/awxviewcontroller/session)
+[`session`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/session.md)
 
 ## Instance Methods
 
-[`activeField()`](/documentation/airwallex/awxviewcontroller/activefield())
+[`activeField()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/activefield().md)
 
-[`activeScrollView()`](/documentation/airwallex/awxviewcontroller/activescrollview())
+[`activeScrollView()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/activescrollview().md)
 
-[`bottomLayoutConstraint()`](/documentation/airwallex/awxviewcontroller/bottomlayoutconstraint())
+[`bottomLayoutConstraint()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/bottomlayoutconstraint().md)
 
-[`close(_:)`](/documentation/airwallex/awxviewcontroller/close(_:))
+[`close(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/close(_-).md)
 
-[`enableTapToDismiss()`](/documentation/airwallex/awxviewcontroller/enabletaptodismiss())
+[`enableTapToDismiss()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/enabletaptodismiss().md)
 
-[`enableTapToEndEditing()`](/documentation/airwallex/awxviewcontroller/enabletaptoendediting())
+[`enableTapToEndEditing()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/enabletaptoendediting().md)
 
-[`registerKeyboard()`](/documentation/airwallex/awxviewcontroller/registerkeyboard())
+[`registerKeyboard()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/registerkeyboard().md)
 
-[`setActiveField(_:)`](/documentation/airwallex/awxviewcontroller/setactivefield(_:))
+[`setActiveField(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/setactivefield(_-).md)
 
-[`startAnimating()`](/documentation/airwallex/awxviewcontroller/startanimating())
+[`startAnimating()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/startanimating().md)
 
-[`stopAnimating()`](/documentation/airwallex/awxviewcontroller/stopanimating())
+[`stopAnimating()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/stopanimating().md)
 
-[`unregisterKeyboard()`](/documentation/airwallex/awxviewcontroller/unregisterkeyboard())
+[`unregisterKeyboard()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller/unregisterkeyboard().md)

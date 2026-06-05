@@ -29,4 +29,4 @@ class AWXDefaultActionProvider
 
 ## Instance Methods
 
-[`handle(_:)`](/documentation/airwallex/awxdefaultactionprovider/handle(_:))
+[`handle(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultactionprovider/handle(_-).md)

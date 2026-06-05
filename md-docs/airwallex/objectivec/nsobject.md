@@ -28,4 +28,4 @@ extension NSObject
 
 ## Type Methods
 
-[`logMesage(_:)`](/documentation/airwallex/objectivec/nsobject/logmesage(_:))
+[`logMesage(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/objectivec/nsobject/logmesage(_-).md)

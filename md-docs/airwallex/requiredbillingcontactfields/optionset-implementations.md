@@ -13,28 +13,28 @@
 
 ## Initializers
 
-[`init()`](/documentation/airwallex/requiredbillingcontactfields/init())
+[`init()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/init().md)
 
 ## Instance Methods
 
-[`contains(_:)`](/documentation/airwallex/requiredbillingcontactfields/contains(_:))
+[`contains(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/contains(_-).md)
 
-[`formIntersection(_:)`](/documentation/airwallex/requiredbillingcontactfields/formintersection(_:))
+[`formIntersection(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/formintersection(_-).md)
 
-[`formSymmetricDifference(_:)`](/documentation/airwallex/requiredbillingcontactfields/formsymmetricdifference(_:))
+[`formSymmetricDifference(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/formsymmetricdifference(_-).md)
 
-[`formUnion(_:)`](/documentation/airwallex/requiredbillingcontactfields/formunion(_:))
+[`formUnion(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/formunion(_-).md)
 
-[`insert(_:)`](/documentation/airwallex/requiredbillingcontactfields/insert(_:)-3euhg)
+[`insert(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/insert(_-)-3euhg.md)
 
-[`insert(_:)`](/documentation/airwallex/requiredbillingcontactfields/insert(_:)-60blc)
+[`insert(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/insert(_-)-60blc.md)
 
-[`intersection(_:)`](/documentation/airwallex/requiredbillingcontactfields/intersection(_:))
+[`intersection(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/intersection(_-).md)
 
-[`remove(_:)`](/documentation/airwallex/requiredbillingcontactfields/remove(_:))
+[`remove(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/remove(_-).md)
 
-[`symmetricDifference(_:)`](/documentation/airwallex/requiredbillingcontactfields/symmetricdifference(_:))
+[`symmetricDifference(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/symmetricdifference(_-).md)
 
-[`union(_:)`](/documentation/airwallex/requiredbillingcontactfields/union(_:))
+[`union(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/union(_-).md)
 
-[`update(with:)`](/documentation/airwallex/requiredbillingcontactfields/update(with:))
+[`update(with:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields/update(with-).md)

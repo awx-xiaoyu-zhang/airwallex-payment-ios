@@ -29,16 +29,16 @@ The type of element to display.
 
 ## Enumeration Cases
 
-[`AWXPaymentElement.ElementType.addCard`](/documentation/airwallex/awxpaymentelement/elementtype/addcard)
+[`AWXPaymentElement.ElementType.addCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype/addcard.md)
 
-[`AWXPaymentElement.ElementType.paymentSheet`](/documentation/airwallex/awxpaymentelement/elementtype/paymentsheet)
+[`AWXPaymentElement.ElementType.paymentSheet`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype/paymentsheet.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxpaymentelement/elementtype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxpaymentelement/elementtype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxpaymentelement/elementtype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement/elementtype/rawrepresentable-implementations.md)

@@ -29,16 +29,16 @@ class AWXGetPaymentMethodsRequest
 
 ## Instance Properties
 
-[`cardType`](/documentation/airwallex/awxgetpaymentmethodsrequest/cardtype)
+[`cardType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/cardtype.md)
 
-[`customerId`](/documentation/airwallex/awxgetpaymentmethodsrequest/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/customerid.md)
 
-[`fromCreatedAt`](/documentation/airwallex/awxgetpaymentmethodsrequest/fromcreatedat)
+[`fromCreatedAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/fromcreatedat.md)
 
-[`methodType`](/documentation/airwallex/awxgetpaymentmethodsrequest/methodtype)
+[`methodType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/methodtype.md)
 
-[`pageNum`](/documentation/airwallex/awxgetpaymentmethodsrequest/pagenum)
+[`pageNum`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/pagenum.md)
 
-[`pageSize`](/documentation/airwallex/awxgetpaymentmethodsrequest/pagesize)
+[`pageSize`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/pagesize.md)
 
-[`toCreatedAt`](/documentation/airwallex/awxgetpaymentmethodsrequest/tocreatedat)
+[`toCreatedAt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest/tocreatedat.md)

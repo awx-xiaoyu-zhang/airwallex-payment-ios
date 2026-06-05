@@ -27,18 +27,18 @@ class AWXRequest
 
 ## Instance Properties
 
-[`requestId`](/documentation/airwallex/awxrequest/requestid)
+[`requestId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/requestid.md)
 
 ## Instance Methods
 
-[`headers()`](/documentation/airwallex/awxrequest/headers())
+[`headers()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/headers().md)
 
-[`method()`](/documentation/airwallex/awxrequest/method())
+[`method()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/method().md)
 
-[`parameters()`](/documentation/airwallex/awxrequest/parameters())
+[`parameters()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/parameters().md)
 
-[`path()`](/documentation/airwallex/awxrequest/path())
+[`path()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/path().md)
 
-[`postData()`](/documentation/airwallex/awxrequest/postdata())
+[`postData()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/postdata().md)
 
-[`responseClass()`](/documentation/airwallex/awxrequest/responseclass())
+[`responseClass()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest/responseclass().md)

@@ -29,4 +29,4 @@ class AWXCreatePaymentMethodRequest
 
 ## Instance Properties
 
-[`paymentMethod`](/documentation/airwallex/awxcreatepaymentmethodrequest/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentmethodrequest/paymentmethod.md)

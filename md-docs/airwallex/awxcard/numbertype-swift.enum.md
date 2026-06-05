@@ -27,8 +27,8 @@ enum NumberType
 
 ## Type Properties
 
-[`PAN`](/documentation/airwallex/awxcard/numbertype-swift.enum/pan)
+[`PAN`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/numbertype-swift.enum/pan.md)
 
-[`airwallexNetworkToken`](/documentation/airwallex/awxcard/numbertype-swift.enum/airwallexnetworktoken)
+[`airwallexNetworkToken`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/numbertype-swift.enum/airwallexnetworktoken.md)
 
-[`externalNetworkToken`](/documentation/airwallex/awxcard/numbertype-swift.enum/externalnetworktoken)
+[`externalNetworkToken`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard/numbertype-swift.enum/externalnetworktoken.md)

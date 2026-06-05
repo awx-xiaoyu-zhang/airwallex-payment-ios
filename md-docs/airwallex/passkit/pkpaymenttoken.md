@@ -28,4 +28,4 @@ extension PKPaymentToken
 
 ## Instance Methods
 
-[`payloadForRequest(withBilling:)`](/documentation/airwallex/passkit/pkpaymenttoken/payloadforrequest(withbilling:))
+[`payloadForRequest(withBilling:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit/pkpaymenttoken/payloadforrequest(withbilling-).md)

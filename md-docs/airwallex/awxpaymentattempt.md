@@ -29,16 +29,16 @@ class AWXPaymentAttempt
 
 ## Instance Properties
 
-[`amount`](/documentation/airwallex/awxpaymentattempt/amount)
+[`amount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/amount.md)
 
-[`authenticationData`](/documentation/airwallex/awxpaymentattempt/authenticationdata)
+[`authenticationData`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/authenticationdata.md)
 
-[`capturedAmount`](/documentation/airwallex/awxpaymentattempt/capturedamount)
+[`capturedAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/capturedamount.md)
 
-[`id`](/documentation/airwallex/awxpaymentattempt/id)
+[`id`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/id.md)
 
-[`paymentMethod`](/documentation/airwallex/awxpaymentattempt/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/paymentmethod.md)
 
-[`refundedAmount`](/documentation/airwallex/awxpaymentattempt/refundedamount)
+[`refundedAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/refundedamount.md)
 
-[`status`](/documentation/airwallex/awxpaymentattempt/status)
+[`status`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt/status.md)

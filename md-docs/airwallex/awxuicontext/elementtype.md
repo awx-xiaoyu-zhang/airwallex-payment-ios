@@ -29,18 +29,18 @@ The type of payment flow to display.
 
 ## Enumeration Cases
 
-[`AWXUIContext.ElementType.addCard`](/documentation/airwallex/awxuicontext/elementtype/addcard)
+[`AWXUIContext.ElementType.addCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/addcard.md)
 
-[`AWXUIContext.ElementType.component`](/documentation/airwallex/awxuicontext/elementtype/component)
+[`AWXUIContext.ElementType.component`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/component.md)
 
-[`AWXUIContext.ElementType.paymentSheet`](/documentation/airwallex/awxuicontext/elementtype/paymentsheet)
+[`AWXUIContext.ElementType.paymentSheet`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/paymentsheet.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxuicontext/elementtype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxuicontext/elementtype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxuicontext/elementtype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/elementtype/rawrepresentable-implementations.md)

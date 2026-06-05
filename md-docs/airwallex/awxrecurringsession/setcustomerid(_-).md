@@ -21,10 +21,6 @@
 
 # setCustomerId(_:)
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.Session instead
-
 ```
 func setCustomerId(_ customerId: String?)
 ```

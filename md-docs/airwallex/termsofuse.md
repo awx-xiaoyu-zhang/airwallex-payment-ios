@@ -29,34 +29,34 @@ Terms to specify how this Payment Consent will be used
 
 ## Initializers
 
-[`init(billingCycleChargeDay:endDate:firstPaymentAmount:fixedPaymentAmount:maxPaymentAmount:minPaymentAmount:paymentAmountType:paymentCurrency:paymentSchedule:startDate:totalBillingCycles:)`](/documentation/airwallex/termsofuse/init(billingcyclechargeday:enddate:firstpaymentamount:fixedpaymentamount:maxpaymentamount:minpaymentamount:paymentamounttype:paymentcurrency:paymentschedule:startdate:totalbillingcycles:))
+[`init(billingCycleChargeDay:endDate:firstPaymentAmount:fixedPaymentAmount:maxPaymentAmount:minPaymentAmount:paymentAmountType:paymentCurrency:paymentSchedule:startDate:totalBillingCycles:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/init(billingcyclechargeday-enddate-firstpaymentamount-fixedpaymentamount-maxpaymentamount-minpaymentamount-paymentamounttype-paymentcurrency-paymentschedule-startdate-totalbillingcycles-).md)
 
 ## Instance Properties
 
-[`billingCycleChargeDay`](/documentation/airwallex/termsofuse/billingcyclechargeday)
+[`billingCycleChargeDay`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/billingcyclechargeday.md)
 
-[`endDate`](/documentation/airwallex/termsofuse/enddate)
+[`endDate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/enddate.md)
 
-[`firstPaymentAmount`](/documentation/airwallex/termsofuse/firstpaymentamount)
+[`firstPaymentAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/firstpaymentamount.md)
 
-[`fixedPaymentAmount`](/documentation/airwallex/termsofuse/fixedpaymentamount)
+[`fixedPaymentAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/fixedpaymentamount.md)
 
-[`maxPaymentAmount`](/documentation/airwallex/termsofuse/maxpaymentamount)
+[`maxPaymentAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/maxpaymentamount.md)
 
-[`minPaymentAmount`](/documentation/airwallex/termsofuse/minpaymentamount)
+[`minPaymentAmount`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/minpaymentamount.md)
 
-[`paymentAmountType`](/documentation/airwallex/termsofuse/paymentamounttype)
+[`paymentAmountType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/paymentamounttype.md)
 
-[`paymentCurrency`](/documentation/airwallex/termsofuse/paymentcurrency)
+[`paymentCurrency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/paymentcurrency.md)
 
-[`paymentSchedule`](/documentation/airwallex/termsofuse/paymentschedule)
+[`paymentSchedule`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/paymentschedule.md)
 
-[`startDate`](/documentation/airwallex/termsofuse/startdate)
+[`startDate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/startdate.md)
 
-[`totalBillingCycles`](/documentation/airwallex/termsofuse/totalbillingcycles)
+[`totalBillingCycles`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/totalbillingcycles.md)
 
 ## Default Implementations
 
-[`AWXJSONEncodable Implementations`](/documentation/airwallex/termsofuse/awxjsonencodable-implementations)
+[`AWXJSONEncodable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/awxjsonencodable-implementations.md)
 
-[`Encodable Implementations`](/documentation/airwallex/termsofuse/encodable-implementations)
+[`Encodable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse/encodable-implementations.md)

@@ -35,376 +35,376 @@ The Airwallex iOS SDK is a flexible tool that enables you to integrate payment m
 
 ### Preparation
 
-[`AWXPaymentIntent`](/documentation/Airwallex/AWXPaymentIntent)
+[`AWXPaymentIntent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent.md)
 
 `AWXPaymentIntent` includes the information of payment intent.
 
-[`Session`](/documentation/Airwallex/Session)
+[`Session`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session.md)
 
 `Session` is a specialized subclass of `AWXSession`
 
-[`PaymentConsentOptions`](/documentation/Airwallex/PaymentConsentOptions)
+[`PaymentConsentOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions.md)
 
 Options for payment consents
 
-[`AWXApplePayOptions`](/documentation/Airwallex/AWXApplePayOptions)
+[`AWXApplePayOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions.md)
 
 Object used to construct PKPaymentRequest for Apple Pay.
 
-[`AWXAPIClientConfiguration`](/documentation/Airwallex/AWXAPIClientConfiguration)
+[`AWXAPIClientConfiguration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration.md)
 
 `AWXAPIClientConfiguration` contains the base configuration the API client needs.
 
 ### UI Integration - Hosted Payment Page
 
-[`AWXUIContext`](/documentation/Airwallex/AWXUIContext)
+[`AWXUIContext`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext.md)
 
 The main UI context for Airwallex payment flows.
 
 ### UI Integration - Embedded Element
 
-[`AWXPaymentElement`](/documentation/Airwallex/AWXPaymentElement)
+[`AWXPaymentElement`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement.md)
 
 An embeddable payment element that can be added to any view hierarchy.
 
 ### API Integration
 
-[`PaymentSessionHandler`](/documentation/Airwallex/PaymentSessionHandler)
+[`PaymentSessionHandler`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler.md)
 
 A low-level API handler for managing Airwallex payment sessions.
 
-[`AWXPaymentConsent`](/documentation/Airwallex/AWXPaymentConsent)
+[`AWXPaymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent.md)
 
 `AWXPaymentConsent` includes the info of payment consent.
 
 ### Customization
 
-[`AWXTheme`](/documentation/Airwallex/AWXTheme)
+[`AWXTheme`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme.md)
 
 `AWXTheme` manages text styles.
 
 ### Payment Result
 
-[`AWXPaymentResultDelegate`](/documentation/Airwallex/AWXPaymentResultDelegate)
+[`AWXPaymentResultDelegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentresultdelegate.md)
 
 ## Preparation
 
-[`AWXPaymentIntent`](/documentation/airwallex/awxpaymentintent)
+[`AWXPaymentIntent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentintent.md)
 
-[`Session`](/documentation/airwallex/session)
+[`Session`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/session.md)
 
-[`PaymentConsentOptions`](/documentation/airwallex/paymentconsentoptions)
+[`PaymentConsentOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentconsentoptions.md)
 
-[`AWXApplePayOptions`](/documentation/airwallex/awxapplepayoptions)
+[`AWXApplePayOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayoptions.md)
 
-[`AWXAPIClientConfiguration`](/documentation/airwallex/awxapiclientconfiguration)
+[`AWXAPIClientConfiguration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration.md)
 
 ## UI Integration - Hosted Payment Page
 
-[`AWXUIContext`](/documentation/airwallex/awxuicontext)
+[`AWXUIContext`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext.md)
 
 ## UI Integration - Embedded Element
 
-[`AWXPaymentElement`](/documentation/airwallex/awxpaymentelement)
+[`AWXPaymentElement`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelement.md)
 
 ## API Integration
 
-[`PaymentSessionHandler`](/documentation/airwallex/paymentsessionhandler)
+[`PaymentSessionHandler`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentsessionhandler.md)
 
-[`AWXPaymentConsent`](/documentation/airwallex/awxpaymentconsent)
+[`AWXPaymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentconsent.md)
 
 ## Customization
 
-[`AWXTheme`](/documentation/airwallex/awxtheme)
+[`AWXTheme`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme.md)
 
 ## Payment Result
 
-[`AWXPaymentResultDelegate`](/documentation/airwallex/awxpaymentresultdelegate)
+[`AWXPaymentResultDelegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentresultdelegate.md)
 
 ## Classes
 
-[`AWXAPIClient`](/documentation/airwallex/awxapiclient)
+[`AWXAPIClient`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclient.md)
 
-[`AWXAPIErrorResponse`](/documentation/airwallex/awxapierrorresponse)
+[`AWXAPIErrorResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapierrorresponse.md)
 
-[`AWXAddress`](/documentation/airwallex/awxaddress)
+[`AWXAddress`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress.md)
 
-[`AWXApplePayProvider`](/documentation/airwallex/awxapplepayprovider)
+[`AWXApplePayProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepayprovider.md)
 
-[`AWXAuthenticationData`](/documentation/airwallex/awxauthenticationdata)
+[`AWXAuthenticationData`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxauthenticationdata.md)
 
-[`AWXBank`](/documentation/airwallex/awxbank)
+[`AWXBank`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbank.md)
 
-[`AWXBrand`](/documentation/airwallex/awxbrand)
+[`AWXBrand`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrand.md)
 
-[`AWXCandidate`](/documentation/airwallex/awxcandidate)
+[`AWXCandidate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcandidate.md)
 
-[`AWXCard`](/documentation/airwallex/awxcard)
+[`AWXCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcard.md)
 
-[`AWXCardCVCViewController`](/documentation/airwallex/awxcardcvcviewcontroller)
+[`AWXCardCVCViewController`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardcvcviewcontroller.md)
 
-[`AWXCardOptions`](/documentation/airwallex/awxcardoptions)
+[`AWXCardOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardoptions.md)
 
-[`AWXCardProvider`](/documentation/airwallex/awxcardprovider)
+[`AWXCardProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardprovider.md)
 
-[`AWXCardScheme`](/documentation/airwallex/awxcardscheme)
+[`AWXCardScheme`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardscheme.md)
 
-[`AWXCardValidator`](/documentation/airwallex/awxcardvalidator)
+[`AWXCardValidator`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator.md)
 
-[`AWXConfirmPaymentIntentRequest`](/documentation/airwallex/awxconfirmpaymentintentrequest)
+[`AWXConfirmPaymentIntentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentrequest.md)
 
-[`AWXConfirmPaymentIntentResponse`](/documentation/airwallex/awxconfirmpaymentintentresponse)
+[`AWXConfirmPaymentIntentResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentintentresponse.md)
 
-[`AWXConfirmPaymentNextAction`](/documentation/airwallex/awxconfirmpaymentnextaction)
+[`AWXConfirmPaymentNextAction`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmpaymentnextaction.md)
 
-[`AWXConfirmThreeDSRequest`](/documentation/airwallex/awxconfirmthreedsrequest)
+[`AWXConfirmThreeDSRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxconfirmthreedsrequest.md)
 
-[`AWXCountry`](/documentation/airwallex/awxcountry)
+[`AWXCountry`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcountry.md)
 
-[`AWXCreatePaymentConsentRequest`](/documentation/airwallex/awxcreatepaymentconsentrequest)
+[`AWXCreatePaymentConsentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest.md)
 
-[`AWXCreatePaymentConsentResponse`](/documentation/airwallex/awxcreatepaymentconsentresponse)
+[`AWXCreatePaymentConsentResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentresponse.md)
 
-[`AWXCreatePaymentMethodRequest`](/documentation/airwallex/awxcreatepaymentmethodrequest)
+[`AWXCreatePaymentMethodRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentmethodrequest.md)
 
-[`AWXCreatePaymentMethodResponse`](/documentation/airwallex/awxcreatepaymentmethodresponse)
+[`AWXCreatePaymentMethodResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentmethodresponse.md)
 
-[`AWXDefaultActionProvider`](/documentation/airwallex/awxdefaultactionprovider)
+[`AWXDefaultActionProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultactionprovider.md)
 
-[`AWXDefaultProvider`](/documentation/airwallex/awxdefaultprovider)
+[`AWXDefaultProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdefaultprovider.md)
 
-[`AWXDevice`](/documentation/airwallex/awxdevice)
+[`AWXDevice`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdevice.md)
 
-[`AWXDisablePaymentConsentRequest`](/documentation/airwallex/awxdisablepaymentconsentrequest)
+[`AWXDisablePaymentConsentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdisablepaymentconsentrequest.md)
 
-[`AWXDisablePaymentConsentResponse`](/documentation/airwallex/awxdisablepaymentconsentresponse)
+[`AWXDisablePaymentConsentResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxdisablepaymentconsentresponse.md)
 
-[`AWXField`](/documentation/airwallex/awxfield)
+[`AWXField`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfield.md)
 
-[`AWXFieldValidation`](/documentation/airwallex/awxfieldvalidation)
+[`AWXFieldValidation`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfieldvalidation.md)
 
-[`AWXForm`](/documentation/airwallex/awxform)
+[`AWXForm`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxform.md)
 
-[`AWXFormMapping`](/documentation/airwallex/awxformmapping)
+[`AWXFormMapping`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformmapping.md)
 
-[`AWXGetAvailableBanksRequest`](/documentation/airwallex/awxgetavailablebanksrequest)
+[`AWXGetAvailableBanksRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksrequest.md)
 
-[`AWXGetAvailableBanksResponse`](/documentation/airwallex/awxgetavailablebanksresponse)
+[`AWXGetAvailableBanksResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetavailablebanksresponse.md)
 
-[`AWXGetPaResRequest`](/documentation/airwallex/awxgetparesrequest)
+[`AWXGetPaResRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetparesrequest.md)
 
-[`AWXGetPaResResponse`](/documentation/airwallex/awxgetparesresponse)
+[`AWXGetPaResResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetparesresponse.md)
 
-[`AWXGetPaymentConsentsRequest`](/documentation/airwallex/awxgetpaymentconsentsrequest)
+[`AWXGetPaymentConsentsRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsrequest.md)
 
-[`AWXGetPaymentConsentsResponse`](/documentation/airwallex/awxgetpaymentconsentsresponse)
+[`AWXGetPaymentConsentsResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentconsentsresponse.md)
 
-[`AWXGetPaymentIntentResponse`](/documentation/airwallex/awxgetpaymentintentresponse)
+[`AWXGetPaymentIntentResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentintentresponse.md)
 
-[`AWXGetPaymentMethodTypeRequest`](/documentation/airwallex/awxgetpaymentmethodtyperequest)
+[`AWXGetPaymentMethodTypeRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperequest.md)
 
-[`AWXGetPaymentMethodTypeResponse`](/documentation/airwallex/awxgetpaymentmethodtyperesponse)
+[`AWXGetPaymentMethodTypeResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperesponse.md)
 
-[`AWXGetPaymentMethodTypesRequest`](/documentation/airwallex/awxgetpaymentmethodtypesrequest)
+[`AWXGetPaymentMethodTypesRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesrequest.md)
 
-[`AWXGetPaymentMethodTypesResponse`](/documentation/airwallex/awxgetpaymentmethodtypesresponse)
+[`AWXGetPaymentMethodTypesResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtypesresponse.md)
 
-[`AWXGetPaymentMethodsRequest`](/documentation/airwallex/awxgetpaymentmethodsrequest)
+[`AWXGetPaymentMethodsRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsrequest.md)
 
-[`AWXGetPaymentMethodsResponse`](/documentation/airwallex/awxgetpaymentmethodsresponse)
+[`AWXGetPaymentMethodsResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodsresponse.md)
 
-[`AWXNextActionHandler`](/documentation/airwallex/awxnextactionhandler)
+[`AWXNextActionHandler`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxnextactionhandler.md)
 
-[`AWXOneOffSession`](/documentation/airwallex/awxoneoffsession)
+[`AWXOneOffSession`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxoneoffsession.md)
 
-[`AWXPaymentAttempt`](/documentation/airwallex/awxpaymentattempt)
+[`AWXPaymentAttempt`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentattempt.md)
 
-[`AWXPaymentMethod`](/documentation/airwallex/awxpaymentmethod)
+[`AWXPaymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethod.md)
 
-[`AWXPaymentMethodOptions`](/documentation/airwallex/awxpaymentmethodoptions)
+[`AWXPaymentMethodOptions`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodoptions.md)
 
-[`AWXPaymentMethodType`](/documentation/airwallex/awxpaymentmethodtype)
+[`AWXPaymentMethodType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodtype.md)
 
-[`AWXPlaceDetails`](/documentation/airwallex/awxplacedetails)
+[`AWXPlaceDetails`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxplacedetails.md)
 
-[`AWXRecurringSession`](/documentation/airwallex/awxrecurringsession)
+[`AWXRecurringSession`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession.md)
 
-[`AWXRecurringWithIntentSession`](/documentation/airwallex/awxrecurringwithintentsession)
+[`AWXRecurringWithIntentSession`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession.md)
 
-[`AWXRedirectActionProvider`](/documentation/airwallex/awxredirectactionprovider)
+[`AWXRedirectActionProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxredirectactionprovider.md)
 
-[`AWXRequest`](/documentation/airwallex/awxrequest)
+[`AWXRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequest.md)
 
-[`AWXResources`](/documentation/airwallex/awxresources)
+[`AWXResources`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresources.md)
 
-[`AWXResponse`](/documentation/airwallex/awxresponse)
+[`AWXResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresponse.md)
 
-[`AWXRetrievePaymentConsentRequest`](/documentation/airwallex/awxretrievepaymentconsentrequest)
+[`AWXRetrievePaymentConsentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxretrievepaymentconsentrequest.md)
 
-[`AWXRetrievePaymentIntentRequest`](/documentation/airwallex/awxretrievepaymentintentrequest)
+[`AWXRetrievePaymentIntentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxretrievepaymentintentrequest.md)
 
-[`AWXSchema`](/documentation/airwallex/awxschema)
+[`AWXSchema`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxschema.md)
 
-[`AWXSession`](/documentation/airwallex/awxsession)
+[`AWXSession`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession.md)
 
-[`AWXShippingViewController`](/documentation/airwallex/awxshippingviewcontroller)
+[`AWXShippingViewController`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontroller.md)
 
-[`AWXThreeDs`](/documentation/airwallex/awxthreeds)
+[`AWXThreeDs`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreeds.md)
 
-[`AWXVerifyPaymentConsentRequest`](/documentation/airwallex/awxverifypaymentconsentrequest)
+[`AWXVerifyPaymentConsentRequest`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentrequest.md)
 
-[`AWXVerifyPaymentConsentResponse`](/documentation/airwallex/awxverifypaymentconsentresponse)
+[`AWXVerifyPaymentConsentResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxverifypaymentconsentresponse.md)
 
-[`AWXViewController`](/documentation/airwallex/awxviewcontroller)
+[`AWXViewController`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxviewcontroller.md)
 
-[`AWXWeChatPayActionProvider`](/documentation/airwallex/awxwechatpayactionprovider)
+[`AWXWeChatPayActionProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpayactionprovider.md)
 
-[`AWXWeChatPaySDKResponse`](/documentation/airwallex/awxwechatpaysdkresponse)
+[`AWXWeChatPaySDKResponse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaysdkresponse.md)
 
-[`Airwallex`](/documentation/airwallex/airwallex)
+[`Airwallex`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex.md)
 
-[`AnalyticsLogger`](/documentation/airwallex/analyticslogger)
+[`AnalyticsLogger`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/analyticslogger.md)
 
-[`ImageLoader`](/documentation/airwallex/imageloader)
+[`ImageLoader`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/imageloader.md)
 
-[`PaymentSchedule`](/documentation/airwallex/paymentschedule)
+[`PaymentSchedule`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentschedule.md)
 
-[`TermsOfUse`](/documentation/airwallex/termsofuse)
+[`TermsOfUse`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/termsofuse.md)
 
 ## Protocols
 
-[`AWXJSONDecodable`](/documentation/airwallex/awxjsondecodable)
+[`AWXJSONDecodable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxjsondecodable.md)
 
-[`AWXJSONEncodable`](/documentation/airwallex/awxjsonencodable)
+[`AWXJSONEncodable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxjsonencodable.md)
 
-[`AWXPage`](/documentation/airwallex/awxpage)
+[`AWXPage`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpage.md)
 
-[`AWXPageViewTrackable`](/documentation/airwallex/awxpageviewtrackable)
+[`AWXPageViewTrackable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpageviewtrackable.md)
 
-[`AWXPaymentElementDelegate`](/documentation/airwallex/awxpaymentelementdelegate)
+[`AWXPaymentElementDelegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementdelegate.md)
 
-[`AWXProviderDelegate`](/documentation/airwallex/awxproviderdelegate)
+[`AWXProviderDelegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxproviderdelegate.md)
 
-[`AWXShippingViewControllerDelegate`](/documentation/airwallex/awxshippingviewcontrollerdelegate)
+[`AWXShippingViewControllerDelegate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxshippingviewcontrollerdelegate.md)
 
-[`ErrorLoggable`](/documentation/airwallex/errorloggable)
+[`ErrorLoggable`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/errorloggable.md)
 
-[`PaymentIntentProvider`](/documentation/airwallex/paymentintentprovider)
+[`PaymentIntentProvider`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentintentprovider.md)
 
 ## Structures
 
-[`AWXCardBrand`](/documentation/airwallex/awxcardbrand)
+[`AWXCardBrand`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardbrand.md)
 
-[`AWXHTTPMethod`](/documentation/airwallex/awxhttpmethod)
+[`AWXHTTPMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethod.md)
 
-[`AWXPaymentMethodFlow`](/documentation/airwallex/awxpaymentmethodflow)
+[`AWXPaymentMethodFlow`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentmethodflow.md)
 
-[`Palette`](/documentation/airwallex/palette)
+[`Palette`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette.md)
 
-[`RequiredBillingContactFields`](/documentation/airwallex/requiredbillingcontactfields)
+[`RequiredBillingContactFields`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/requiredbillingcontactfields.md)
 
 ## Variables
 
-[`AIRWALLEX_API_VERSION`](/documentation/airwallex/airwallex_api_version)
+[`AIRWALLEX_API_VERSION`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex_api_version.md)
 
-[`AIRWALLEX_VERSION`](/documentation/airwallex/airwallex_version)
+[`AIRWALLEX_VERSION`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex_version.md)
 
-[`AWXApplePayKey`](/documentation/airwallex/awxapplepaykey)
+[`AWXApplePayKey`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepaykey.md)
 
-[`AWXCardKey`](/documentation/airwallex/awxcardkey)
+[`AWXCardKey`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardkey.md)
 
-[`AWXCybsURL`](/documentation/airwallex/awxcybsurl)
+[`AWXCybsURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcybsurl.md)
 
-[`AWXHTTPMethodGET`](/documentation/airwallex/awxhttpmethodget)
+[`AWXHTTPMethodGET`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethodget.md)
 
-[`AWXHTTPMethodPOST`](/documentation/airwallex/awxhttpmethodpost)
+[`AWXHTTPMethodPOST`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxhttpmethodpost.md)
 
-[`AWXPaymentTransactionModeOneOff`](/documentation/airwallex/awxpaymenttransactionmodeoneoff)
+[`AWXPaymentTransactionModeOneOff`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymenttransactionmodeoneoff.md)
 
-[`AWXPaymentTransactionModeRecurring`](/documentation/airwallex/awxpaymenttransactionmoderecurring)
+[`AWXPaymentTransactionModeRecurring`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymenttransactionmoderecurring.md)
 
-[`AWXSDKErrorDomain`](/documentation/airwallex/awxsdkerrordomain)
+[`AWXSDKErrorDomain`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrordomain.md)
 
-[`AWXThreatMatrixFingerprintServer`](/documentation/airwallex/awxthreatmatrixfingerprintserver)
+[`AWXThreatMatrixFingerprintServer`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreatmatrixfingerprintserver.md)
 
-[`AWXThreatMatrixOrganizationID`](/documentation/airwallex/awxthreatmatrixorganizationid)
+[`AWXThreatMatrixOrganizationID`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreatmatrixorganizationid.md)
 
-[`AWXThreeDSCheckEnrollment`](/documentation/airwallex/awxthreedscheckenrollment)
+[`AWXThreeDSCheckEnrollment`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedscheckenrollment.md)
 
-[`AWXThreeDSContinue`](/documentation/airwallex/awxthreedscontinue)
+[`AWXThreeDSContinue`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedscontinue.md)
 
-[`AWXThreeDSReturnURL`](/documentation/airwallex/awxthreedsreturnurl)
+[`AWXThreeDSReturnURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedsreturnurl.md)
 
-[`AWXThreeDSValidate`](/documentation/airwallex/awxthreedsvalidate)
+[`AWXThreeDSValidate`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedsvalidate.md)
 
-[`AWXThreeDSWaitingUserInfoInput`](/documentation/airwallex/awxthreedswaitinguserinfoinput)
+[`AWXThreeDSWaitingUserInfoInput`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedswaitinguserinfoinput.md)
 
-[`AWXThreeDSWatingDeviceDataCollection`](/documentation/airwallex/awxthreedswatingdevicedatacollection)
+[`AWXThreeDSWatingDeviceDataCollection`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxthreedswatingdevicedatacollection.md)
 
-[`AWXWeChatPayKey`](/documentation/airwallex/awxwechatpaykey)
+[`AWXWeChatPayKey`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxwechatpaykey.md)
 
-[`AirwallexCoreVersionNumber`](/documentation/airwallex/airwallexcoreversionnumber)
+[`AirwallexCoreVersionNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexcoreversionnumber.md)
 
-[`AirwallexCoreVersionString`](/documentation/airwallex/airwallexcoreversionstring)
+[`AirwallexCoreVersionString`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexcoreversionstring.md)
 
-[`AirwallexWeChatPayVersionNumber`](/documentation/airwallex/airwallexwechatpayversionnumber)
+[`AirwallexWeChatPayVersionNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexwechatpayversionnumber.md)
 
-[`AirwallexWeChatPayVersionString`](/documentation/airwallex/airwallexwechatpayversionstring)
+[`AirwallexWeChatPayVersionString`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexwechatpayversionstring.md)
 
-[`PaymentVersionNumber`](/documentation/airwallex/paymentversionnumber)
+[`PaymentVersionNumber`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentversionnumber.md)
 
-[`PaymentVersionString`](/documentation/airwallex/paymentversionstring)
+[`PaymentVersionString`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentversionstring.md)
 
 ## Functions
 
-[`AWXApplePaySupportedNetworks()`](/documentation/airwallex/awxapplepaysupportednetworks())
+[`AWXApplePaySupportedNetworks()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapplepaysupportednetworks().md)
 
-[`ClassToHandleFlowForPaymentMethodType(_:)`](/documentation/airwallex/classtohandleflowforpaymentmethodtype(_:))
+[`ClassToHandleFlowForPaymentMethodType(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/classtohandleflowforpaymentmethodtype(_-).md)
 
-[`ClassToHandleNextActionForType(_:)`](/documentation/airwallex/classtohandlenextactionfortype(_:))
+[`ClassToHandleNextActionForType(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/classtohandlenextactionfortype(_-).md)
 
-[`FormatAirwallexSDKMode(_:)`](/documentation/airwallex/formatairwallexsdkmode(_:))
+[`FormatAirwallexSDKMode(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/formatairwallexsdkmode(_-).md)
 
-[`FormatMerchantTriggerReason(_:)`](/documentation/airwallex/formatmerchanttriggerreason(_:))
+[`FormatMerchantTriggerReason(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/formatmerchanttriggerreason(_-).md)
 
-[`FormatNextTriggerByType(_:)`](/documentation/airwallex/formatnexttriggerbytype(_:))
+[`FormatNextTriggerByType(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/formatnexttriggerbytype(_-).md)
 
-[`GetTextFieldTypeByUIType(_:)`](/documentation/airwallex/gettextfieldtypebyuitype(_:))
+[`GetTextFieldTypeByUIType(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/gettextfieldtypebyuitype(_-).md)
 
 ## Type Aliases
 
-[`AWXRequestHandler`](/documentation/airwallex/awxrequesthandler)
+[`AWXRequestHandler`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrequesthandler.md)
 
 ## Enumerations
 
-[`AWXBrandType`](/documentation/airwallex/awxbrandtype)
+[`AWXBrandType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxbrandtype.md)
 
-[`AWXFormType`](/documentation/airwallex/awxformtype)
+[`AWXFormType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype.md)
 
-[`AWXSDKErrorCode`](/documentation/airwallex/awxsdkerrorcode)
+[`AWXSDKErrorCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsdkerrorcode.md)
 
-[`AWXTextFieldType`](/documentation/airwallex/awxtextfieldtype)
+[`AWXTextFieldType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtextfieldtype.md)
 
-[`AirwallexMerchantTriggerReason`](/documentation/airwallex/airwallexmerchanttriggerreason)
+[`AirwallexMerchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexmerchanttriggerreason.md)
 
-[`AirwallexNextTriggerByType`](/documentation/airwallex/airwallexnexttriggerbytype)
+[`AirwallexNextTriggerByType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexnexttriggerbytype.md)
 
-[`AirwallexPaymentStatus`](/documentation/airwallex/airwallexpaymentstatus)
+[`AirwallexPaymentStatus`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexpaymentstatus.md)
 
-[`AirwallexSDKMode`](/documentation/airwallex/airwallexsdkmode)
+[`AirwallexSDKMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode.md)
 
-[`PaymentAmountType`](/documentation/airwallex/paymentamounttype)
+[`PaymentAmountType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/paymentamounttype.md)
 
-[`PeriodUnit`](/documentation/airwallex/periodunit)
+[`PeriodUnit`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/periodunit.md)
 
 ## Extended Modules
 
-[`CoreGraphics`](/documentation/airwallex/coregraphics)
+[`CoreGraphics`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/coregraphics.md)
 
-[`Foundation`](/documentation/airwallex/foundation)
+[`Foundation`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation.md)
 
-[`ObjectiveC`](/documentation/airwallex/objectivec)
+[`ObjectiveC`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/objectivec.md)
 
-[`PassKit`](/documentation/airwallex/passkit)
+[`PassKit`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/passkit.md)
 
-[`UIKit`](/documentation/airwallex/uikit)
+[`UIKit`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit.md)

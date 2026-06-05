@@ -27,32 +27,32 @@ enum LaunchError
 
 ## Enumeration Cases
 
-[`AWXUIContext.LaunchError.invalidCardBrand(_:)`](/documentation/airwallex/awxuicontext/launcherror/invalidcardbrand(_:))
+[`AWXUIContext.LaunchError.invalidCardBrand(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/invalidcardbrand(_-).md)
 
-[`AWXUIContext.LaunchError.invalidClientSecret(_:)`](/documentation/airwallex/awxuicontext/launcherror/invalidclientsecret(_:))
+[`AWXUIContext.LaunchError.invalidClientSecret(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/invalidclientsecret(_-).md)
 
-[`AWXUIContext.LaunchError.invalidMethodFilter(_:)`](/documentation/airwallex/awxuicontext/launcherror/invalidmethodfilter(_:))
+[`AWXUIContext.LaunchError.invalidMethodFilter(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/invalidmethodfilter(_-).md)
 
-[`AWXUIContext.LaunchError.invalidSession(underlyingError:)`](/documentation/airwallex/awxuicontext/launcherror/invalidsession(underlyingerror:))
+[`AWXUIContext.LaunchError.invalidSession(underlyingError:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/invalidsession(underlyingerror-).md)
 
-[`AWXUIContext.LaunchError.invalidViewHierarchy(_:)`](/documentation/airwallex/awxuicontext/launcherror/invalidviewhierarchy(_:))
+[`AWXUIContext.LaunchError.invalidViewHierarchy(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/invalidviewhierarchy(_-).md)
 
 ## Instance Properties
 
-[`errorUserInfo`](/documentation/airwallex/awxuicontext/launcherror/erroruserinfo)
+[`errorUserInfo`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/erroruserinfo.md)
 
-[`eventName`](/documentation/airwallex/awxuicontext/launcherror/eventname)
+[`eventName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/eventname.md)
 
-[`eventType`](/documentation/airwallex/awxuicontext/launcherror/eventtype)
+[`eventType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/eventtype.md)
 
 ## Type Properties
 
-[`errorDomain`](/documentation/airwallex/awxuicontext/launcherror/errordomain)
+[`errorDomain`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/errordomain.md)
 
 ## Default Implementations
 
-[`CustomNSError Implementations`](/documentation/airwallex/awxuicontext/launcherror/customnserror-implementations)
+[`CustomNSError Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/customnserror-implementations.md)
 
-[`Error Implementations`](/documentation/airwallex/awxuicontext/launcherror/error-implementations)
+[`Error Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/error-implementations.md)
 
-[`LocalizedError Implementations`](/documentation/airwallex/awxuicontext/launcherror/localizederror-implementations)
+[`LocalizedError Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/launcherror/localizederror-implementations.md)

@@ -34,10 +34,10 @@ providing payment lifecycle notifications with method information.
 
 ## Instance Methods
 
-[`paymentElement(_:didCompleteFor:with:error:)`](/documentation/airwallex/awxpaymentelementdelegate/paymentelement(_:didcompletefor:with:error:))
+[`paymentElement(_:didCompleteFor:with:error:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementdelegate/paymentelement(_-didcompletefor-with-error-).md)
 
-[`paymentElement(_:didCompleteFor:withPaymentConsentId:)`](/documentation/airwallex/awxpaymentelementdelegate/paymentelement(_:didcompletefor:withpaymentconsentid:))
+[`paymentElement(_:didCompleteFor:withPaymentConsentId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementdelegate/paymentelement(_-didcompletefor-withpaymentconsentid-).md)
 
-[`paymentElement(_:onProcessingStateChangedFor:isProcessing:)`](/documentation/airwallex/awxpaymentelementdelegate/paymentelement(_:onprocessingstatechangedfor:isprocessing:))
+[`paymentElement(_:onProcessingStateChangedFor:isProcessing:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementdelegate/paymentelement(_-onprocessingstatechangedfor-isprocessing-).md)
 
-[`paymentElement(_:validationFailedFor:invalidInputView:)`](/documentation/airwallex/awxpaymentelementdelegate/paymentelement(_:validationfailedfor:invalidinputview:))
+[`paymentElement(_:validationFailedFor:invalidInputView:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementdelegate/paymentelement(_-validationfailedfor-invalidinputview-).md)

@@ -27,4 +27,4 @@ struct Palette
 
 ## Enumerations
 
-[`Palette.SemanticColor`](/documentation/airwallex/palette/semanticcolor)
+[`Palette.SemanticColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/palette/semanticcolor.md)

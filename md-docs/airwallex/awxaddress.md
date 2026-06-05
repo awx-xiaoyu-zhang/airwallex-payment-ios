@@ -29,14 +29,14 @@ class AWXAddress
 
 ## Instance Properties
 
-[`city`](/documentation/airwallex/awxaddress/city)
+[`city`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/city.md)
 
-[`countryCode`](/documentation/airwallex/awxaddress/countrycode)
+[`countryCode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/countrycode.md)
 
-[`isComplete`](/documentation/airwallex/awxaddress/iscomplete)
+[`isComplete`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/iscomplete.md)
 
-[`postcode`](/documentation/airwallex/awxaddress/postcode)
+[`postcode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/postcode.md)
 
-[`state`](/documentation/airwallex/awxaddress/state)
+[`state`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/state.md)
 
-[`street`](/documentation/airwallex/awxaddress/street)
+[`street`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxaddress/street.md)

@@ -29,32 +29,32 @@ class AWXTheme
 
 ## Instance Properties
 
-[`tintColor`](/documentation/airwallex/awxtheme/tintcolor)
+[`tintColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/tintcolor.md)
 
 ## Instance Methods
 
-[`disabledButtonColor()`](/documentation/airwallex/awxtheme/disabledbuttoncolor())
+[`disabledButtonColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/disabledbuttoncolor().md)
 
-[`errorColor()`](/documentation/airwallex/awxtheme/errorcolor())
+[`errorColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/errorcolor().md)
 
-[`glyphColor()`](/documentation/airwallex/awxtheme/glyphcolor())
+[`glyphColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/glyphcolor().md)
 
-[`lineColor()`](/documentation/airwallex/awxtheme/linecolor())
+[`lineColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/linecolor().md)
 
-[`primaryBackgroundColor()`](/documentation/airwallex/awxtheme/primarybackgroundcolor())
+[`primaryBackgroundColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/primarybackgroundcolor().md)
 
-[`primaryButtonTextColor()`](/documentation/airwallex/awxtheme/primarybuttontextcolor())
+[`primaryButtonTextColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/primarybuttontextcolor().md)
 
-[`primaryTextColor()`](/documentation/airwallex/awxtheme/primarytextcolor())
+[`primaryTextColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/primarytextcolor().md)
 
-[`secondaryTextColor()`](/documentation/airwallex/awxtheme/secondarytextcolor())
+[`secondaryTextColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/secondarytextcolor().md)
 
-[`shadowColor()`](/documentation/airwallex/awxtheme/shadowcolor())
+[`shadowColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/shadowcolor().md)
 
-[`surfaceBackgroundColor()`](/documentation/airwallex/awxtheme/surfacebackgroundcolor())
+[`surfaceBackgroundColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/surfacebackgroundcolor().md)
 
-[`toolbarColor()`](/documentation/airwallex/awxtheme/toolbarcolor())
+[`toolbarColor()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/toolbarcolor().md)
 
 ## Type Methods
 
-[`shared()`](/documentation/airwallex/awxtheme/shared())
+[`shared()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxtheme/shared().md)

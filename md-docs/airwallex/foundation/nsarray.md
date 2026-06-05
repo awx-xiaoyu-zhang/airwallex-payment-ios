@@ -28,4 +28,4 @@ extension NSArray
 
 ## Instance Methods
 
-[`mapObjects(_:)`](/documentation/airwallex/foundation/nsarray/mapobjects(_:))
+[`mapObjects(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsarray/mapobjects(_-).md)

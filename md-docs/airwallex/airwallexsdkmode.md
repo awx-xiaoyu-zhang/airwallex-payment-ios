@@ -27,20 +27,20 @@
 
 ## Enumeration Cases
 
-[`AirwallexSDKMode.demoMode`](/documentation/airwallex/airwallexsdkmode/demomode)
+[`AirwallexSDKMode.demoMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/demomode.md)
 
-[`AirwallexSDKMode.previewMode`](/documentation/airwallex/airwallexsdkmode/previewmode)
+[`AirwallexSDKMode.previewMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/previewmode.md)
 
-[`AirwallexSDKMode.productionMode`](/documentation/airwallex/airwallexsdkmode/productionmode)
+[`AirwallexSDKMode.productionMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/productionmode.md)
 
-[`AirwallexSDKMode.stagingMode`](/documentation/airwallex/airwallexsdkmode/stagingmode)
+[`AirwallexSDKMode.stagingMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/stagingmode.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/airwallexsdkmode/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/airwallexsdkmode/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/airwallexsdkmode/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallexsdkmode/rawrepresentable-implementations.md)

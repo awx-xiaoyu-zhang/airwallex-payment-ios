@@ -25,8 +25,8 @@ Appearance configuration for customizing the visual style.
 
 ## Instance Properties
 
-[`tintColor`](/documentation/airwallex/awxpaymentelementappearance/tintcolor)
+[`tintColor`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementappearance/tintcolor.md)
 
 ## Instance Methods
 
-[`init`](/documentation/airwallex/awxpaymentelementappearance/init)
+[`init`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentelementappearance/init.md)

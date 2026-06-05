@@ -29,6 +29,6 @@ class AWXFieldValidation
 
 ## Instance Properties
 
-[`max`](/documentation/airwallex/awxfieldvalidation/max)
+[`max`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfieldvalidation/max.md)
 
-[`regex`](/documentation/airwallex/awxfieldvalidation/regex)
+[`regex`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxfieldvalidation/regex.md)

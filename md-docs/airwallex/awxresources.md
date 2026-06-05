@@ -29,6 +29,6 @@ class AWXResources
 
 ## Instance Properties
 
-[`hasSchema`](/documentation/airwallex/awxresources/hasschema)
+[`hasSchema`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresources/hasschema.md)
 
-[`logoURL`](/documentation/airwallex/awxresources/logourl)
+[`logoURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxresources/logourl.md)

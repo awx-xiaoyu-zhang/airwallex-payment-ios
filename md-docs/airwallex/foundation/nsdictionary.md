@@ -28,4 +28,4 @@ extension NSDictionary
 
 ## Instance Methods
 
-[`queryURLEncoding()`](/documentation/airwallex/foundation/nsdictionary/queryurlencoding())
+[`queryURLEncoding()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/foundation/nsdictionary/queryurlencoding().md)

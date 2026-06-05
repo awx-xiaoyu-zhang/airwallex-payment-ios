@@ -29,4 +29,4 @@ class AWXGetPaResResponse
 
 ## Instance Properties
 
-[`paRes`](/documentation/airwallex/awxgetparesresponse/pares)
+[`paRes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetparesresponse/pares.md)

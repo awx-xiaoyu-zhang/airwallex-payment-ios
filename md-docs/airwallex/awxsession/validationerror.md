@@ -27,28 +27,28 @@ enum ValidationError
 
 ## Enumeration Cases
 
-[`AWXSession.ValidationError.invalidAmount(_:)`](/documentation/airwallex/awxsession/validationerror/invalidamount(_:))
+[`AWXSession.ValidationError.invalidAmount(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/invalidamount(_-).md)
 
-[`AWXSession.ValidationError.invalidCustomerId(_:)`](/documentation/airwallex/awxsession/validationerror/invalidcustomerid(_:))
+[`AWXSession.ValidationError.invalidCustomerId(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/invalidcustomerid(_-).md)
 
-[`AWXSession.ValidationError.invalidData(_:)`](/documentation/airwallex/awxsession/validationerror/invaliddata(_:))
+[`AWXSession.ValidationError.invalidData(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/invaliddata(_-).md)
 
-[`AWXSession.ValidationError.invalidPaymentIntent(_:)`](/documentation/airwallex/awxsession/validationerror/invalidpaymentintent(_:))
+[`AWXSession.ValidationError.invalidPaymentIntent(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/invalidpaymentintent(_-).md)
 
-[`AWXSession.ValidationError.invalidSessionType(_:)`](/documentation/airwallex/awxsession/validationerror/invalidsessiontype(_:))
+[`AWXSession.ValidationError.invalidSessionType(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/invalidsessiontype(_-).md)
 
 ## Instance Properties
 
-[`errorUserInfo`](/documentation/airwallex/awxsession/validationerror/erroruserinfo)
+[`errorUserInfo`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/erroruserinfo.md)
 
 ## Type Properties
 
-[`errorDomain`](/documentation/airwallex/awxsession/validationerror/errordomain)
+[`errorDomain`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/errordomain.md)
 
 ## Default Implementations
 
-[`CustomNSError Implementations`](/documentation/airwallex/awxsession/validationerror/customnserror-implementations)
+[`CustomNSError Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/customnserror-implementations.md)
 
-[`Error Implementations`](/documentation/airwallex/awxsession/validationerror/error-implementations)
+[`Error Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/error-implementations.md)
 
-[`LocalizedError Implementations`](/documentation/airwallex/awxsession/validationerror/localizederror-implementations)
+[`LocalizedError Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxsession/validationerror/localizederror-implementations.md)

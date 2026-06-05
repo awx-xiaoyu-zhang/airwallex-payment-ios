@@ -29,10 +29,10 @@ class AWXGetPaymentMethodTypeRequest
 
 ## Instance Properties
 
-[`flow`](/documentation/airwallex/awxgetpaymentmethodtyperequest/flow)
+[`flow`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperequest/flow.md)
 
-[`lang`](/documentation/airwallex/awxgetpaymentmethodtyperequest/lang)
+[`lang`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperequest/lang.md)
 
-[`name`](/documentation/airwallex/awxgetpaymentmethodtyperequest/name)
+[`name`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperequest/name.md)
 
-[`transactionMode`](/documentation/airwallex/awxgetpaymentmethodtyperequest/transactionmode)
+[`transactionMode`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxgetpaymentmethodtyperequest/transactionmode.md)

@@ -29,14 +29,14 @@ class AWXAPIClientConfiguration
 
 ## Instance Properties
 
-[`accountID`](/documentation/airwallex/awxapiclientconfiguration/accountid)
+[`accountID`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration/accountid.md)
 
-[`baseURL`](/documentation/airwallex/awxapiclientconfiguration/baseurl)
+[`baseURL`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration/baseurl.md)
 
-[`clientSecret`](/documentation/airwallex/awxapiclientconfiguration/clientsecret)
+[`clientSecret`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration/clientsecret.md)
 
-[`sessionConfiguration`](/documentation/airwallex/awxapiclientconfiguration/sessionconfiguration)
+[`sessionConfiguration`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration/sessionconfiguration.md)
 
 ## Type Methods
 
-[`shared()`](/documentation/airwallex/awxapiclientconfiguration/shared())
+[`shared()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxapiclientconfiguration/shared().md)

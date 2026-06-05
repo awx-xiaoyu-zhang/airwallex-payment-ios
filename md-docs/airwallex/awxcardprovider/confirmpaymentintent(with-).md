@@ -23,10 +23,6 @@
 
 Confirm the payment intent with payment consent
 
-## Deprecated
-
-Will be removed in next major version release, use AirwallexPayment.CardProvider instead
-
 ```
 func confirmPaymentIntent(with paymentConsent: AWXPaymentConsent)
 ```

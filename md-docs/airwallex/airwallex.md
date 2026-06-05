@@ -29,22 +29,22 @@ class Airwallex
 
 ## Type Methods
 
-[`analyticsEnabled()`](/documentation/airwallex/airwallex/analyticsenabled())
+[`analyticsEnabled()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/analyticsenabled().md)
 
-[`defaultBaseURL()`](/documentation/airwallex/airwallex/defaultbaseurl())
+[`defaultBaseURL()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/defaultbaseurl().md)
 
-[`disableAnalytics()`](/documentation/airwallex/airwallex/disableanalytics())
+[`disableAnalytics()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/disableanalytics().md)
 
-[`disableLocalLogFile()`](/documentation/airwallex/airwallex/disablelocallogfile())
+[`disableLocalLogFile()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/disablelocallogfile().md)
 
-[`enableAnalytics()`](/documentation/airwallex/airwallex/enableanalytics())
+[`enableAnalytics()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/enableanalytics().md)
 
-[`enableLocalLogFile()`](/documentation/airwallex/airwallex/enablelocallogfile())
+[`enableLocalLogFile()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/enablelocallogfile().md)
 
-[`isLocalLogFileEnabled()`](/documentation/airwallex/airwallex/islocallogfileenabled())
+[`isLocalLogFileEnabled()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/islocallogfileenabled().md)
 
-[`mode()`](/documentation/airwallex/airwallex/mode())
+[`mode()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/mode().md)
 
-[`setDefaultBaseURL(_:)`](/documentation/airwallex/airwallex/setdefaultbaseurl(_:))
+[`setDefaultBaseURL(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/setdefaultbaseurl(_-).md)
 
-[`setMode(_:)`](/documentation/airwallex/airwallex/setmode(_:))
+[`setMode(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/airwallex/setmode(_-).md)

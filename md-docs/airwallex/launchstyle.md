@@ -23,6 +23,6 @@
 
 ## Enumeration Cases
 
-[`LaunchStylePresent`](/documentation/airwallex/launchstyle/launchstylepresent)
+[`LaunchStylePresent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/launchstyle/launchstylepresent.md)
 
-[`LaunchStylePush`](/documentation/airwallex/launchstyle/launchstylepush)
+[`LaunchStylePush`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/launchstyle/launchstylepush.md)

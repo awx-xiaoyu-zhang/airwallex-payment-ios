@@ -28,24 +28,24 @@ extension UIFont
 
 ## Type Methods
 
-[`awxFont(_:weight:)`](/documentation/airwallex/uikit/uifont/awxfont(_:weight:))
+[`awxFont(_:weight:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/awxfont(_-weight-).md)
 
-[`body()`](/documentation/airwallex/uikit/uifont/body())
+[`body()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/body().md)
 
-[`body2()`](/documentation/airwallex/uikit/uifont/body2())
+[`body2()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/body2().md)
 
-[`caption1()`](/documentation/airwallex/uikit/uifont/caption1())
+[`caption1()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/caption1().md)
 
-[`caption2()`](/documentation/airwallex/uikit/uifont/caption2())
+[`caption2()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/caption2().md)
 
-[`headline()`](/documentation/airwallex/uikit/uifont/headline())
+[`headline()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/headline().md)
 
-[`subhead1()`](/documentation/airwallex/uikit/uifont/subhead1())
+[`subhead1()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/subhead1().md)
 
-[`subhead2()`](/documentation/airwallex/uikit/uifont/subhead2())
+[`subhead2()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/subhead2().md)
 
-[`title()`](/documentation/airwallex/uikit/uifont/title())
+[`title()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/title().md)
 
 ## Enumerations
 
-[`UIFont.AWXFont`](/documentation/airwallex/uikit/uifont/awxfont)
+[`UIFont.AWXFont`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/uikit/uifont/awxfont.md)

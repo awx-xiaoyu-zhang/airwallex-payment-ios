@@ -27,18 +27,18 @@
 
 ## Enumeration Cases
 
-[`AWXFormType.button`](/documentation/airwallex/awxformtype/button)
+[`AWXFormType.button`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/button.md)
 
-[`AWXFormType.listCell`](/documentation/airwallex/awxformtype/listcell)
+[`AWXFormType.listCell`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/listcell.md)
 
-[`AWXFormType.text`](/documentation/airwallex/awxformtype/text)
+[`AWXFormType.text`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/text.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxformtype/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/init(rawvalue-).md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxformtype/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxformtype/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxformtype/rawrepresentable-implementations.md)

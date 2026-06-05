@@ -33,24 +33,24 @@ class AWXRecurringSession
 
 ## Instance Properties
 
-[`merchantTriggerReason`](/documentation/airwallex/awxrecurringsession/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/merchanttriggerreason.md)
 
-[`nextTriggerByType`](/documentation/airwallex/awxrecurringsession/nexttriggerbytype)
+[`nextTriggerByType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/nexttriggerbytype.md)
 
 ## Instance Methods
 
-[`amount()`](/documentation/airwallex/awxrecurringsession/amount())
+[`amount()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/amount().md)
 
-[`currency()`](/documentation/airwallex/awxrecurringsession/currency())
+[`currency()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/currency().md)
 
-[`customerId()`](/documentation/airwallex/awxrecurringsession/customerid())
+[`customerId()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/customerid().md)
 
-[`requiresCVC()`](/documentation/airwallex/awxrecurringsession/requirescvc())
+[`requiresCVC()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/requirescvc().md)
 
-[`setAmount(_:)`](/documentation/airwallex/awxrecurringsession/setamount(_:))
+[`setAmount(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/setamount(_-).md)
 
-[`setCurrency(_:)`](/documentation/airwallex/awxrecurringsession/setcurrency(_:))
+[`setCurrency(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/setcurrency(_-).md)
 
-[`setCustomerId(_:)`](/documentation/airwallex/awxrecurringsession/setcustomerid(_:))
+[`setCustomerId(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/setcustomerid(_-).md)
 
-[`setRequiresCVC(_:)`](/documentation/airwallex/awxrecurringsession/setrequirescvc(_:))
+[`setRequiresCVC(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringsession/setrequirescvc(_-).md)

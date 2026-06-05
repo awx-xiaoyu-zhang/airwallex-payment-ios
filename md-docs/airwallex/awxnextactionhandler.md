@@ -27,12 +27,12 @@ class AWXNextActionHandler
 
 ## Initializers
 
-[`init(delegate:session:)`](/documentation/airwallex/awxnextactionhandler/init(delegate:session:))
+[`init(delegate:session:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxnextactionhandler/init(delegate-session-).md)
 
 ## Instance Properties
 
-[`paymentConsent`](/documentation/airwallex/awxnextactionhandler/paymentconsent)
+[`paymentConsent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxnextactionhandler/paymentconsent.md)
 
 ## Instance Methods
 
-[`handle(_:)`](/documentation/airwallex/awxnextactionhandler/handle(_:))
+[`handle(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxnextactionhandler/handle(_-).md)

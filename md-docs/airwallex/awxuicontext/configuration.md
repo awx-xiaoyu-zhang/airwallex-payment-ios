@@ -33,18 +33,18 @@ Use this class to customize the payment flow launched by `AWXUIContext`.
 
 ## Instance Properties
 
-[`appearance`](/documentation/airwallex/awxuicontext/configuration/appearance)
+[`appearance`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/appearance.md)
 
-[`applePayButton`](/documentation/airwallex/awxuicontext/configuration/applepaybutton)
+[`applePayButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/applepaybutton.md)
 
-[`checkoutButton`](/documentation/airwallex/awxuicontext/configuration/checkoutbutton)
+[`checkoutButton`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/checkoutbutton.md)
 
-[`elementType`](/documentation/airwallex/awxuicontext/configuration/elementtype)
+[`elementType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/elementtype.md)
 
-[`launchStyle`](/documentation/airwallex/awxuicontext/configuration/launchstyle)
+[`launchStyle`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/launchstyle.md)
 
-[`layout`](/documentation/airwallex/awxuicontext/configuration/layout)
+[`layout`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/layout.md)
 
-[`paymentMethodName`](/documentation/airwallex/awxuicontext/configuration/paymentmethodname)
+[`paymentMethodName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/paymentmethodname.md)
 
-[`supportedCardBrands`](/documentation/airwallex/awxuicontext/configuration/supportedcardbrands)
+[`supportedCardBrands`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/configuration/supportedcardbrands.md)

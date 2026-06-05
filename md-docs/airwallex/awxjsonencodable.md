@@ -27,4 +27,4 @@ protocol AWXJSONEncodable : NSObjectProtocol
 
 ## Instance Methods
 
-[`encodeToJSON()`](/documentation/airwallex/awxjsonencodable/encodetojson())
+[`encodeToJSON()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxjsonencodable/encodetojson().md)

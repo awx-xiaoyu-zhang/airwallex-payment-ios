@@ -25,8 +25,8 @@ The type of payment flow to display.
 
 ## Enumeration Cases
 
-[`AWXUIContextElementTypeAddCard`](/documentation/airwallex/awxuicontextelementtype/awxuicontextelementtypeaddcard)
+[`AWXUIContextElementTypeAddCard`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextelementtype/awxuicontextelementtypeaddcard.md)
 
-[`AWXUIContextElementTypeComponent`](/documentation/airwallex/awxuicontextelementtype/awxuicontextelementtypecomponent)
+[`AWXUIContextElementTypeComponent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextelementtype/awxuicontextelementtypecomponent.md)
 
-[`AWXUIContextElementTypePaymentSheet`](/documentation/airwallex/awxuicontextelementtype/awxuicontextelementtypepaymentsheet)
+[`AWXUIContextElementTypePaymentSheet`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontextelementtype/awxuicontextelementtypepaymentsheet.md)

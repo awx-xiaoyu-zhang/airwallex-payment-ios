@@ -29,20 +29,20 @@ Defines the layout style for payment method selection.
 
 ## Enumeration Cases
 
-[`AWXUIContext.PaymentLayout.accordion`](/documentation/airwallex/awxuicontext/paymentlayout/accordion)
+[`AWXUIContext.PaymentLayout.accordion`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/accordion.md)
 
-[`AWXUIContext.PaymentLayout.tab`](/documentation/airwallex/awxuicontext/paymentlayout/tab)
+[`AWXUIContext.PaymentLayout.tab`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/tab.md)
 
 ## Initializers
 
-[`init(rawValue:)`](/documentation/airwallex/awxuicontext/paymentlayout/init(rawvalue:))
+[`init(rawValue:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/init(rawvalue-).md)
 
 ## Instance Properties
 
-[`displayName`](/documentation/airwallex/awxuicontext/paymentlayout/displayname)
+[`displayName`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/displayname.md)
 
 ## Default Implementations
 
-[`Equatable Implementations`](/documentation/airwallex/awxuicontext/paymentlayout/equatable-implementations)
+[`Equatable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/equatable-implementations.md)
 
-[`RawRepresentable Implementations`](/documentation/airwallex/awxuicontext/paymentlayout/rawrepresentable-implementations)
+[`RawRepresentable Implementations`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxuicontext/paymentlayout/rawrepresentable-implementations.md)

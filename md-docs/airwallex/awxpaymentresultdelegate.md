@@ -27,6 +27,6 @@ protocol AWXPaymentResultDelegate : NSObjectProtocol
 
 ## Instance Methods
 
-[`paymentViewController(_:didCompleteWith:error:)`](/documentation/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_:didcompletewith:error:))
+[`paymentViewController(_:didCompleteWith:error:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_-didcompletewith-error-).md)
 
-[`paymentViewController(_:didCompleteWithPaymentConsentId:)`](/documentation/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_:didcompletewithpaymentconsentid:))
+[`paymentViewController(_:didCompleteWithPaymentConsentId:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxpaymentresultdelegate/paymentviewcontroller(_-didcompletewithpaymentconsentid-).md)

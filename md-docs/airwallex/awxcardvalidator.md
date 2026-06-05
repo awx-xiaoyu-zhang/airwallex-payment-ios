@@ -29,24 +29,24 @@ class AWXCardValidator
 
 ## Instance Properties
 
-[`supportedSchemes`](/documentation/airwallex/awxcardvalidator/supportedschemes)
+[`supportedSchemes`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/supportedschemes.md)
 
 ## Instance Methods
 
-[`brand(forCardName:)`](/documentation/airwallex/awxcardvalidator/brand(forcardname:))
+[`brand(forCardName:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/brand(forcardname-).md)
 
-[`brand(forCardNumber:)`](/documentation/airwallex/awxcardvalidator/brand(forcardnumber:))
+[`brand(forCardNumber:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/brand(forcardnumber-).md)
 
-[`isValidCardLength(_:)`](/documentation/airwallex/awxcardvalidator/isvalidcardlength(_:))
+[`isValidCardLength(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/isvalidcardlength(_-).md)
 
-[`maxLength(forCardNumber:)`](/documentation/airwallex/awxcardvalidator/maxlength(forcardnumber:))
+[`maxLength(forCardNumber:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/maxlength(forcardnumber-).md)
 
-[`possibleBrandTypes(forCardNumber:)`](/documentation/airwallex/awxcardvalidator/possiblebrandtypes(forcardnumber:))
+[`possibleBrandTypes(forCardNumber:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/possiblebrandtypes(forcardnumber-).md)
 
 ## Type Methods
 
-[`cardNumberFormat(for:)`](/documentation/airwallex/awxcardvalidator/cardnumberformat(for:))
+[`cardNumberFormat(for:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/cardnumberformat(for-).md)
 
-[`cvcLength(for:)`](/documentation/airwallex/awxcardvalidator/cvclength(for:))
+[`cvcLength(for:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/cvclength(for-).md)
 
-[`shared()`](/documentation/airwallex/awxcardvalidator/shared())
+[`shared()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcardvalidator/shared().md)

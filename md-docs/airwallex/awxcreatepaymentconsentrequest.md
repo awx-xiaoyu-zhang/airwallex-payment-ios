@@ -29,14 +29,14 @@ class AWXCreatePaymentConsentRequest
 
 ## Instance Properties
 
-[`currency`](/documentation/airwallex/awxcreatepaymentconsentrequest/currency)
+[`currency`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/currency.md)
 
-[`customerId`](/documentation/airwallex/awxcreatepaymentconsentrequest/customerid)
+[`customerId`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/customerid.md)
 
-[`merchantTriggerReason`](/documentation/airwallex/awxcreatepaymentconsentrequest/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/merchanttriggerreason.md)
 
-[`nextTriggerByType`](/documentation/airwallex/awxcreatepaymentconsentrequest/nexttriggerbytype)
+[`nextTriggerByType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/nexttriggerbytype.md)
 
-[`paymentMethod`](/documentation/airwallex/awxcreatepaymentconsentrequest/paymentmethod)
+[`paymentMethod`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/paymentmethod.md)
 
-[`requiresCVC`](/documentation/airwallex/awxcreatepaymentconsentrequest/requirescvc)
+[`requiresCVC`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxcreatepaymentconsentrequest/requirescvc.md)

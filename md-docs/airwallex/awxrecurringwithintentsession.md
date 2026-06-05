@@ -33,16 +33,16 @@ class AWXRecurringWithIntentSession
 
 ## Instance Properties
 
-[`autoCapture`](/documentation/airwallex/awxrecurringwithintentsession/autocapture)
+[`autoCapture`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/autocapture.md)
 
-[`merchantTriggerReason`](/documentation/airwallex/awxrecurringwithintentsession/merchanttriggerreason)
+[`merchantTriggerReason`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/merchanttriggerreason.md)
 
-[`nextTriggerByType`](/documentation/airwallex/awxrecurringwithintentsession/nexttriggerbytype)
+[`nextTriggerByType`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/nexttriggerbytype.md)
 
-[`paymentIntent`](/documentation/airwallex/awxrecurringwithintentsession/paymentintent)
+[`paymentIntent`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/paymentintent.md)
 
 ## Instance Methods
 
-[`requiresCVC()`](/documentation/airwallex/awxrecurringwithintentsession/requirescvc())
+[`requiresCVC()`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/requirescvc().md)
 
-[`setRequiresCVC(_:)`](/documentation/airwallex/awxrecurringwithintentsession/setrequirescvc(_:))
+[`setRequiresCVC(_:)`](https://github.com/awx-xiaoyu-zhang/airwallex-payment-ios/blob/md-doc/md-docs/airwallex/awxrecurringwithintentsession/setrequirescvc(_-).md)
